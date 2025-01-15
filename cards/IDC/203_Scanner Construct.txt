@@ -1,0 +1,1 @@
+﻿Scanner Construct		common	Artifact Creature – Construct 	203	C	1	When Scanner Construct dies, scry 1.	1/1		normal	IDC		

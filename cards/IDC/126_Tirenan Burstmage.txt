@@ -1,0 +1,1 @@
+﻿Tirenan Burstmage	R	rare	Creature – Human Warrior 	126	R	1R	Whenever Tirenan Burstmage deals combat damage to a player, each other opponent may have it deal that much damage to a creature they control. If they don’t, it deals that much damage to them.	2/1		normal	IDC		RW

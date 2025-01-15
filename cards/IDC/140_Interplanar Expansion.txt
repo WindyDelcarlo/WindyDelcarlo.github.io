@@ -1,0 +1,1 @@
+﻿Interplanar Expansion	G	uncommon	Enchantment – Aura 	140	G	1G	Enchant landNEWLINEWhen Interplanar Expansion enters the battlefield, draw a card.NEWLINEWhenever enchanted land is tapped for mana, its controller adds G.			normal	IDC		

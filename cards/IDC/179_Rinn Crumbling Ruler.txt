@@ -1,0 +1,1 @@
+﻿Rinn, Crumbling Ruler	WB	mythic	Legendary Creature – Human Soldier 	179	WB	WB	When Rinn, Crumbling Ruler enters the battlefield, create a 1/1 white Elemental creature token for each player that controls more creatures than you.NEWLINEWhen Rinn, Crumbling Ruler dies, each opponent loses X life and you gain X life, where X is the number of creatures you control.	2/2		normal	IDC		

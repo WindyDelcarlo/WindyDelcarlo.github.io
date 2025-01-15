@@ -1,0 +1,1 @@
+﻿Aether Exhaustion	B	common	Instant	66	B	4B	Aether Exhaustion deals 3 damage to target creature and you gain 3 life. When that creature dies this turn, its controller loses 3 life.			normal	IDC		B

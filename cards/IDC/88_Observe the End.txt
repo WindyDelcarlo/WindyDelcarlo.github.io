@@ -1,0 +1,1 @@
+﻿Observe the End	B	common	Sorcery	88	B	B	You draw a card and you lose 1 life. If a creature died this turn, instead you draw two cards and lose 2 life.			normal	IDC		UB

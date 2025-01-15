@@ -1,0 +1,1 @@
+﻿Elemental Couriers	R	rare	Enchantment	104	R	R	When Elemental Couriers enters the battlefield, create a 1/1 red Elemental creature token with haste.NEWLINEWhenever a player activates an ability that isn’t a mana ability, create a 1/1 red Elemental creature token with haste. If an opponent activated that ability, they do the same.			normal	IDC		UR

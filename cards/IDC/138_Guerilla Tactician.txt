@@ -1,0 +1,1 @@
+﻿Guerilla Tactician	G	uncommon	Creature – Human Warrior 	138	G	2GG	Whenever a creature you control becomes blocked, it gets +1/+1 until end of turn.	3/3		normal	IDC		GU

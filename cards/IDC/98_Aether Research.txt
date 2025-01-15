@@ -1,0 +1,1 @@
+﻿Aether Research	R	common	Sorcery	98	R	2R	As an additional cost to cast Aether Research, discard a card.NEWLINEDraw two cards. Aether Research deals 2 damage to target player.			normal	IDC		UR

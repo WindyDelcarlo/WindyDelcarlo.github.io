@@ -1,0 +1,1 @@
+﻿Telltale	W	uncommon	Creature – Human Cleric 	26	W	1W	T, Tap an untapped creature you control: Another target creature gets +2/+2 until end of turn.	1/1		normal	IDC		

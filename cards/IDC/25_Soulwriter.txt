@@ -1,0 +1,1 @@
+﻿Soulwriter	W	common	Creature – Human Cleric 	25	W	2W	When Soulwriter enters the battlefield, create a 1/1 white Elemental creature token and you gain 2 life.	2/1		normal	IDC		WB

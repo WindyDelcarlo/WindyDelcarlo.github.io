@@ -1,0 +1,1 @@
+﻿Urban Scavenger	R	uncommon	Creature – Human Scout 	127	R	1R	HasteNEWLINEAt the beginning of your upkeep, discard a card. If you do, draw a card.	1/3		normal	IDC		

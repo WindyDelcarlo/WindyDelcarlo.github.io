@@ -1,0 +1,1 @@
+﻿Underground Assistance	B	uncommon	Sorcery	94	B	4BB	Cooperation (Any player may spend mana to pay for 4.)NEWLINEExile target creature and each creature with the same name as that creature. Each player who controlled a creature exiled this way loses 2 life.			normal	IDC		

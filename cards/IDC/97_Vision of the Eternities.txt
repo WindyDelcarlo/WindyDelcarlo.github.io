@@ -1,0 +1,1 @@
+﻿Vision of the Eternities	B	rare	Sorcery	97	B	X1B	Search your library for a card converted mana cost X or less, reveal it, put it into your hand, then shuffle your library.			normal	IDC		

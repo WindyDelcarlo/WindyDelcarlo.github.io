@@ -1,0 +1,1 @@
+﻿Aether Wisp	B	common	Creature – Elemental 	67	B	3B	When Aether Wisp dies, target opponent loses 3 life and you gain 3 life.	3/3		normal	IDC		UB

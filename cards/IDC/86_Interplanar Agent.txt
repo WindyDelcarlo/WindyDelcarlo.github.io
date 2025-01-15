@@ -1,0 +1,1 @@
+﻿Interplanar Agent	B	uncommon	Creature – Human Soldier 	86	B	1B	Interplanar Agent gets +1/+1 for each enchantment on the battlefield.	1/1		normal	IDC		WB

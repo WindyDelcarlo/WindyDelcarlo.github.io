@@ -1,0 +1,1 @@
+﻿Neutral Ground		uncommon	Land	209	C		Neutral Ground enters the battlefield tapped.NEWLINEAs Neutral Ground enters the battlefield, starting with you, each player chooses a color.NEWLINET: Add one mana of one of the chosen colors.			normal	IDC		

@@ -1,0 +1,1 @@
+﻿Thoughtrender	B	uncommon	Creature – Elemental 	93	B	2B	At the beginning of your upkeep, you may sacrifice Thoughtrender. If you do, each opponent sacrifices a creature and discards a card.	2/2		normal	IDC		BR

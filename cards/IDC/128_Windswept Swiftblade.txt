@@ -1,0 +1,1 @@
+﻿Windswept Swiftblade	R	common	Creature – Human Warrior 	128	R	R	MenaceNEWLINEWhenever Windswept Swiftblade attacks, it gets +1/+0 until end of turn.	1/1		normal	IDC		RW

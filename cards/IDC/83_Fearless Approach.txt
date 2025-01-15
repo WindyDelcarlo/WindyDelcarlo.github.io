@@ -1,0 +1,1 @@
+﻿Fearless Approach	B	common	Instant	83	B	1B	Target creature gets +1/+0 and gains menace until end of turn. When that creature deals damage to an opponent or creature this turn, you gain that much life.			normal	IDC		B

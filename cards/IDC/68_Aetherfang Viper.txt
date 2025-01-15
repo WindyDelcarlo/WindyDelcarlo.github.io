@@ -1,0 +1,1 @@
+﻿Aetherfang Viper	B	common	Creature – Snake 	68	B	3B	DeathtouchNEWLINEWhenever another creature dies, put a +1/+1 counter on Aetherfang Viper.	2/3		normal	IDC		

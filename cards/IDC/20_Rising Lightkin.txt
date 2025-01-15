@@ -1,0 +1,1 @@
+﻿Rising Lightkin	W	common	Sorcery	20	W	W	Whenever a nontoken creature enters the battlefield this turn, create a 1/1 white Elemental creature token.			normal	IDC		WU

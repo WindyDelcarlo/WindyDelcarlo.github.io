@@ -1,0 +1,1 @@
+﻿Path of the Warrior	G	common	Enchantment – Aura 	149	G	G	Enchant creatureNEWLINEWhenever enchanted creature attacks, put a +1/+1 counter on it.			normal	IDC		G

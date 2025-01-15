@@ -1,0 +1,1 @@
+﻿Entali Scorcher	R	common	Creature – Human Elemental 	105	R	2R	ProwessNEWLINE2R: Entali Scorcher gets +1/+0 until end of turn for each noncreature spell you’ve cast this turn.	3/2		normal	IDC		UR

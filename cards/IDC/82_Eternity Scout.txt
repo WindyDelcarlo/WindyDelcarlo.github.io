@@ -1,0 +1,1 @@
+﻿Eternity Scout	B	uncommon	Creature – Human Scout 	82	B	3B	MenaceNEWLINEWhenever Eternity Scout deals combat damage to a player, that player sacrifices a creature with power less than the damage dealt.	3/1		normal	IDC		

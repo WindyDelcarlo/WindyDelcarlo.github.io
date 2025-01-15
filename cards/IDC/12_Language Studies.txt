@@ -1,0 +1,1 @@
+﻿Language Studies	W	uncommon	Enchantment	12	W	W	Whenever a creature with power 2 or less enters the battlefield, put a word counter on Language Studies.NEWLINERemove four word counters from Language Studies and sacrifice it: Draw two cards.			normal	IDC		GW

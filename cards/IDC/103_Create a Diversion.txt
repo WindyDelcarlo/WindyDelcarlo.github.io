@@ -1,0 +1,1 @@
+﻿Create a Diversion	R	common	Instant	103	R	R	Target creature can’t block this turn. When its controller is dealt damage this turn, scry 1.			normal	IDC		R

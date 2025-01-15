@@ -1,0 +1,1 @@
+﻿Rissa, Interplanar Relations	R	mythic	Legendary Creature – Human Warlock 	121	R	2R	Whenever you cast a noncreature spell, put a +1/+1 counter on Rissa, Interplanar Relations.NEWLINEWhen Rissa, Interplanar Relations dies, it deals damage to any target equal to its power.	1/1		normal	IDC		

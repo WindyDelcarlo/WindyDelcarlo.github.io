@@ -1,0 +1,1 @@
+﻿Light the Way	W	common	Instant	13	W	W	Target creature gains protection from the color of your choice until end of turn. If you don’t control that creature, scry 1. (It can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color until end of turn.)			normal	IDC		W

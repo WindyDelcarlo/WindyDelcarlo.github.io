@@ -1,0 +1,1 @@
+﻿Champion of Solari	WG	rare	Creature – Elf Soldier 	166	WG	1GW	VigilanceNEWLINEOther creatures you control get +1/+1 and have vigilance.	3/2		normal	IDC		

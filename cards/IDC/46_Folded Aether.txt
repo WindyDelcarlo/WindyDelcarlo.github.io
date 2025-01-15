@@ -1,0 +1,1 @@
+﻿Folded Aether	U	common	Sorcery	46	U	1U	Return target nonland permanent to its owner’s hand. Until your next turn, whenever a player casts a spell with the same name as that permanent, each of that player’s opponents draws a card.			normal	IDC		U

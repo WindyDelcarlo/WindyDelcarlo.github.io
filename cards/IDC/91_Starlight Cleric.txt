@@ -1,0 +1,1 @@
+﻿Starlight Cleric	B	common	Creature – Human Cleric 	91	B	2B	When Starlight Cleric dies, each player loses 1 life and you draw a card.	2/2		normal	IDC		BR

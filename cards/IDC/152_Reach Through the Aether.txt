@@ -1,0 +1,1 @@
+﻿Reach Through the Aether	G	common	Sorcery	152	G	1G	You may put a land card from your hand onto the battlefield. If you don’t, search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.			normal	IDC		RG

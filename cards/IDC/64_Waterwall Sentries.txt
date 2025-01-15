@@ -1,0 +1,1 @@
+﻿Waterwall Sentries	U	common	Creature – Human Soldier 	64	U	1U	T: Target creature gets -2/-0 until end of turn. Its controller may scry 1.	1/1		normal	IDC		UB

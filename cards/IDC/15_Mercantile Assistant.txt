@@ -1,0 +1,1 @@
+﻿Mercantile Assistant	W	uncommon	Creature – Human Warrior 	15	W	1W	When Mercantile Assistant enters the battlefield, exile target creature that attacked you since your last turn until Mercantile Assistant leaves the battlefield.	2/1		normal	IDC		WU

@@ -1,0 +1,1 @@
+﻿Salvage Run	WU	rare	Sorcery	180	WU	4WU	As an additional cost to cast Salvage Run, exile a creature you control.NEWLINEAt the beginning of your next upkeep, return the exiled card and target permanent card from a graveyard to the battlefield under your control.			normal	IDC		

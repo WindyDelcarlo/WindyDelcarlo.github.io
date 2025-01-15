@@ -1,0 +1,1 @@
+﻿Interplanar Advisor	W	uncommon	Creature – Spirit Advisor 	10	W	1W	Activated abilities that aren’t mana abilities cost 2 more to activate.	2/1		normal	IDC		WB

@@ -1,0 +1,1 @@
+﻿Eternity Tunnel		mythic	Legendary Artifact	196	C	3	At the beginning of your upkeep, you may put a charge counter on Eternity Tunnel.NEWLINE2, T: Search your library for a card with converted mana cost less than or equal to the number of charge counters on Eternity Tunnel, reveal it, put it into your hand, then shuffle your library.			normal	IDC		

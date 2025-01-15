@@ -1,0 +1,1 @@
+﻿Moonlight Gathering	G	uncommon	Sorcery	145	G	1G	Create a 2/2 Wolf creature token. Then if you control six or more lands, create a 2/2 Wolf creature token.			normal	IDC		GW

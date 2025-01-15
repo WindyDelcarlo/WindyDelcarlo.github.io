@@ -1,0 +1,1 @@
+﻿Market Hoverguard		uncommon	Artifact Creature – Construct 	200	C	2	FlyingNEWLINEWhenever Market Hoverguard blocks, scry 1.	0/4		normal	IDC		

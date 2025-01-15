@@ -1,0 +1,1 @@
+﻿Vigorkin	G	common	Creature – Elemental 	161	G	G	Sacrifice Vigorkin: You gain 1 life for each creature card in your graveyard.	1/1		normal	IDC		BG

@@ -1,0 +1,1 @@
+﻿Aetheric Oscillator		uncommon	Artifact	187	C	3	At the beginning of your upkeep, put a charge counter on an artifact you control.NEWLINET, Remove any number of charge counter from Aetheric Oscillator: Add that much C.			normal	IDC		

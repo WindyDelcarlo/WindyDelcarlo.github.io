@@ -1,0 +1,1 @@
+﻿Lost Loyalty	U	common	Instant	54	U	1U	Counter target spell unless its controller pays 1 for each nonland, nontoken permanent you control.			normal	IDC		GU

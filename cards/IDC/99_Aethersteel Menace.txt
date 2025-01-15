@@ -1,0 +1,1 @@
+﻿Aethersteel Menace	R	common	Creature – Viashino Archer 	99	R	5R	When Aethersteel Menace enters the battlefield or attacks, you may discard a card. If you do, draw a card and put a +1/+1 counter on Aethersteel Menace.	4/4		normal	IDC		R

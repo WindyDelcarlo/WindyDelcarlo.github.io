@@ -1,0 +1,1 @@
+﻿Aetherkin Elemental	G	common	Creature – Elemental 	130	G	4G	When Aetherkin Elemental enters the battlefield or dies, draw a card.	5/4		normal	IDC		GU

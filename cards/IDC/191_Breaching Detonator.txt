@@ -1,0 +1,1 @@
+﻿Breaching Detonator		uncommon	Artifact	191	C	1	2, Sacrifice Breaching Detonator: Destroy target artifact. Breaching Detonator deals 2 damage to its controller.			normal	IDC		

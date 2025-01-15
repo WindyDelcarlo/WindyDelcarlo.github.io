@@ -1,0 +1,1 @@
+﻿Entelan Logician	U	rare	Creature – Human Wizard 	42	U	2U	FlashNEWLINEWhen Entelan Logician enters the battlefield or deals combat damage to a player, up to one target creature doesn’t untap during its controller’s next untap step and you draw a card.	2/1		normal	IDC		GU

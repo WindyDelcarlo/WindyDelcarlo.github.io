@@ -1,0 +1,1 @@
+﻿Flame Matrix		uncommon	Artifact	198	C	3	Whenever a creature dies, untap Flame Matrix.NEWLINE3, T: Flame Matrix deals 1 damage to target creature.			normal	IDC		

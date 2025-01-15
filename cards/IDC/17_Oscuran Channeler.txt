@@ -1,0 +1,1 @@
+﻿Oscuran Channeler	W	rare	Creature – Human Wizard 	17	W	2W	At the beginning of your upkeep, create a 1/1 white Elemental creature token.NEWLINEAt the beginning of each opponent’s end step, if a creature entered the battlefield this turn, create a 1/1 white Elemental creature token.	3/1		normal	IDC		GW

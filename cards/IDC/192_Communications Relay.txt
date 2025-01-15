@@ -1,0 +1,1 @@
+﻿Communications Relay		uncommon	Artifact	192	C	2	2, T, Discard a card: Creatures target player controls get +1/+1 until end of turn.			normal	IDC		

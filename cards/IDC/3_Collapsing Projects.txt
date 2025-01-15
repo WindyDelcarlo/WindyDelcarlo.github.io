@@ -1,0 +1,1 @@
+﻿Collapsing Projects	W	rare	Sorcery	3	W	1W	Each player may choose an enchantment. Exile all enchantments chosen this way.			normal	IDC		WB

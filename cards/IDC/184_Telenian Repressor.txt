@@ -1,0 +1,1 @@
+﻿Telenian Repressor	WB	rare	Creature – Human Advisor 	184	WB	1WB	Lifelink, deathtouchNEWLINEWhenever an opponent activates an ability that isn’t a mana ability, that player loses 2 life and you gain 2 life.	2/3		normal	IDC		

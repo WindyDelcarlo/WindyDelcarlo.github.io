@@ -1,0 +1,1 @@
+﻿Reverted State	G	common	Instant	153	G	1G	Destroy target artifact or enchantment. You and its controller each scry 1.			normal	IDC		GW

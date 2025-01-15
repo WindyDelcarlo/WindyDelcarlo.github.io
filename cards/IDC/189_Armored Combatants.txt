@@ -1,0 +1,1 @@
+﻿Armored Combatants		uncommon	Artifact Creature – Golem 	189	C	3	First strike	3/2		normal	IDC		

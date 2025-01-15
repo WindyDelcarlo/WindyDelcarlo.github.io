@@ -1,0 +1,1 @@
+﻿Council's Appeal	U	common	Instant	38	U	3UU	Cooperation (Any player may spend mana to pay for 3.)NEWLINECounter target spell. Each player who spent mana to cast Council’s Appeal may draw a card.			normal	IDC		UR

@@ -1,0 +1,1 @@
+﻿Buried History	R	common	Enchantment – Development 	101	R	R	Whenever a player develops Buried History, each player who developed it may discard a card. If they do, they draw a card.NEWLINEDevelop 4–2 (2: Note your name and put a development counter on this. Any player may develop this as a sorcery if there are fewer than four counters on this.)			normal	IDC		UR

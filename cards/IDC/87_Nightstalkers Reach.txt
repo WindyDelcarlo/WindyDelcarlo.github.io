@@ -1,0 +1,1 @@
+﻿Nightstalker's Reach	B	common	Sorcery	87	B	3B	Each opponent discards a card. For each opponent who discarded a creature card, you create a 2/2 black Zombie creature token. Each opponent who discarded a noncreature card loses 2 life.			normal	IDC		UB

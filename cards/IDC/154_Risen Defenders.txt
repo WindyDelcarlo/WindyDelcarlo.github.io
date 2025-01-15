@@ -1,0 +1,1 @@
+﻿Risen Defenders	G	uncommon	Creature – Elemental 	154	G	3G	Risen Defenders’s power and toughness are each equal to the number of lands you control.	*/*		normal	IDC		

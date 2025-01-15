@@ -1,0 +1,1 @@
+﻿Grip of Deathwind	B	uncommon	Instant	85	B	1B	Target creature gains indestructible and deathtouch until end of turn. Scry 1.			normal	IDC		UB

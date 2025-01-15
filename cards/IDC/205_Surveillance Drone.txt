@@ -1,0 +1,1 @@
+﻿Surveillance Drone		common	Artifact Creature – Construct 	205	C	3	FlyingNEWLINEWhenever Surveillance Drone attacks, reveal the top card of your library. If it’s a land card, put it into your hand.	1/1		normal	IDC		

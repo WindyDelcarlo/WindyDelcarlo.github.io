@@ -1,0 +1,1 @@
+﻿Storage Network		rare	Artifact	204	C	3	Storage Network enters the battlefield with a charge counter on it for each counter among permanents you control.NEWLINE1, T, Remove a charge counter from Storage Network: Draw a card.			normal	IDC		

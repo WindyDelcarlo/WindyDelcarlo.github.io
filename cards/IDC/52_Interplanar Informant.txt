@@ -1,0 +1,1 @@
+﻿Interplanar Informant	U	uncommon	Creature – Human Wizard 	52	U	1U	3U: Target player draws a card.	2/1		normal	IDC		UB

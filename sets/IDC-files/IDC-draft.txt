@@ -1,0 +1,2316 @@
+﻿[CustomCards]
+	[	{
+			"name": "Restless Citizen",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/19_Restless Citizen.png"
+			}
+		},
+		{
+			"name": "Growing Crowd",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Citizen ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/8_Growing Crowd.png"
+			}
+		},
+		{
+			"name": "Mistwing Falcon",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/16_Mistwing Falcon.png"
+			}
+		},
+		{
+			"name": "Marketplace Protector",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/14_Marketplace Protector.png"
+			}
+		},
+		{
+			"name": "Wasteland Resistance",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Survivor ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/32_Wasteland Resistance.png"
+			}
+		},
+		{
+			"name": "Vigorweave",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elemental Soldier ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/30_Vigorweave.png"
+			}
+		},
+		{
+			"name": "Solaran Apothecary",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Cleric ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/21_Solaran Apothecary.png"
+			}
+		},
+		{
+			"name": "Therian Enforcers",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Elf Soldier ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/27_Therian Enforcers.png"
+			}
+		},
+		{
+			"name": "Cloud Cavalier",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/2_Cloud Cavalier.png"
+			}
+		},
+		{
+			"name": "Solari's Light",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/23_Solari's Light.png"
+			}
+		},
+		{
+			"name": "Light the Way",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/13_Light the Way.png"
+			}
+		},
+		{
+			"name": "Rising Lightkin",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/20_Rising Lightkin.png"
+			}
+		},
+		{
+			"name": "Twilight Summoning",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/29_Twilight Summoning.png"
+			}
+		},
+		{
+			"name": "Touching Aid",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/28_Touching Aid.png"
+			}
+		},
+		{
+			"name": "Cryonic Instructor",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/39_Cryonic Instructor.png"
+			}
+		},
+		{
+			"name": "Explore the Beyond",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/44_Explore the Beyond.png"
+			}
+		},
+		{
+			"name": "Folded Aether",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/46_Folded Aether.png"
+			}
+		},
+		{
+			"name": "Lost in Thought",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/53_Lost in Thought.png"
+			}
+		},
+		{
+			"name": "The Wind Blows",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/65_The Wind Blows.png"
+			}
+		},
+		{
+			"name": "Temporal Assistance",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/63_Temporal Assistance.png"
+			}
+		},
+		{
+			"name": "Council's Appeal",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/38_Council's Appeal.png"
+			}
+		},
+		{
+			"name": "Flowshaper",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/45_Flowshaper.png"
+			}
+		},
+		{
+			"name": "Shaidostan Goliath",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Elemental Warrior ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/60_Shaidostan Goliath.png"
+			}
+		},
+		{
+			"name": "Hydron Rider",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/49_Hydron Rider.png"
+			}
+		},
+		{
+			"name": "Spellwing Drake",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Drake ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/61_Spellwing Drake.png"
+			}
+		},
+		{
+			"name": "Aether Technician",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/33_Aether Technician.png"
+			}
+		},
+		{
+			"name": "Shaidostan Disabler",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/59_Shaidostan Disabler.png"
+			}
+		},
+		{
+			"name": "Glimmer Agent",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/48_Glimmer Agent.png"
+			}
+		},
+		{
+			"name": "Devious Infiltrator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/40_Devious Infiltrator.png"
+			}
+		},
+		{
+			"name": "Lost Loyalty",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/54_Lost Loyalty.png"
+			}
+		},
+		{
+			"name": "Fearless Approach",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/83_Fearless Approach.png"
+			}
+		},
+		{
+			"name": "Aether Exhaustion",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/66_Aether Exhaustion.png"
+			}
+		},
+		{
+			"name": "Gifted Life",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/84_Gifted Life.png"
+			}
+		},
+		{
+			"name": "Observe the End",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/88_Observe the End.png"
+			}
+		},
+		{
+			"name": "Nightstalker's Reach",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/87_Nightstalker's Reach.png"
+			}
+		},
+		{
+			"name": "Deathwind Invocation",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Elemental ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/77_Deathwind Invocation.png"
+			}
+		},
+		{
+			"name": "Dawnbane",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Elemental ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/75_Dawnbane.png"
+			}
+		},
+		{
+			"name": "Shaidostan Enforcers",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/90_Shaidostan Enforcers.png"
+			}
+		},
+		{
+			"name": "Debtseeker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/79_Debtseeker.png"
+			}
+		},
+		{
+			"name": "Aether Wisp",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elemental ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/67_Aether Wisp.png"
+			}
+		},
+		{
+			"name": "Dance of Decay",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/73_Dance of Decay.png"
+			}
+		},
+		{
+			"name": "Dark Investors",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit Advisor ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/74_Dark Investors.png"
+			}
+		},
+		{
+			"name": "Deathwind Warriors",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Warrior ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/78_Deathwind Warriors.png"
+			}
+		},
+		{
+			"name": "Corrosion Witch",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/71_Corrosion Witch.png"
+			}
+		},
+		{
+			"name": "Starlight Cleric",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/91_Starlight Cleric.png"
+			}
+		},
+		{
+			"name": "Windswept Swiftblade",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/128_Windswept Swiftblade.png"
+			}
+		},
+		{
+			"name": "Record Management",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/119_Record Management.png"
+			}
+		},
+		{
+			"name": "Ask for Aid",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/100_Ask for Aid.png"
+			}
+		},
+		{
+			"name": "Aether Research",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/98_Aether Research.png"
+			}
+		},
+		{
+			"name": "Create a Diversion",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/103_Create a Diversion.png"
+			}
+		},
+		{
+			"name": "Flametongue Sorcerer",
+			"rarity": "common",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Elemental Wizard ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/107_Flametongue Sorcerer.png"
+			}
+		},
+		{
+			"name": "Aethersteel Menace",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Viashino Archer ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/99_Aethersteel Menace.png"
+			}
+		},
+		{
+			"name": "Steelwing Glider",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/124_Steelwing Glider.png"
+			}
+		},
+		{
+			"name": "Swiftguide Hound",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Hound ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/125_Swiftguide Hound.png"
+			}
+		},
+		{
+			"name": "Sandstep Raiders",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Viashino Warrior ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/122_Sandstep Raiders.png"
+			}
+		},
+		{
+			"name": "Entali Scorcher",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Elemental ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/105_Entali Scorcher.png"
+			}
+		},
+		{
+			"name": "Goblin Aethermage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Wizard ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/110_Goblin Aethermage.png"
+			}
+		},
+		{
+			"name": "Flitterspark",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/108_Flitterspark.png"
+			}
+		},
+		{
+			"name": "Reckless Technician",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/118_Reckless Technician.png"
+			}
+		},
+		{
+			"name": "Gift of Warmth",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/109_Gift of Warmth.png"
+			}
+		},
+		{
+			"name": "Reverted State",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/153_Reverted State.png"
+			}
+		},
+		{
+			"name": "Sudden Vigor",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/157_Sudden Vigor.png"
+			}
+		},
+		{
+			"name": "Corrosion Agent",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Archer ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/134_Corrosion Agent.png"
+			}
+		},
+		{
+			"name": "Reach Through the Aether",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/152_Reach Through the Aether.png"
+			}
+		},
+		{
+			"name": "Path of the Warrior",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/149_Path of the Warrior.png"
+			}
+		},
+		{
+			"name": "Timeworn Behemoth",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/159_Timeworn Behemoth.png"
+			}
+		},
+		{
+			"name": "Hunting Party",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/139_Hunting Party.png"
+			}
+		},
+		{
+			"name": "Aetherkin Elemental",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/130_Aetherkin Elemental.png"
+			}
+		},
+		{
+			"name": "Midnight Pack",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Wolf ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/144_Midnight Pack.png"
+			}
+		},
+		{
+			"name": "Grovetender",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/137_Grovetender.png"
+			}
+		},
+		{
+			"name": "Speaker of Peace",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/155_Speaker of Peace.png"
+			}
+		},
+		{
+			"name": "Throatcatcher Hydron",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/158_Throatcatcher Hydron.png"
+			}
+		},
+		{
+			"name": "Vigil Keeper",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Warrior ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/160_Vigil Keeper.png"
+			}
+		},
+		{
+			"name": "Vigorkin",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/161_Vigorkin.png"
+			}
+		},
+		{
+			"name": "Lost Duelist",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/142_Lost Duelist.png"
+			}
+		},
+		{
+			"name": "Bush Ambush",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/132_Bush Ambush.png"
+			}
+		},
+		{
+			"name": "Data Sphere",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/193_Data Sphere.png"
+			}
+		},
+		{
+			"name": "Surveillance Drone",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/205_Surveillance Drone.png"
+			}
+		},
+		{
+			"name": "Scanner Construct",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/203_Scanner Construct.png"
+			}
+		},
+		{
+			"name": "Aethersteel Blade",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/188_Aethersteel Blade.png"
+			}
+		},
+		{
+			"name": "Interplanar Security",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Development ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/11_Interplanar Security.png"
+			}
+		},
+		{
+			"name": "Forecast",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Development ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/47_Forecast.png"
+			}
+		},
+		{
+			"name": "Search for Survivors",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Development ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/89_Search for Survivors.png"
+			}
+		},
+		{
+			"name": "Buried History",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Development ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/101_Buried History.png"
+			}
+		},
+		{
+			"name": "Medical Expertise",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Development ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/143_Medical Expertise.png"
+			}
+		},
+		{
+			"name": "Evanescent Lunakin",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Elemental Cat ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/7_Evanescent Lunakin.png"
+			}
+		},
+		{
+			"name": "Telltale",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/26_Telltale.png"
+			}
+		},
+		{
+			"name": "Soulbound Avian",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/24_Soulbound Avian.png"
+			}
+		},
+		{
+			"name": "Mercantile Assistant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/15_Mercantile Assistant.png"
+			}
+		},
+		{
+			"name": "Interplanar Advisor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Advisor ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/10_Interplanar Advisor.png"
+			}
+		},
+		{
+			"name": "Auric Apothecary",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/1_Auric Apothecary.png"
+			}
+		},
+		{
+			"name": "Vitrify",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/31_Vitrify.png"
+			}
+		},
+		{
+			"name": "Project Funding",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/18_Project Funding.png"
+			}
+		},
+		{
+			"name": "Waterwall Sentries",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/64_Waterwall Sentries.png"
+			}
+		},
+		{
+			"name": "Interplanar Informant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/52_Interplanar Informant.png"
+			}
+		},
+		{
+			"name": "Overhydrate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/56_Overhydrate.png"
+			}
+		},
+		{
+			"name": "Motionless Sleep",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/55_Motionless Sleep.png"
+			}
+		},
+		{
+			"name": "Technical Prowess",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/62_Technical Prowess.png"
+			}
+		},
+		{
+			"name": "Interference Agent",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/50_Interference Agent.png"
+			}
+		},
+		{
+			"name": "Interplanar Cooperation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/51_Interplanar Cooperation.png"
+			}
+		},
+		{
+			"name": "Thoughtrender",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elemental ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/93_Thoughtrender.png"
+			}
+		},
+		{
+			"name": "Eternity Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/82_Eternity Scout.png"
+			}
+		},
+		{
+			"name": "Unforgiving Betrayal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/95_Unforgiving Betrayal.png"
+			}
+		},
+		{
+			"name": "Deathwind Guide",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/76_Deathwind Guide.png"
+			}
+		},
+		{
+			"name": "Dread Harnesser",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/80_Dread Harnesser.png"
+			}
+		},
+		{
+			"name": "Sythian Strike Team",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/92_Sythian Strike Team.png"
+			}
+		},
+		{
+			"name": "Underground Assistance",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/94_Underground Assistance.png"
+			}
+		},
+		{
+			"name": "Stand in Defiance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/123_Stand in Defiance.png"
+			}
+		},
+		{
+			"name": "Zealous Militia",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/129_Zealous Militia.png"
+			}
+		},
+		{
+			"name": "Planes Alight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/114_Planes Alight.png"
+			}
+		},
+		{
+			"name": "Ragecaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Wizard ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/117_Ragecaster.png"
+			}
+		},
+		{
+			"name": "Urban Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/127_Urban Scavenger.png"
+			}
+		},
+		{
+			"name": "Hybridized Instructor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Elemental Wizard ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/111_Hybridized Instructor.png"
+			}
+		},
+		{
+			"name": "Pressure Raider",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Viashino Rogue ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/115_Pressure Raider.png"
+			}
+		},
+		{
+			"name": "Burned Earth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Development ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/102_Burned Earth.png"
+			}
+		},
+		{
+			"name": "Aetherfang Viper",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Snake ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/68_Aetherfang Viper.png"
+			}
+		},
+		{
+			"name": "Mysterious Rebirth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/146_Mysterious Rebirth.png"
+			}
+		},
+		{
+			"name": "Elemental Allocator",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/135_Elemental Allocator.png"
+			}
+		},
+		{
+			"name": "Guerilla Tactician",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/138_Guerilla Tactician.png"
+			}
+		},
+		{
+			"name": "Spirit's Reclaimer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/156_Spirit's Reclaimer.png"
+			}
+		},
+		{
+			"name": "Aetherweb Spinner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spider ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/131_Aetherweb Spinner.png"
+			}
+		},
+		{
+			"name": "Moonlight Gathering",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/145_Moonlight Gathering.png"
+			}
+		},
+		{
+			"name": "Risen Defenders",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/154_Risen Defenders.png"
+			}
+		},
+		{
+			"name": "Interplanar Expansion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/140_Interplanar Expansion.png"
+			}
+		},
+		{
+			"name": "Betterment of Life",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment — Development ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/164_Betterment of Life.png"
+			}
+		},
+		{
+			"name": "Blade of Shadows",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Assassin ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/165_Blade of Shadows.png"
+			}
+		},
+		{
+			"name": "Cycle Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/168_Cycle Hunter.png"
+			}
+		},
+		{
+			"name": "Deathwind Healer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/169_Deathwind Healer.png"
+			}
+		},
+		{
+			"name": "Telenian Repressor",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/184_Telenian Repressor.png"
+			}
+		},
+		{
+			"name": "Dedicated Research",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment — Development ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/170_Dedicated Research.png"
+			}
+		},
+		{
+			"name": "Poisontip Hunter",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Elf Scout Archer ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/178_Poisontip Hunter.png"
+			}
+		},
+		{
+			"name": "Attack Formation",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/163_Attack Formation.png"
+			}
+		},
+		{
+			"name": "Mist Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Beast Rogue ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/176_Mist Stalker.png"
+			}
+		},
+		{
+			"name": "Adaptive Terrains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/206_Adaptive Terrains.png"
+			}
+		},
+		{
+			"name": "Language Studies",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/12_Language Studies.png"
+			}
+		},
+		{
+			"name": "Flame Matrix",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/198_Flame Matrix.png"
+			}
+		},
+		{
+			"name": "Market Hoverguard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/200_Market Hoverguard.png"
+			}
+		},
+		{
+			"name": "Breaching Detonator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/191_Breaching Detonator.png"
+			}
+		},
+		{
+			"name": "Armored Combatants",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/189_Armored Combatants.png"
+			}
+		},
+		{
+			"name": "Communications Relay",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/192_Communications Relay.png"
+			}
+		},
+		{
+			"name": "Entelan Transceiver",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/195_Entelan Transceiver.png"
+			}
+		},
+		{
+			"name": "Aetheric Oscillator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/187_Aetheric Oscillator.png"
+			}
+		},
+		{
+			"name": "Rocket Glider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/202_Rocket Glider.png"
+			}
+		},
+		{
+			"name": "Family Crossbow",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/197_Family Crossbow.png"
+			}
+		},
+		{
+			"name": "Cloudglider",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/36_Cloudglider.png"
+			}
+		},
+		{
+			"name": "Peaceful Days",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/150_Peaceful Days.png"
+			}
+		},
+		{
+			"name": "Entelan Thoughtcaster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Elemental ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/106_Entelan Thoughtcaster.png"
+			}
+		},
+		{
+			"name": "Grip of Deathwind",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/85_Grip of Deathwind.png"
+			}
+		},
+		{
+			"name": "Interplanar Market",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/208_Interplanar Market.png"
+			}
+		},
+		{
+			"name": "Neutral Ground",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/209_Neutral Ground.png"
+			}
+		},
+		{
+			"name": "Solaran Vitalizer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/22_Solaran Vitalizer.png"
+			}
+		},
+		{
+			"name": "Dawncatcher",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elemental ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/4_Dawncatcher.png"
+			}
+		},
+		{
+			"name": "Collapsing Projects",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/3_Collapsing Projects.png"
+			}
+		},
+		{
+			"name": "Entelan Logician",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/42_Entelan Logician.png"
+			}
+		},
+		{
+			"name": "Chronocloak Predictor",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/35_Chronocloak Predictor.png"
+			}
+		},
+		{
+			"name": "Dreams Realized",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/41_Dreams Realized.png"
+			}
+		},
+		{
+			"name": "Breath of Winter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/34_Breath of Winter.png"
+			}
+		},
+		{
+			"name": "Interplanar Agent",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/86_Interplanar Agent.png"
+			}
+		},
+		{
+			"name": "Elancean General",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Elf Soldier ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/81_Elancean General.png"
+			}
+		},
+		{
+			"name": "Cleric of the Earth Spirit",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/70_Cleric of the Earth Spirit.png"
+			}
+		},
+		{
+			"name": "Broken Trust",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/69_Broken Trust.png"
+			}
+		},
+		{
+			"name": "Rising Military",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/120_Rising Military.png"
+			}
+		},
+		{
+			"name": "Moltenclaw Scourge",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/113_Moltenclaw Scourge.png"
+			}
+		},
+		{
+			"name": "Life's Work",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/112_Life's Work.png"
+			}
+		},
+		{
+			"name": "Tirenan Burstmage",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/126_Tirenan Burstmage.png"
+			}
+		},
+		{
+			"name": "Lightstep Archer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Archer Scout ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/141_Lightstep Archer.png"
+			}
+		},
+		{
+			"name": "Genesis Crafter",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/136_Genesis Crafter.png"
+			}
+		},
+		{
+			"name": "Project Recovery",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Development ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/151_Project Recovery.png"
+			}
+		},
+		{
+			"name": "Overgrowth Channeler",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/148_Overgrowth Channeler.png"
+			}
+		},
+		{
+			"name": "Salvage Run",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/180_Salvage Run.png"
+			}
+		},
+		{
+			"name": "Merchant Crew",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/175_Merchant Crew.png"
+			}
+		},
+		{
+			"name": "Up in Flames",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/185_Up in Flames.png"
+			}
+		},
+		{
+			"name": "Shifting Cycle",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/182_Shifting Cycle.png"
+			}
+		},
+		{
+			"name": "Champion of Solari",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Elf Soldier ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/166_Champion of Solari.png"
+			}
+		},
+		{
+			"name": "Linelan Diplomat",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Elf Advisor ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/173_Linelan Diplomat.png"
+			}
+		},
+		{
+			"name": "Core Engineer",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/167_Core Engineer.png"
+			}
+		},
+		{
+			"name": "Aetheric Decay",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/162_Aetheric Decay.png"
+			}
+		},
+		{
+			"name": "Goblin Rocket Glider",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Goblin Soldier ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/171_Goblin Rocket Glider.png"
+			}
+		},
+		{
+			"name": "Manaflow Birds",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/174_Manaflow Birds.png"
+			}
+		},
+		{
+			"name": "Repulsion Field",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/201_Repulsion Field.png"
+			}
+		},
+		{
+			"name": "Aether Reactor",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/186_Aether Reactor.png"
+			}
+		},
+		{
+			"name": "Energy Crystals",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/194_Energy Crystals.png"
+			}
+		},
+		{
+			"name": "Ionizing Rifle",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/199_Ionizing Rifle.png"
+			}
+		},
+		{
+			"name": "Oscuran Channeler",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/17_Oscuran Channeler.png"
+			}
+		},
+		{
+			"name": "Rhystic Study",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/57_Rhystic Study.png"
+			}
+		},
+		{
+			"name": "Vision of the Eternities",
+			"rarity": "rare",
+			"mana_cost": "{X}{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/97_Vision of the Eternities.png"
+			}
+		},
+		{
+			"name": "Elemental Couriers",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/104_Elemental Couriers.png"
+			}
+		},
+		{
+			"name": "Nature's Law",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/147_Nature's Law.png"
+			}
+		},
+		{
+			"name": "Augmented Reality",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/190_Augmented Reality.png"
+			}
+		},
+		{
+			"name": "Storage Network",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/204_Storage Network.png"
+			}
+		},
+		{
+			"name": "Evacuation of Elbryn",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Enchantment — Development ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/6_Evacuation of Elbryn.png"
+			}
+		},
+		{
+			"name": "Council's Wrath",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/72_Council's Wrath.png"
+			}
+		},
+		{
+			"name": "Rissa, Interplanar Relations",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Warlock ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/121_Rissa, Interplanar Relations.png"
+			}
+		},
+		{
+			"name": "Canopy Strider",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/133_Canopy Strider.png"
+			}
+		},
+		{
+			"name": "Nixi, Civilization's Protector",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Planeswalker — Nixi ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/177_Nixi, Civilization's Protector.png"
+			}
+		},
+		{
+			"name": "Kivnith, High Governer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Spirit Rogue ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/172_Kivnith, High Governer.png"
+			}
+		},
+		{
+			"name": "Rinn, Crumbling Ruler",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/179_Rinn, Crumbling Ruler.png"
+			}
+		},
+		{
+			"name": "Eternity Tunnel",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/196_Eternity Tunnel.png"
+			}
+		},
+		{
+			"name": "Entelan Academy for Interplanar Youth",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/207_Entelan Academy for Interplanar Youth.png"
+			}
+		},
+		{
+			"name": "Rianne, Temporal Prodigy",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/58_Rianne, Temporal Prodigy.png"
+			}
+		},
+		{
+			"name": "Ruins of Telenia",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/210_Ruins of Telenia.png"
+			}
+		},
+		{
+			"name": "The Eternity Project",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Enchantment — Development ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/43_The Eternity Project.png"
+			}
+		},
+		{
+			"name": "Communication Network",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Development ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/37_Communication Network.png"
+			}
+		},
+		{
+			"name": "Seiva Zeni, Project Head",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/181_Seiva Zeni, Project Head.png"
+			}
+		},
+		{
+			"name": "Disaster Recovery",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/5_Disaster Recovery.png"
+			}
+		},
+		{
+			"name": "Strike Agent",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/183_Strike Agent.png"
+			}
+		},
+		{
+			"name": "Pyretic Art",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/116_Pyretic Art.png"
+			}
+		},
+		{
+			"name": "Illuminate Geist",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Spirit Wizard ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/9_Illuminate Geist.png"
+			}
+		},
+		{
+			"name": "Vessel of Souls",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Wizard ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/96_Vessel of Souls.png"
+			}
+		},
+		{
+			"name": "Soulwriter",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/IDC-files/img/25_Soulwriter.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Technical Prowess
+		2 Deathwind Guide
+		2 Telenian Repressor
+		2 Dedicated Research
+		2 Poisontip Hunter
+		2 Solaran Vitalizer
+		2 Dawncatcher
+		2 Collapsing Projects
+		2 Entelan Logician
+		2 Chronocloak Predictor
+		2 Dreams Realized
+		2 Elancean General
+		2 Cleric of the Earth Spirit
+		2 Broken Trust
+		2 Rising Military
+		2 Moltenclaw Scourge
+		2 Life's Work
+		2 Tirenan Burstmage
+		2 Lightstep Archer
+		2 Genesis Crafter
+		2 Project Recovery
+		2 Overgrowth Channeler
+		2 Salvage Run
+		2 Merchant Crew
+		2 Up in Flames
+		2 Shifting Cycle
+		2 Champion of Solari
+		2 Goblin Rocket Glider
+		2 Manaflow Birds
+		2 Repulsion Field
+		2 Aether Reactor
+		2 Energy Crystals
+		2 Ionizing Rifle
+		2 Oscuran Channeler
+		2 Rhystic Study
+		2 Vision of the Eternities
+		2 Elemental Couriers
+		2 Augmented Reality
+		2 Storage Network
+		2 Canopy Strider
+		2 Ruins of Telenia
+		2 Disaster Recovery
+		1 Nature's Law
+		1 Evacuation of Elbryn
+		1 Council's Wrath
+		1 Rissa, Interplanar Relations
+		1 Nixi, Civilization's Protector
+		1 Kivnith, High Governer
+		1 Rinn, Crumbling Ruler
+		1 Eternity Tunnel
+		1 Entelan Academy for Interplanar Youth
+		1 Rianne, Temporal Prodigy
+		1 The Eternity Project
+		1 Seiva Zeni, Project Head
+		[UncommonSlot(3)]
+	9 The Wind Blows
+		9 Devious Infiltrator
+		9 Debtseeker
+		9 Evanescent Lunakin
+		9 Telltale
+		9 Soulbound Avian
+		9 Mercantile Assistant
+		9 Interplanar Advisor
+		9 Auric Apothecary
+		9 Vitrify
+		9 Project Funding
+		9 Interplanar Informant
+		9 Overhydrate
+		9 Motionless Sleep
+		9 Interference Agent
+		9 Interplanar Cooperation
+		9 Thoughtrender
+		9 Eternity Scout
+		9 Unforgiving Betrayal
+		9 Dread Harnesser
+		9 Sythian Strike Team
+		9 Underground Assistance
+		9 Stand in Defiance
+		9 Zealous Militia
+		9 Planes Alight
+		9 Ragecaster
+		9 Urban Scavenger
+		9 Hybridized Instructor
+		9 Pressure Raider
+		9 Burned Earth
+		9 Mysterious Rebirth
+		9 Elemental Allocator
+		9 Guerilla Tactician
+		9 Spirit's Reclaimer
+		9 Aetherweb Spinner
+		9 Moonlight Gathering
+		9 Risen Defenders
+		9 Interplanar Expansion
+		9 Betterment of Life
+		9 Blade of Shadows
+		9 Cycle Hunter
+		9 Deathwind Healer
+		9 Attack Formation
+		9 Mist Stalker
+		9 Language Studies
+		9 Flame Matrix
+		9 Market Hoverguard
+		9 Breaching Detonator
+		9 Armored Combatants
+		9 Communications Relay
+		9 Entelan Transceiver
+		9 Aetheric Oscillator
+		9 Rocket Glider
+		9 Family Crossbow
+		9 Cloudglider
+		9 Peaceful Days
+		9 Entelan Thoughtcaster
+		9 Grip of Deathwind
+		9 Interplanar Market
+		9 Neutral Ground
+		9 Breath of Winter
+		9 Interplanar Agent
+		9 Linelan Diplomat
+		9 Core Engineer
+		9 Aetheric Decay
+		9 Communication Network
+		9 Strike Agent
+		[CommonSlot(10)]
+	30 Restless Citizen
+		30 Growing Crowd
+		30 Mistwing Falcon
+		30 Marketplace Protector
+		30 Wasteland Resistance
+		30 Vigorweave
+		30 Solaran Apothecary
+		30 Therian Enforcers
+		30 Cloud Cavalier
+		30 Solari's Light
+		30 Light the Way
+		30 Rising Lightkin
+		30 Twilight Summoning
+		30 Touching Aid
+		30 Cryonic Instructor
+		30 Explore the Beyond
+		30 Folded Aether
+		30 Lost in Thought
+		30 Temporal Assistance
+		30 Council's Appeal
+		30 Flowshaper
+		30 Shaidostan Goliath
+		30 Hydron Rider
+		30 Spellwing Drake
+		30 Aether Technician
+		30 Shaidostan Disabler
+		30 Glimmer Agent
+		30 Lost Loyalty
+		30 Fearless Approach
+		30 Aether Exhaustion
+		30 Gifted Life
+		30 Observe the End
+		30 Nightstalker's Reach
+		30 Deathwind Invocation
+		30 Dawnbane
+		30 Shaidostan Enforcers
+		30 Aether Wisp
+		30 Dance of Decay
+		30 Dark Investors
+		30 Deathwind Warriors
+		30 Corrosion Witch
+		30 Starlight Cleric
+		30 Windswept Swiftblade
+		30 Record Management
+		30 Ask for Aid
+		30 Aether Research
+		30 Create a Diversion
+		30 Flametongue Sorcerer
+		30 Aethersteel Menace
+		30 Steelwing Glider
+		30 Swiftguide Hound
+		30 Sandstep Raiders
+		30 Entali Scorcher
+		30 Goblin Aethermage
+		30 Flitterspark
+		30 Reckless Technician
+		30 Gift of Warmth
+		30 Reverted State
+		30 Sudden Vigor
+		30 Corrosion Agent
+		30 Reach Through the Aether
+		30 Path of the Warrior
+		30 Timeworn Behemoth
+		30 Hunting Party
+		30 Aetherkin Elemental
+		30 Midnight Pack
+		30 Grovetender
+		30 Speaker of Peace
+		30 Throatcatcher Hydron
+		30 Vigil Keeper
+		30 Vigorkin
+		30 Lost Duelist
+		30 Bush Ambush
+		30 Data Sphere
+		30 Surveillance Drone
+		30 Scanner Construct
+		30 Aethersteel Blade
+		30 Interplanar Security
+		30 Forecast
+		30 Search for Survivors
+		30 Buried History
+		30 Medical Expertise
+		30 Waterwall Sentries
+		30 Aetherfang Viper
+		30 Adaptive Terrains
+		30 Pyretic Art
+		30 Illuminate Geist
+		30 Vessel of Souls
+		30 Soulwriter
+		

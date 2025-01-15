@@ -1,0 +1,1 @@
+﻿Cryonic Instructor	U	common	Creature – Human Wizard 	39	U	U	When Cryonic Instructor enters the battlefield, tap up to one target creature and untap up to one other target creature.	1/1		normal	IDC		WU

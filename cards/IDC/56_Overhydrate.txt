@@ -1,0 +1,1 @@
+﻿Overhydrate	U	uncommon	Instant	56	U	2U	Exile two target creatures, then return them to the battlefield. At the beginning of the next upkeep, tap them.			normal	IDC		WU

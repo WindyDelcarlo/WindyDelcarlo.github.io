@@ -1,0 +1,1 @@
+﻿Council's Wrath	B	mythic	Sorcery	72	B	2BB	For each player, choose a creature that player controls of each converted mana cost. Exile those creatures.			normal	IDC		

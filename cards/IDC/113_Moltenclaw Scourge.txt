@@ -1,0 +1,1 @@
+﻿Moltenclaw Scourge	R	rare	Creature – Dragon 	113	R	4RR	Flying, menaceNEWLINEWhen Moltenclaw Scourge deals combat damage to a player, it deals that much damage to target creature that player controls.	4/4		normal	IDC		

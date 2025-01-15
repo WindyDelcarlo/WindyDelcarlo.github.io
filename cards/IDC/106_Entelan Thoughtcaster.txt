@@ -1,0 +1,1 @@
+﻿Entelan Thoughtcaster	R	uncommon	Creature – Human Elemental 	106	R	1R	HasteNEWLINE2R: Target creature can’t block Entelan Thoughtcaster this turn.	2/1		normal	IDC		UR

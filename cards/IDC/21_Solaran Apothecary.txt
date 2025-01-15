@@ -1,0 +1,1 @@
+﻿Solaran Apothecary	W	common	Creature – Elf Cleric 	21	W	2W	Whenever a player casts a spell, you gain 1 life.	1/2		normal	IDC		WB

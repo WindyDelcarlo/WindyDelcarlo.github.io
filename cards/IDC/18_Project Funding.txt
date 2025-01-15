@@ -1,0 +1,1 @@
+﻿Project Funding	W	uncommon	Sorcery	18	W	1W	Reveal the top five cards of your library. You may put any number of artifact or enchantment cards from among them into your hand. Put the rest into your graveyard.			normal	IDC		

@@ -1,0 +1,1 @@
+﻿Reckless Technician	R	common	Creature – Human Wizard 	118	R	R	Sacrifice Reckless Technician, Discard a card: Target player draws a card. Scry 1.	1/2		normal	IDC		R

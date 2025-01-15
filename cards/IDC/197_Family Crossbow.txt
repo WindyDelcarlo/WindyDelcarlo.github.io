@@ -1,0 +1,1 @@
+﻿Family Crossbow		uncommon	Artifact – Equipment 	197	C	2	Equipped creature has first strike and reach.NEWLINEEquip 2			normal	IDC		

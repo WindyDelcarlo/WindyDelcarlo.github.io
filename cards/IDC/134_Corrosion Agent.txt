@@ -1,0 +1,1 @@
+﻿Corrosion Agent	G	common	Creature – Human Archer 	134	G	1G	When Corrosion Agent dies, search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.	2/1		normal	IDC		RG

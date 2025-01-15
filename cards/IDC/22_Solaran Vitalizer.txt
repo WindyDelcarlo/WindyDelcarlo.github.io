@@ -1,0 +1,1 @@
+﻿Solaran Vitalizer	W	rare	Creature – Human Cleric 	22	W	1W	Whenever one or more creatures deal combat damage to you, you gain 2 life and put a +1/+1 counter on Solaran Vitalizer.	2/2		normal	IDC		W
