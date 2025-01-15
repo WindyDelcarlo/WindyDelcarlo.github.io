@@ -1,0 +1,1 @@
+﻿Observer Waystone		common	Artifact Creature – Construct 	228	C	4	DefenderNEWLINEWhen Observer Waystone enters, untap all creatures you control.	2/5		normal	EMR		

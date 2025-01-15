@@ -1,0 +1,1 @@
+﻿Aetheric Byproduct		uncommon	Artifact	203	C	2	At the beginning of your upkeep, you lose 1 life and create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)			normal	EMR		Flavor

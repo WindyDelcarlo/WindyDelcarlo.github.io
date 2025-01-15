@@ -1,0 +1,1 @@
+﻿Lose Control	R	mythic	Sorcery	130	R	2RR	As an additional cost to cast this spell, exile X noncreature, nonland cards from your graveyard.NEWLINELose Control deals X damage to each creature and planeswalker you don’t control.			normal	EMR		

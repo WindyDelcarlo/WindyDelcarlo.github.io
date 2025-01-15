@@ -1,0 +1,1 @@
+﻿Imaginer	R	uncommon	Creature – Human Citizen 	125	R	R	Whenever an artifact you control enters, target creature you control gains haste until end of turn.	1/1		normal	EMR		

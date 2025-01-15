@@ -1,0 +1,1 @@
+﻿Intrepid Smuggler	B	rare	Creature – Human Rogue 	88	B	1B	Whenever Intrepid Smuggler deals combat damage to a player, you lose 1 life and create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)NEWLINECC: You draw a card and lose 1 life.	2/1		normal	EMR		Cell Generation

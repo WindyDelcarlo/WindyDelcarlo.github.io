@@ -1,0 +1,1 @@
+﻿Ekstan Initiate	B	common	Creature – Elf Cleric 	82	B	B	Whenever a creature dies during your turn, put a +1/+1 counter on Ekstan Initiate. This ability triggers only once each turn.			normal	EMR		

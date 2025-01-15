@@ -1,0 +1,1 @@
+﻿Agahian Pathfinder	G	rare	Creature – Elf Archer 	151	G	1G	ReachNEWLINELandfall – Whenever a land you control enters, mill three cards, then you may exile a land card from among them.NEWLINEWhenever Agahian Pathfinder deals combat damage to a player, you may put a land card exiled by it onto the battlefield.	2/3		normal	EMR		

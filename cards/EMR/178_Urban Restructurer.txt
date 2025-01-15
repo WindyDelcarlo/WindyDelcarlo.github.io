@@ -1,0 +1,1 @@
+﻿Urban Restructurer	G	common	Creature – Human Druid 	178	G	2G	When Urban Restructurer enters, create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)NEWLINEUrban Restructurer can’t be blocked by creatures with lesser power.	3/1		normal	EMR		Cell Generation

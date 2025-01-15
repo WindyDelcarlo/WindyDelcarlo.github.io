@@ -1,0 +1,1 @@
+﻿Joint Training	G	common	Sorcery	164	G	1G	Put a +1/+1 counter on each of up to two target creatures. They gain trample until end of turn.			normal	EMR		

@@ -1,0 +1,1 @@
+﻿Ecstatic Student	R	rare	Creature – Human Wizard 	115	R	2R	When Ecstatic Student enters, create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)NEWLINEWhenever Ecstatic Student attacks, you may discard a card and sacrifice an artifact. If you do, put a +1/+1 counter on Ecstatic Student and draw a card.	2/2		normal	EMR		Cell Generation

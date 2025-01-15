@@ -1,0 +1,1 @@
+﻿Aether Refinery		uncommon	Land	244	C		T: Add C.NEWLINET, Sacrifice an artifact: Add one mana of any color.			normal	EMR		

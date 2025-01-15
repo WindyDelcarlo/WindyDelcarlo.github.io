@@ -1,0 +1,1 @@
+﻿Warlord Rishen	WB	mythic	Legendary Creature – Human Noble 	199	WB	2WB	Deathtouch, lifelinkNEWLINEOther attacking creatures you control have deathtouch and lifelink.NEWLINEWhenever one or more creatures you control deal combat damage to a player, exile target artifact, enchantment, or planeswalker that player controls.	3/3		normal	EMR		

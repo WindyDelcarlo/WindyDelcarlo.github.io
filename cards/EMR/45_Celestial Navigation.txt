@@ -1,0 +1,1 @@
+﻿Celestial Navigation	U	uncommon	Enchantment	45	U	2U	Landfall – Whenever a land you control enters, target creature can’t be blocked this turn.NEWLINEWhenever one or more creatures you control deal combat damage to a player, draw a card.			normal	EMR		

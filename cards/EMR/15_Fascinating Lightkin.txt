@@ -1,0 +1,1 @@
+﻿Fascinating Lightkin	W	common	Creature – Elemental 	15	W	4W	When Fascinating Lightkin enters, exile target nonland permanent. Return it to the battlefield under its owner’s control at the beginning of the next turn’s upkeep.	3/5		normal	EMR		War, Entelan

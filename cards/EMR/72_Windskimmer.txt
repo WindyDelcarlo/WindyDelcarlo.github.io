@@ -1,0 +1,1 @@
+﻿Windskimmer	U	uncommon	Artifact – Equipment 	72	U	1U	Resonant (When this Equipment enters, create a 1/0 blue Elemental creature token, then attach this to it.)NEWLINEEquipped creature gets +1/+1 and has flying.NEWLINEEquip 4			normal	EMR		

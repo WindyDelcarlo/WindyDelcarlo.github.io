@@ -1,0 +1,1 @@
+﻿Relentless Strokes	W	common	Instant	25	W	W	Untap two target attacking creatures. They get +1/+1 until end of turn.			normal	EMR		Combat Trick

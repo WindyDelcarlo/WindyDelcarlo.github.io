@@ -1,0 +1,1 @@
+﻿Thieving Raven	U	common	Creature – Bird 	68	U	U	FlyingNEWLINEWhen Thieving Raven enters with a +1/+1 counter on it if you control an artifact.	1/1		normal	EMR		Evasion

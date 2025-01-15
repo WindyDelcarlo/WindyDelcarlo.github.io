@@ -1,0 +1,1 @@
+﻿Fleet Protector	G	rare	Creature – Human Soldier 	162	G	1G	Whenever Fleet Protector attacks, another target attacking creature gets +1/+1 and gains indestructible until end of turn.	2/2		normal	EMR		Merchant Protector

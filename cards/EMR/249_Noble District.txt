@@ -1,0 +1,1 @@
+﻿Noble District		rare	Land	249	WR		Noble District enters tapped.NEWLINEWhen Noble District enters, add C.NEWLINET: Add R or W.			normal	EMR		

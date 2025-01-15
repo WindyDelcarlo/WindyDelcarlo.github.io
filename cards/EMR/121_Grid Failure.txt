@@ -1,0 +1,1 @@
+﻿Grid Failure	R	common	Instant	121	R	1R	Grid Failure deals 2 damage to target creature or planeswalker.  When that permanent dies this turn, create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)			normal	EMR		Cell GenerationNEWLINERemoval

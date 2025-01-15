@@ -1,0 +1,1 @@
+﻿Fractioned Aether Cell		uncommon	Artifact	219	C	3	Analytics 2 (You may cast this spell for its analytics cost if you’ve cast a noncreature spell this turn.)NEWLINEWhen Fractioned Aether Cell enters or leaves the battlefield, creatures target player controls get -1/-1 until end of turn.			normal	EMR		

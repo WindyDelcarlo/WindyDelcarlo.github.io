@@ -1,0 +1,1 @@
+﻿Support Bracer	G	common	Artifact – Equipment 	176	G	3G	Resonant (When this Equipment enters, create a 1/0 blue Elemental creature token, then attach this to it.)NEWLINEEquipped creature gets +2/+2 and can’t be blocked by creatures with lesser power.NEWLINEEquip 3			normal	EMR		

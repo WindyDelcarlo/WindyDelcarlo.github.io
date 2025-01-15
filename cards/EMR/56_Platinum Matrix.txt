@@ -1,0 +1,1 @@
+﻿Platinum Matrix	U	common	Instant	56	U	2UU	Aethercast – If CC was spent to cast Platinum Matrix, draw a card.NEWLINECounter target spell.			normal	EMR		

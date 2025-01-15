@@ -1,0 +1,1 @@
+﻿Private Military	W	uncommon	Creature – Human Soldier 	23	W	2W	First strikeNEWLINEWhenever Private Military attacks, you may pay CC. If you do, it gets +1/+0 until end of turn for each attacking creature.	2/1		normal	EMR		CW ArcunNEWLINEWide Aggro

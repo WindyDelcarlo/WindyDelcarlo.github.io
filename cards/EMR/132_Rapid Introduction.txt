@@ -1,0 +1,1 @@
+﻿Rapid Introduction	R	uncommon	Sorcery	132	R	R	Exile the top three cards of your library. Until end of turn, you may play artifact cards from among them.			normal	EMR		

@@ -1,0 +1,1 @@
+﻿Imperfect Memory	U	uncommon	Instant	52	U	1U	Return target artifact or creature to its owner’s hand.  If it had mana value 3 or less, untap up to one land.			normal	EMR		Removal

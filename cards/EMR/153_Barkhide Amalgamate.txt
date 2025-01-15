@@ -1,0 +1,1 @@
+﻿Barkhide Amalgamate	G	uncommon	Creature – Elemental 	153	G	3G	VigilanceNEWLINEWhen Barkhide Amalgamate dies, create an Energy Cell token, then gain life equal to the number of tokens you control. (It’s an artifact with “T, Sacrifice this: Add C.”)	3/4		normal	EMR		Cell Generation

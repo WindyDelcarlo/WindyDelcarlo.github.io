@@ -1,0 +1,1 @@
+﻿Urban Scout	B	common	Creature – Human Scout 	106	B	1B	When Urban Scout enters, you lose 1 life and create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)	2/1		normal	EMR		Cell Generation

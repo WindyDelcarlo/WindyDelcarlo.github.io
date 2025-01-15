@@ -1,0 +1,1 @@
+﻿Guarding Grovekin	RG	uncommon	Creature – Elemental 	186	RG	4RG	Relentless (Whenever this creature becomes untapped, it gets +1/+1 until end of turn.)NEWLINETrampleNEWLINEGuarding Grovekin enters with a +1/+1 counter on it for each artifact and creature you control.	0/0		normal	EMR		

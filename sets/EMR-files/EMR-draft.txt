@@ -1,0 +1,3182 @@
+﻿[CustomCards]
+	[	{
+			"name": "Aetheric Revolution",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/112_Aetheric Revolution.png"
+			}
+		},
+		{
+			"name": "Rianne, Entelan Contact",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/59_Rianne, Entelan Contact.png"
+			}
+		},
+		{
+			"name": "Noble District",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/249_Noble District.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/252_Wastes.png"
+			}
+		},
+		{
+			"name": "Aether Carrier",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/1_Aether Carrier.png"
+			}
+		},
+		{
+			"name": "Fresh Recruits",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/16_Fresh Recruits.png"
+			}
+		},
+		{
+			"name": "Instability",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/19_Instability.png"
+			}
+		},
+		{
+			"name": "Wasteland Scavenger",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/36_Wasteland Scavenger.png"
+			}
+		},
+		{
+			"name": "Star's Audience",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/34_Star's Audience.png"
+			}
+		},
+		{
+			"name": "Evocation of Solari",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elemental ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/13_Evocation of Solari.png"
+			}
+		},
+		{
+			"name": "Aetherarm Smith",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/4_Aetherarm Smith.png"
+			}
+		},
+		{
+			"name": "Shining Voice",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/27_Shining Voice.png"
+			}
+		},
+		{
+			"name": "Slip Away",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/28_Slip Away.png"
+			}
+		},
+		{
+			"name": "Relentless Strokes",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/25_Relentless Strokes.png"
+			}
+		},
+		{
+			"name": "Factory Workers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/14_Factory Workers.png"
+			}
+		},
+		{
+			"name": "Aether Condensation",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/2_Aether Condensation.png"
+			}
+		},
+		{
+			"name": "Fascinating Lightkin",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Elemental ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/15_Fascinating Lightkin.png"
+			}
+		},
+		{
+			"name": "Soul's Attendent",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/32_Soul's Attendent.png"
+			}
+		},
+		{
+			"name": "Thieving Raven",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/68_Thieving Raven.png"
+			}
+		},
+		{
+			"name": "Platinum Matrix",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/56_Platinum Matrix.png"
+			}
+		},
+		{
+			"name": "Windskimmer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/72_Windskimmer.png"
+			}
+		},
+		{
+			"name": "Urban Search",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/70_Urban Search.png"
+			}
+		},
+		{
+			"name": "Sleepthorn Sharpshooter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Archer Wizard ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/62_Sleepthorn Sharpshooter.png"
+			}
+		},
+		{
+			"name": "Amateur Engineer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/40_Amateur Engineer.png"
+			}
+		},
+		{
+			"name": "Entelan Tutelage",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/49_Entelan Tutelage.png"
+			}
+		},
+		{
+			"name": "Aetheric Spellcrafter",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/38_Aetheric Spellcrafter.png"
+			}
+		},
+		{
+			"name": "Stellar Cartogapher",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/65_Stellar Cartogapher.png"
+			}
+		},
+		{
+			"name": "Tunnel Smuggling",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/69_Tunnel Smuggling.png"
+			}
+		},
+		{
+			"name": "Rooftop Marauders",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/60_Rooftop Marauders.png"
+			}
+		},
+		{
+			"name": "Sentinel of Agahia",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/61_Sentinel of Agahia.png"
+			}
+		},
+		{
+			"name": "Quick Exit",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/57_Quick Exit.png"
+			}
+		},
+		{
+			"name": "Wait for Results",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/71_Wait for Results.png"
+			}
+		},
+		{
+			"name": "Subspace Ripple",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/66_Subspace Ripple.png"
+			}
+		},
+		{
+			"name": "Unguided Research",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/105_Unguided Research.png"
+			}
+		},
+		{
+			"name": "Waste Disposal",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/108_Waste Disposal.png"
+			}
+		},
+		{
+			"name": "Touched by Aether",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/101_Touched by Aether.png"
+			}
+		},
+		{
+			"name": "Cloak of Dusk",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/77_Cloak of Dusk.png"
+			}
+		},
+		{
+			"name": "Ekstan Initiate",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Elf Cleric ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/82_Ekstan Initiate.png"
+			}
+		},
+		{
+			"name": "Spiritblade Rogue",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/97_Spiritblade Rogue.png"
+			}
+		},
+		{
+			"name": "Urban Scout",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/106_Urban Scout.png"
+			}
+		},
+		{
+			"name": "Quickshot Privateer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/93_Quickshot Privateer.png"
+			}
+		},
+		{
+			"name": "Disillusioned Urchins",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/81_Disillusioned Urchins.png"
+			}
+		},
+		{
+			"name": "Elemental Caller",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/83_Elemental Caller.png"
+			}
+		},
+		{
+			"name": "Platinized Spellhunter",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/92_Platinized Spellhunter.png"
+			}
+		},
+		{
+			"name": "Avian Summoner",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/76_Avian Summoner.png"
+			}
+		},
+		{
+			"name": "Aether Sickness",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/75_Aether Sickness.png"
+			}
+		},
+		{
+			"name": "Expendable Forces",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/118_Expendable Forces.png"
+			}
+		},
+		{
+			"name": "Lose Control",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/130_Lose Control.png"
+			}
+		},
+		{
+			"name": "Aether Sharpshooter",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elf Ranger ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/110_Aether Sharpshooter.png"
+			}
+		},
+		{
+			"name": "Grid Failure",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/121_Grid Failure.png"
+			}
+		},
+		{
+			"name": "Homeguard Patrol",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/124_Homeguard Patrol.png"
+			}
+		},
+		{
+			"name": "Invasion Element",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/127_Invasion Element.png"
+			}
+		},
+		{
+			"name": "Aethersteel Salvager",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/113_Aethersteel Salvager.png"
+			}
+		},
+		{
+			"name": "Fleeting Stormling",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/120_Fleeting Stormling.png"
+			}
+		},
+		{
+			"name": "Inventive Prodigy",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/128_Inventive Prodigy.png"
+			}
+		},
+		{
+			"name": "Empathic Song",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/116_Empathic Song.png"
+			}
+		},
+		{
+			"name": "Imaginer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/125_Imaginer.png"
+			}
+		},
+		{
+			"name": "Reckless Summoner",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/133_Reckless Summoner.png"
+			}
+		},
+		{
+			"name": "Finally Home",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/119_Finally Home.png"
+			}
+		},
+		{
+			"name": "Tenebrite Disassembly",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/145_Tenebrite Disassembly.png"
+			}
+		},
+		{
+			"name": "Rescue Team",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/170_Rescue Team.png"
+			}
+		},
+		{
+			"name": "Linewatcher",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Soldier ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/165_Linewatcher.png"
+			}
+		},
+		{
+			"name": "Joint Training",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/164_Joint Training.png"
+			}
+		},
+		{
+			"name": "Urban Restructurer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/178_Urban Restructurer.png"
+			}
+		},
+		{
+			"name": "Botanical Collector",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/154_Botanical Collector.png"
+			}
+		},
+		{
+			"name": "Wrangled Wildlife",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elk ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/181_Wrangled Wildlife.png"
+			}
+		},
+		{
+			"name": "Hunter of Eksta",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Scout ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/163_Hunter of Eksta.png"
+			}
+		},
+		{
+			"name": "Condensation of Avarice",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/156_Condensation of Avarice.png"
+			}
+		},
+		{
+			"name": "Natural Preservation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/166_Natural Preservation.png"
+			}
+		},
+		{
+			"name": "Enhanced Stimulation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/158_Enhanced Stimulation.png"
+			}
+		},
+		{
+			"name": "Aim High",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/152_Aim High.png"
+			}
+		},
+		{
+			"name": "Solaran Channeling",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/174_Solaran Channeling.png"
+			}
+		},
+		{
+			"name": "Failed Infrastructure",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/159_Failed Infrastructure.png"
+			}
+		},
+		{
+			"name": "Navigator's Sextant",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/224_Navigator's Sextant.png"
+			}
+		},
+		{
+			"name": "Provision Stall",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/230_Provision Stall.png"
+			}
+		},
+		{
+			"name": "Observer Waystone",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/228_Observer Waystone.png"
+			}
+		},
+		{
+			"name": "Aethersteel Statue",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Elemental ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/206_Aethersteel Statue.png"
+			}
+		},
+		{
+			"name": "Eternity Ketch",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/217_Eternity Ketch.png"
+			}
+		},
+		{
+			"name": "Shimmer Blade",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/234_Shimmer Blade.png"
+			}
+		},
+		{
+			"name": "Aether Canister",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/201_Aether Canister.png"
+			}
+		},
+		{
+			"name": "Circuit Tuner",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/209_Circuit Tuner.png"
+			}
+		},
+		{
+			"name": "Workshop Tools",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/243_Workshop Tools.png"
+			}
+		},
+		{
+			"name": "Necklace of Resonance",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/225_Necklace of Resonance.png"
+			}
+		},
+		{
+			"name": "Raiding Force",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/24_Raiding Force.png"
+			}
+		},
+		{
+			"name": "House Arrest",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/18_House Arrest.png"
+			}
+		},
+		{
+			"name": "Broadside Bombardment",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/8_Broadside Bombardment.png"
+			}
+		},
+		{
+			"name": "Brightsoul Medic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Cleric ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/7_Brightsoul Medic.png"
+			}
+		},
+		{
+			"name": "Private Military",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/23_Private Military.png"
+			}
+		},
+		{
+			"name": "Display of Skill",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/11_Display of Skill.png"
+			}
+		},
+		{
+			"name": "Starlight Invaders",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/195_Starlight Invaders.png"
+			}
+		},
+		{
+			"name": "Solari's Emissary",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Humn Cleric ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/30_Solari's Emissary.png"
+			}
+		},
+		{
+			"name": "Novice Spellweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/21_Novice Spellweaver.png"
+			}
+		},
+		{
+			"name": "Soulcrafter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/31_Soulcrafter.png"
+			}
+		},
+		{
+			"name": "Art Collector",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/183_Art Collector.png"
+			}
+		},
+		{
+			"name": "Aqueous Patrol",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Rogue ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/41_Aqueous Patrol.png"
+			}
+		},
+		{
+			"name": "Heir of the Unreal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/51_Heir of the Unreal.png"
+			}
+		},
+		{
+			"name": "Instrumental Analysis",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/53_Instrumental Analysis.png"
+			}
+		},
+		{
+			"name": "Aether Oscillation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/37_Aether Oscillation.png"
+			}
+		},
+		{
+			"name": "Imperfect Memory",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/52_Imperfect Memory.png"
+			}
+		},
+		{
+			"name": "Customs Agent",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Soldier ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/47_Customs Agent.png"
+			}
+		},
+		{
+			"name": "Brave the Storm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/43_Brave the Storm.png"
+			}
+		},
+		{
+			"name": "Starlight Surveyor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/64_Starlight Surveyor.png"
+			}
+		},
+		{
+			"name": "Backstreet Investigator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/42_Backstreet Investigator.png"
+			}
+		},
+		{
+			"name": "Deep Night Couriers",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/184_Deep Night Couriers.png"
+			}
+		},
+		{
+			"name": "Lunar Priestess",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/89_Lunar Priestess.png"
+			}
+		},
+		{
+			"name": "Vin Estra, Some Guy",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Assassin ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/107_Vin Estra, Some Guy.png"
+			}
+		},
+		{
+			"name": "Well Paid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/109_Well Paid.png"
+			}
+		},
+		{
+			"name": "Twilight Summoning",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/197_Twilight Summoning.png"
+			}
+		},
+		{
+			"name": "Here Without You",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/85_Here Without You.png"
+			}
+		},
+		{
+			"name": "A Step into the Darkness",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/99_A Step into the Darkness.png"
+			}
+		},
+		{
+			"name": "Crafty Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/79_Crafty Scavenger.png"
+			}
+		},
+		{
+			"name": "Demian Spellstealer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Dragon Wizard ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/80_Demian Spellstealer.png"
+			}
+		},
+		{
+			"name": "Starlight Step",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/98_Starlight Step.png"
+			}
+		},
+		{
+			"name": "Highborn Maverick",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/123_Highborn Maverick.png"
+			}
+		},
+		{
+			"name": "Storehouse Saboteur",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/196_Storehouse Saboteur.png"
+			}
+		},
+		{
+			"name": "Repair Technician",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/134_Repair Technician.png"
+			}
+		},
+		{
+			"name": "Entelan Scrapsmith",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/117_Entelan Scrapsmith.png"
+			}
+		},
+		{
+			"name": "Kinetic Channeler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/129_Kinetic Channeler.png"
+			}
+		},
+		{
+			"name": "Rapid Deployment",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/189_Rapid Deployment.png"
+			}
+		},
+		{
+			"name": "Scrapper's Familiar",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Beast ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/138_Scrapper's Familiar.png"
+			}
+		},
+		{
+			"name": "Seafaring Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/140_Seafaring Stalker.png"
+			}
+		},
+		{
+			"name": "Resonant Aether",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/136_Resonant Aether.png"
+			}
+		},
+		{
+			"name": "Structure Breaker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/144_Structure Breaker.png"
+			}
+		},
+		{
+			"name": "Barkhide Amalgamate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/153_Barkhide Amalgamate.png"
+			}
+		},
+		{
+			"name": "Newfound Strength",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/167_Newfound Strength.png"
+			}
+		},
+		{
+			"name": "Aetherkin Invocation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/149_Aetherkin Invocation.png"
+			}
+		},
+		{
+			"name": "Brush Ambush",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/155_Brush Ambush.png"
+			}
+		},
+		{
+			"name": "Reclaiming Growth",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Plant ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/190_Reclaiming Growth.png"
+			}
+		},
+		{
+			"name": "Feinr's Advocate",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/160_Feinr's Advocate.png"
+			}
+		},
+		{
+			"name": "Stories of Peoples Past",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/175_Stories of Peoples Past.png"
+			}
+		},
+		{
+			"name": "Aetheric Byproduct",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/203_Aetheric Byproduct.png"
+			}
+		},
+		{
+			"name": "Aethersteel Scale",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/205_Aethersteel Scale.png"
+			}
+		},
+		{
+			"name": "Enforcer's Plate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/214_Enforcer's Plate.png"
+			}
+		},
+		{
+			"name": "Circuit Assembler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Elemental ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/208_Circuit Assembler.png"
+			}
+		},
+		{
+			"name": "Stage Manager",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/235_Stage Manager.png"
+			}
+		},
+		{
+			"name": "Fluid Aether",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/218_Fluid Aether.png"
+			}
+		},
+		{
+			"name": "EnTech Transceiver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/215_EnTech Transceiver.png"
+			}
+		},
+		{
+			"name": "Wide Display",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/242_Wide Display.png"
+			}
+		},
+		{
+			"name": "Improvised Artillery",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/220_Improvised Artillery.png"
+			}
+		},
+		{
+			"name": "Fractioned Aether Cell",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/219_Fractioned Aether Cell.png"
+			}
+		},
+		{
+			"name": "Nullmagic Plating",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/227_Nullmagic Plating.png"
+			}
+		},
+		{
+			"name": "Agahian Complexes",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/245_Agahian Complexes.png"
+			}
+		},
+		{
+			"name": "Aether Refinery",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/244_Aether Refinery.png"
+			}
+		},
+		{
+			"name": "Starlight Operative",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/63_Starlight Operative.png"
+			}
+		},
+		{
+			"name": "Eksta's Faithful",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/12_Eksta's Faithful.png"
+			}
+		},
+		{
+			"name": "Political Capture",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/22_Political Capture.png"
+			}
+		},
+		{
+			"name": "Entelan Technician",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/185_Entelan Technician.png"
+			}
+		},
+		{
+			"name": "Covert Specialist",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/46_Covert Specialist.png"
+			}
+		},
+		{
+			"name": "Underground Princess",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/103_Underground Princess.png"
+			}
+		},
+		{
+			"name": "Sleeper Guerilla",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/96_Sleeper Guerilla.png"
+			}
+		},
+		{
+			"name": "Structural Engineering",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/143_Structural Engineering.png"
+			}
+		},
+		{
+			"name": "Aether Visionary",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/111_Aether Visionary.png"
+			}
+		},
+		{
+			"name": "Fist of Feinr",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Monk ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/161_Fist of Feinr.png"
+			}
+		},
+		{
+			"name": "Aetherspinner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Worm ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/150_Aetherspinner.png"
+			}
+		},
+		{
+			"name": "EnTech Laboratory",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/247_EnTech Laboratory.png"
+			}
+		},
+		{
+			"name": "Shrine of Conquest",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/251_Shrine of Conquest.png"
+			}
+		},
+		{
+			"name": "Palace of the High Princess",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/250_Palace of the High Princess.png"
+			}
+		},
+		{
+			"name": "Contaminated Factory",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/246_Contaminated Factory.png"
+			}
+		},
+		{
+			"name": "Island Port",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/248_Island Port.png"
+			}
+		},
+		{
+			"name": "Crystal Currency",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/212_Crystal Currency.png"
+			}
+		},
+		{
+			"name": "Razor Rifle",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/231_Razor Rifle.png"
+			}
+		},
+		{
+			"name": "The Sunspear",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/236_The Sunspear.png"
+			}
+		},
+		{
+			"name": "Tenebrite Detonator",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/238_Tenebrite Detonator.png"
+			}
+		},
+		{
+			"name": "Teleportation Grid",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/237_Teleportation Grid.png"
+			}
+		},
+		{
+			"name": "Kinetic Boltcaster",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/221_Kinetic Boltcaster.png"
+			}
+		},
+		{
+			"name": "Contained Thought Relay",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/211_Contained Thought Relay.png"
+			}
+		},
+		{
+			"name": "Powered Steelhead",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/229_Powered Steelhead.png"
+			}
+		},
+		{
+			"name": "Aethercoil Rifle",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/202_Aethercoil Rifle.png"
+			}
+		},
+		{
+			"name": "Aetherized Ornithopter",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Thopter ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/204_Aetherized Ornithopter.png"
+			}
+		},
+		{
+			"name": "Adaptor Pistol",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/200_Adaptor Pistol.png"
+			}
+		},
+		{
+			"name": "Makeshift Aether Tunnel",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/222_Makeshift Aether Tunnel.png"
+			}
+		},
+		{
+			"name": "Merchant Vessel",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/223_Merchant Vessel.png"
+			}
+		},
+		{
+			"name": "Gaze Upon the Empire",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/17_Gaze Upon the Empire.png"
+			}
+		},
+		{
+			"name": "The Blessed Children",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Avatar ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/6_The Blessed Children.png"
+			}
+		},
+		{
+			"name": "Day of Unity",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/10_Day of Unity.png"
+			}
+		},
+		{
+			"name": "Bishop of Conquest",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/5_Bishop of Conquest.png"
+			}
+		},
+		{
+			"name": "Sungraced Monarch",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/35_Sungraced Monarch.png"
+			}
+		},
+		{
+			"name": "Celestial Navigation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/45_Celestial Navigation.png"
+			}
+		},
+		{
+			"name": "Extended Negotiations",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/50_Extended Negotiations.png"
+			}
+		},
+		{
+			"name": "Aethertouched Behemoth",
+			"rarity": "mythic",
+			"mana_cost": "{8}{U}{U}",
+			"type": "Creature — Leviathan ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/39_Aethertouched Behemoth.png"
+			}
+		},
+		{
+			"name": "Displacement Matrix",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/48_Displacement Matrix.png"
+			}
+		},
+		{
+			"name": "Resonant Innovator",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/58_Resonant Innovator.png"
+			}
+		},
+		{
+			"name": "Ardent Revolutionary",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/182_Ardent Revolutionary.png"
+			}
+		},
+		{
+			"name": "Midnight Company",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/90_Midnight Company.png"
+			}
+		},
+		{
+			"name": "Intrepid Smuggler",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/88_Intrepid Smuggler.png"
+			}
+		},
+		{
+			"name": "Regent of the Dark Sun",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Dragon ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/94_Regent of the Dark Sun.png"
+			}
+		},
+		{
+			"name": "Collapsed Function",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/78_Collapsed Function.png"
+			}
+		},
+		{
+			"name": "Imperial Observer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/87_Imperial Observer.png"
+			}
+		},
+		{
+			"name": "Replicist",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/135_Replicist.png"
+			}
+		},
+		{
+			"name": "Heavy Industry",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/122_Heavy Industry.png"
+			}
+		},
+		{
+			"name": "A Performance to Remember",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/131_A Performance to Remember.png"
+			}
+		},
+		{
+			"name": "Daybreak Predators",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/114_Daybreak Predators.png"
+			}
+		},
+		{
+			"name": "Scour the Planes",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/137_Scour the Planes.png"
+			}
+		},
+		{
+			"name": "Ecstatic Student",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/115_Ecstatic Student.png"
+			}
+		},
+		{
+			"name": "Sylvan Longshot",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Ranger ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/177_Sylvan Longshot.png"
+			}
+		},
+		{
+			"name": "Fleet Protector",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/162_Fleet Protector.png"
+			}
+		},
+		{
+			"name": "Search For Inspiration",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/173_Search For Inspiration.png"
+			}
+		},
+		{
+			"name": "Adept Botanist",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/146_Adept Botanist.png"
+			}
+		},
+		{
+			"name": "Ward of Solari",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/179_Ward of Solari.png"
+			}
+		},
+		{
+			"name": "Support Bracer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/176_Support Bracer.png"
+			}
+		},
+		{
+			"name": "Scrap Surveyors",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Elf Shaman ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/192_Scrap Surveyors.png"
+			}
+		},
+		{
+			"name": "Military Industry",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/20_Military Industry.png"
+			}
+		},
+		{
+			"name": "Stalemate",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/33_Stalemate.png"
+			}
+		},
+		{
+			"name": "Luminal Predator",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Elemental ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/55_Luminal Predator.png"
+			}
+		},
+		{
+			"name": "Cascading Aether Field",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/44_Cascading Aether Field.png"
+			}
+		},
+		{
+			"name": "High Priestess of Eksta",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/86_High Priestess of Eksta.png"
+			}
+		},
+		{
+			"name": "Slip Past",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/142_Slip Past.png"
+			}
+		},
+		{
+			"name": "Agahian Pathfinder",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Archer ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/151_Agahian Pathfinder.png"
+			}
+		},
+		{
+			"name": "Confluence Remnant",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/157_Confluence Remnant.png"
+			}
+		},
+		{
+			"name": "Dimension Anchor",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Artifact",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/213_Dimension Anchor.png"
+			}
+		},
+		{
+			"name": "Resonance Reactor",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/232_Resonance Reactor.png"
+			}
+		},
+		{
+			"name": "Veklin, Arbiter of Stars",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Planeswalker — Veklin ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/198_Veklin, Arbiter of Stars.png"
+			}
+		},
+		{
+			"name": "Warlord Rishen",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/199_Warlord Rishen.png"
+			}
+		},
+		{
+			"name": "High Princess Ivra",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/187_High Princess Ivra.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/254_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/257_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/261_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/262_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/265_Forest.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/253_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/256_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/259_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/263_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/266_Forest.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/255_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/258_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/260_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/264_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/267_Forest.png"
+			}
+		},
+		{
+			"name": "Controlled Shipments",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/9_Controlled Shipments.png"
+			}
+		},
+		{
+			"name": "Aether Fragment",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/3_Aether Fragment.png"
+			}
+		},
+		{
+			"name": "Seiko, Star of the Multiverse",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Planeswalker — Seiko ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/193_Seiko, Star of the Multiverse.png"
+			}
+		},
+		{
+			"name": "Moonlight Operative",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/91_Moonlight Operative.png"
+			}
+		},
+		{
+			"name": "Restoration Serum",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/233_Restoration Serum.png"
+			}
+		},
+		{
+			"name": "Resonant Nestmother",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Elemental Bird ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/191_Resonant Nestmother.png"
+			}
+		},
+		{
+			"name": "Warehouse Lift",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/241_Warehouse Lift.png"
+			}
+		},
+		{
+			"name": "Limiter Agent",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/54_Limiter Agent.png"
+			}
+		},
+		{
+			"name": "Conduit Knife",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/210_Conduit Knife.png"
+			}
+		},
+		{
+			"name": "Rapid Introduction",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/132_Rapid Introduction.png"
+			}
+		},
+		{
+			"name": "Induction Specialist",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/126_Induction Specialist.png"
+			}
+		},
+		{
+			"name": "Nullmagic Coat",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/226_Nullmagic Coat.png"
+			}
+		},
+		{
+			"name": "Band of Shared Stars",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/207_Band of Shared Stars.png"
+			}
+		},
+		{
+			"name": "Tranceiver Relay",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/239_Tranceiver Relay.png"
+			}
+		},
+		{
+			"name": "Seasteady Duelist",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/141_Seasteady Duelist.png"
+			}
+		},
+		{
+			"name": "Transport Cart",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/240_Transport Cart.png"
+			}
+		},
+		{
+			"name": "Aether Mist",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/73_Aether Mist.png"
+			}
+		},
+		{
+			"name": "Aether Shade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elemental Shade ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/74_Aether Shade.png"
+			}
+		},
+		{
+			"name": "Shadeshifter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/95_Shadeshifter.png"
+			}
+		},
+		{
+			"name": "Warden of Agahia",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/180_Warden of Agahia.png"
+			}
+		},
+		{
+			"name": "Aether Weaver",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/147_Aether Weaver.png"
+			}
+		},
+		{
+			"name": "Aetherfur Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Wolf ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/148_Aetherfur Hunter.png"
+			}
+		},
+		{
+			"name": "Guarding Grovekin",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/186_Guarding Grovekin.png"
+			}
+		},
+		{
+			"name": "Piercing Arrow",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/168_Piercing Arrow.png"
+			}
+		},
+		{
+			"name": "Princess of Light",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/169_Princess of Light.png"
+			}
+		},
+		{
+			"name": "Rivertracer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Ranger ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/171_Rivertracer.png"
+			}
+		},
+		{
+			"name": "Eternities Atlas",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/216_Eternities Atlas.png"
+			}
+		},
+		{
+			"name": "Exfiltration",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/84_Exfiltration.png"
+			}
+		},
+		{
+			"name": "Karina, Seeking Hope",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Planeswalker — Karina ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/188_Karina, Seeking Hope.png"
+			}
+		},
+		{
+			"name": "Sea of Fans",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/139_Sea of Fans.png"
+			}
+		},
+		{
+			"name": "Sentinel of Solari",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Knight ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/26_Sentinel of Solari.png"
+			}
+		},
+		{
+			"name": "Solaran Plate",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/29_Solaran Plate.png"
+			}
+		},
+		{
+			"name": "Solari, With New Life",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Elemental Avatar ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/194_Solari, With New Life.png"
+			}
+		},
+		{
+			"name": "Subspace Dreamer",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/100_Subspace Dreamer.png"
+			}
+		},
+		{
+			"name": "Take Your Time",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/67_Take Your Time.png"
+			}
+		},
+		{
+			"name": "The Scent of Rain",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/172_The Scent of Rain.png"
+			}
+		},
+		{
+			"name": "Under the Empire's New Light",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/102_Under the Empire's New Light.png"
+			}
+		},
+		{
+			"name": "Underworld Resources",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://WindyDelcarlo.github.io/sets/EMR-files/img/104_Underworld Resources.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Rianne, Entelan Contact
+		2 Noble District
+		2 Tunnel Smuggling
+		2 Aether Canister
+		2 Vin Estra, Some Guy
+		2 Here Without You
+		2 EnTech Laboratory
+		2 Shrine of Conquest
+		2 Palace of the High Princess
+		2 Contaminated Factory
+		2 Island Port
+		2 Crystal Currency
+		2 Razor Rifle
+		2 The Sunspear
+		2 Tenebrite Detonator
+		2 Teleportation Grid
+		2 Kinetic Boltcaster
+		2 Contained Thought Relay
+		2 Powered Steelhead
+		2 Aethercoil Rifle
+		2 Adaptor Pistol
+		2 Makeshift Aether Tunnel
+		2 Merchant Vessel
+		2 Gaze Upon the Empire
+		2 Day of Unity
+		2 Bishop of Conquest
+		2 Sungraced Monarch
+		2 Extended Negotiations
+		2 Displacement Matrix
+		2 Resonant Innovator
+		2 Ardent Revolutionary
+		2 Midnight Company
+		2 Intrepid Smuggler
+		2 Replicist
+		2 Heavy Industry
+		2 A Performance to Remember
+		2 Daybreak Predators
+		2 Scour the Planes
+		2 Ecstatic Student
+		2 Sylvan Longshot
+		2 Fleet Protector
+		2 Search For Inspiration
+		2 Adept Botanist
+		2 Ward of Solari
+		2 Scrap Surveyors
+		2 Stalemate
+		2 Luminal Predator
+		2 Agahian Pathfinder
+		2 High Princess Ivra
+		2 Controlled Shipments
+		2 Band of Shared Stars
+		2 Aether Mist
+		2 Exfiltration
+		1 Aetheric Revolution
+		1 Lose Control
+		1 Stories of Peoples Past
+		1 The Blessed Children
+		1 Aethertouched Behemoth
+		1 Regent of the Dark Sun
+		1 Military Industry
+		1 Cascading Aether Field
+		1 High Priestess of Eksta
+		1 Confluence Remnant
+		1 Dimension Anchor
+		1 Resonance Reactor
+		1 Veklin, Arbiter of Stars
+		1 Warlord Rishen
+		1 Seiko, Star of the Multiverse
+		1 Karina, Seeking Hope
+		1 Solari, With New Life
+		[UncommonSlot(3)]
+	9 Factory Workers
+		9 Windskimmer
+		9 Sleepthorn Sharpshooter
+		9 Elemental Caller
+		9 Imaginer
+		9 Natural Preservation
+		9 Enhanced Stimulation
+		9 Raiding Force
+		9 House Arrest
+		9 Brightsoul Medic
+		9 Private Military
+		9 Display of Skill
+		9 Starlight Invaders
+		9 Solari's Emissary
+		9 Novice Spellweaver
+		9 Soulcrafter
+		9 Art Collector
+		9 Heir of the Unreal
+		9 Instrumental Analysis
+		9 Aether Oscillation
+		9 Imperfect Memory
+		9 Brave the Storm
+		9 Starlight Surveyor
+		9 Backstreet Investigator
+		9 Deep Night Couriers
+		9 Lunar Priestess
+		9 Well Paid
+		9 Twilight Summoning
+		9 Crafty Scavenger
+		9 Starlight Step
+		9 Highborn Maverick
+		9 Storehouse Saboteur
+		9 Repair Technician
+		9 Kinetic Channeler
+		9 Rapid Deployment
+		9 Scrapper's Familiar
+		9 Seafaring Stalker
+		9 Resonant Aether
+		9 Structure Breaker
+		9 Barkhide Amalgamate
+		9 Aetherkin Invocation
+		9 Reclaiming Growth
+		9 Aetheric Byproduct
+		9 Aethersteel Scale
+		9 Enforcer's Plate
+		9 Circuit Assembler
+		9 Stage Manager
+		9 Fluid Aether
+		9 EnTech Transceiver
+		9 Wide Display
+		9 Improvised Artillery
+		9 Fractioned Aether Cell
+		9 Nullmagic Plating
+		9 Agahian Complexes
+		9 Aether Refinery
+		9 Starlight Operative
+		9 Eksta's Faithful
+		9 Political Capture
+		9 Entelan Technician
+		9 Underground Princess
+		9 Sleeper Guerilla
+		9 Structural Engineering
+		9 Aether Visionary
+		9 Fist of Feinr
+		9 Aetherspinner
+		9 Celestial Navigation
+		9 Collapsed Function
+		9 Imperial Observer
+		9 Moonlight Operative
+		9 Resonant Nestmother
+		9 Conduit Knife
+		9 Rapid Introduction
+		9 Tranceiver Relay
+		9 Aether Shade
+		9 Aether Weaver
+		9 Aetherfur Hunter
+		9 Guarding Grovekin
+		9 Piercing Arrow
+		9 The Scent of Rain
+		9 Under the Empire's New Light
+		[CommonSlot(9)]
+	30 Wastes
+		30 Aether Carrier
+		30 Fresh Recruits
+		30 Instability
+		30 Wasteland Scavenger
+		30 Star's Audience
+		30 Evocation of Solari
+		30 Aetherarm Smith
+		30 Shining Voice
+		30 Slip Away
+		30 Relentless Strokes
+		30 Aether Condensation
+		30 Fascinating Lightkin
+		30 Soul's Attendent
+		30 Thieving Raven
+		30 Platinum Matrix
+		30 Urban Search
+		30 Amateur Engineer
+		30 Entelan Tutelage
+		30 Aetheric Spellcrafter
+		30 Stellar Cartogapher
+		30 Rooftop Marauders
+		30 Sentinel of Agahia
+		30 Quick Exit
+		30 Wait for Results
+		30 Subspace Ripple
+		30 Unguided Research
+		30 Waste Disposal
+		30 Touched by Aether
+		30 Cloak of Dusk
+		30 Ekstan Initiate
+		30 Spiritblade Rogue
+		30 Urban Scout
+		30 Quickshot Privateer
+		30 Disillusioned Urchins
+		30 Platinized Spellhunter
+		30 Avian Summoner
+		30 Aether Sickness
+		30 Expendable Forces
+		30 Aether Sharpshooter
+		30 Grid Failure
+		30 Homeguard Patrol
+		30 Invasion Element
+		30 Aethersteel Salvager
+		30 Fleeting Stormling
+		30 Inventive Prodigy
+		30 Empathic Song
+		30 Reckless Summoner
+		30 Finally Home
+		30 Tenebrite Disassembly
+		30 Rescue Team
+		30 Linewatcher
+		30 Joint Training
+		30 Urban Restructurer
+		30 Botanical Collector
+		30 Wrangled Wildlife
+		30 Hunter of Eksta
+		30 Condensation of Avarice
+		30 Aim High
+		30 Solaran Channeling
+		30 Failed Infrastructure
+		30 Navigator's Sextant
+		30 Provision Stall
+		30 Observer Waystone
+		30 Aethersteel Statue
+		30 Eternity Ketch
+		30 Shimmer Blade
+		30 Circuit Tuner
+		30 Workshop Tools
+		30 Necklace of Resonance
+		30 Broadside Bombardment
+		30 Aqueous Patrol
+		30 Customs Agent
+		30 A Step into the Darkness
+		30 Demian Spellstealer
+		30 Entelan Scrapsmith
+		30 Newfound Strength
+		30 Brush Ambush
+		30 Feinr's Advocate
+		30 Covert Specialist
+		30 Aetherized Ornithopter
+		30 Support Bracer
+		30 Slip Past
+		30 Aether Fragment
+		30 Restoration Serum
+		30 Warehouse Lift
+		30 Limiter Agent
+		30 Induction Specialist
+		30 Nullmagic Coat
+		30 Seasteady Duelist
+		30 Transport Cart
+		30 Shadeshifter
+		30 Warden of Agahia
+		30 Princess of Light
+		30 Rivertracer
+		30 Eternities Atlas
+		30 Sea of Fans
+		30 Sentinel of Solari
+		30 Solaran Plate
+		30 Subspace Dreamer
+		30 Take Your Time
+		30 Underworld Resources
+		[WildcardSlot(1)]
+	10 Aetheric Revolution
+	10 Rianne, Entelan Contact
+	10 Noble District
+	10 Wastes
+	10 Aether Carrier
+	10 Fresh Recruits
+	10 Instability
+	10 Wasteland Scavenger
+	10 Star's Audience
+	10 Evocation of Solari
+	10 Aetherarm Smith
+	10 Shining Voice
+	10 Slip Away
+	10 Relentless Strokes
+	10 Factory Workers
+	10 Aether Condensation
+	10 Fascinating Lightkin
+	10 Soul's Attendent
+	10 Thieving Raven
+	10 Platinum Matrix
+	10 Windskimmer
+	10 Urban Search
+	10 Sleepthorn Sharpshooter
+	10 Amateur Engineer
+	10 Entelan Tutelage
+	10 Aetheric Spellcrafter
+	10 Stellar Cartogapher
+	10 Tunnel Smuggling
+	10 Rooftop Marauders
+	10 Sentinel of Agahia
+	10 Quick Exit
+	10 Wait for Results
+	10 Subspace Ripple
+	10 Unguided Research
+	10 Waste Disposal
+	10 Touched by Aether
+	10 Cloak of Dusk
+	10 Ekstan Initiate
+	10 Spiritblade Rogue
+	10 Urban Scout
+	10 Quickshot Privateer
+	10 Disillusioned Urchins
+	10 Elemental Caller
+	10 Platinized Spellhunter
+	10 Avian Summoner
+	10 Aether Sickness
+	10 Expendable Forces
+	10 Lose Control
+	10 Aether Sharpshooter
+	10 Grid Failure
+	10 Homeguard Patrol
+	10 Invasion Element
+	10 Aethersteel Salvager
+	10 Fleeting Stormling
+	10 Inventive Prodigy
+	10 Empathic Song
+	10 Imaginer
+	10 Reckless Summoner
+	10 Finally Home
+	10 Tenebrite Disassembly
+	10 Rescue Team
+	10 Linewatcher
+	10 Joint Training
+	10 Urban Restructurer
+	10 Botanical Collector
+	10 Wrangled Wildlife
+	10 Hunter of Eksta
+	10 Condensation of Avarice
+	10 Natural Preservation
+	10 Enhanced Stimulation
+	10 Aim High
+	10 Solaran Channeling
+	10 Failed Infrastructure
+	10 Navigator's Sextant
+	10 Provision Stall
+	10 Observer Waystone
+	10 Aethersteel Statue
+	10 Eternity Ketch
+	10 Shimmer Blade
+	10 Aether Canister
+	10 Circuit Tuner
+	10 Workshop Tools
+	10 Necklace of Resonance
+	10 Raiding Force
+	10 House Arrest
+	10 Broadside Bombardment
+	10 Brightsoul Medic
+	10 Private Military
+	10 Display of Skill
+	10 Starlight Invaders
+	10 Solari's Emissary
+	10 Novice Spellweaver
+	10 Soulcrafter
+	10 Art Collector
+	10 Aqueous Patrol
+	10 Heir of the Unreal
+	10 Instrumental Analysis
+	10 Aether Oscillation
+	10 Imperfect Memory
+	10 Customs Agent
+	10 Brave the Storm
+	10 Starlight Surveyor
+	10 Backstreet Investigator
+	10 Deep Night Couriers
+	10 Lunar Priestess
+	10 Vin Estra, Some Guy
+	10 Well Paid
+	10 Twilight Summoning
+	10 Here Without You
+	10 A Step into the Darkness
+	10 Crafty Scavenger
+	10 Demian Spellstealer
+	10 Starlight Step
+	10 Highborn Maverick
+	10 Storehouse Saboteur
+	10 Repair Technician
+	10 Entelan Scrapsmith
+	10 Kinetic Channeler
+	10 Rapid Deployment
+	10 Scrapper's Familiar
+	10 Seafaring Stalker
+	10 Resonant Aether
+	10 Structure Breaker
+	10 Barkhide Amalgamate
+	10 Newfound Strength
+	10 Aetherkin Invocation
+	10 Brush Ambush
+	10 Reclaiming Growth
+	10 Feinr's Advocate
+	10 Stories of Peoples Past
+	10 Aetheric Byproduct
+	10 Aethersteel Scale
+	10 Enforcer's Plate
+	10 Circuit Assembler
+	10 Stage Manager
+	10 Fluid Aether
+	10 EnTech Transceiver
+	10 Wide Display
+	10 Improvised Artillery
+	10 Fractioned Aether Cell
+	10 Nullmagic Plating
+	10 Agahian Complexes
+	10 Aether Refinery
+	10 Starlight Operative
+	10 Eksta's Faithful
+	10 Political Capture
+	10 Entelan Technician
+	10 Covert Specialist
+	10 Underground Princess
+	10 Sleeper Guerilla
+	10 Structural Engineering
+	10 Aether Visionary
+	10 Fist of Feinr
+	10 Aetherspinner
+	10 EnTech Laboratory
+	10 Shrine of Conquest
+	10 Palace of the High Princess
+	10 Contaminated Factory
+	10 Island Port
+	10 Crystal Currency
+	10 Razor Rifle
+	10 The Sunspear
+	10 Tenebrite Detonator
+	10 Teleportation Grid
+	10 Kinetic Boltcaster
+	10 Contained Thought Relay
+	10 Powered Steelhead
+	10 Aethercoil Rifle
+	10 Aetherized Ornithopter
+	10 Adaptor Pistol
+	10 Makeshift Aether Tunnel
+	10 Merchant Vessel
+	10 Gaze Upon the Empire
+	10 The Blessed Children
+	10 Day of Unity
+	10 Bishop of Conquest
+	10 Sungraced Monarch
+	10 Celestial Navigation
+	10 Extended Negotiations
+	10 Aethertouched Behemoth
+	10 Displacement Matrix
+	10 Resonant Innovator
+	10 Ardent Revolutionary
+	10 Midnight Company
+	10 Intrepid Smuggler
+	10 Regent of the Dark Sun
+	10 Collapsed Function
+	10 Imperial Observer
+	10 Replicist
+	10 Heavy Industry
+	10 A Performance to Remember
+	10 Daybreak Predators
+	10 Scour the Planes
+	10 Ecstatic Student
+	10 Sylvan Longshot
+	10 Fleet Protector
+	10 Search For Inspiration
+	10 Adept Botanist
+	10 Ward of Solari
+	10 Support Bracer
+	10 Scrap Surveyors
+	10 Military Industry
+	10 Stalemate
+	10 Luminal Predator
+	10 Cascading Aether Field
+	10 High Priestess of Eksta
+	10 Slip Past
+	10 Agahian Pathfinder
+	10 Confluence Remnant
+	10 Dimension Anchor
+	10 Resonance Reactor
+	10 Veklin, Arbiter of Stars
+	10 Warlord Rishen
+	10 High Princess Ivra
+	10 Controlled Shipments
+	10 Aether Fragment
+	10 Seiko, Star of the Multiverse
+	10 Moonlight Operative
+	10 Restoration Serum
+	10 Resonant Nestmother
+	10 Warehouse Lift
+	10 Limiter Agent
+	10 Conduit Knife
+	10 Rapid Introduction
+	10 Induction Specialist
+	10 Nullmagic Coat
+	10 Band of Shared Stars
+	10 Tranceiver Relay
+	10 Seasteady Duelist
+	10 Transport Cart
+	10 Aether Mist
+	10 Aether Shade
+	10 Shadeshifter
+	10 Warden of Agahia
+	10 Aether Weaver
+	10 Aetherfur Hunter
+	10 Guarding Grovekin
+	10 Piercing Arrow
+	10 Princess of Light
+	10 Rivertracer
+	10 Eternities Atlas
+	10 Exfiltration
+	10 Karina, Seeking Hope
+	10 Sea of Fans
+	10 Sentinel of Solari
+	10 Solaran Plate
+	10 Solari, With New Life
+	10 Subspace Dreamer
+	10 Take Your Time
+	10 The Scent of Rain
+	10 Under the Empire's New Light
+	10 Underworld Resources
+	[LandSlot(1)]
+	

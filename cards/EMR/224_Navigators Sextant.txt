@@ -1,0 +1,1 @@
+﻿Navigator's Sextant		common	Artifact	224	C	3	When Navigator’s Sextant enters, surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)NEWLINE1, T: Untap target land.			normal	EMR		

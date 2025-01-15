@@ -1,0 +1,1 @@
+﻿Aqueous Patrol	U	common	Creature – Elemental Rogue 	41	U	1U	Whenever you sacrifice an artifact, Aqueous Patrol gets +1/+0 and can’t be blocked this turn.	1/3		normal	EMR		

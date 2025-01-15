@@ -1,0 +1,1 @@
+﻿Dimension Anchor		mythic	Artifact	213	C	8	When Dimension Anchor enters, if you cast it, take an extra turn after this one.NEWLINEActivated abilities of nonland permanents can’t be activated.			normal	EMR		

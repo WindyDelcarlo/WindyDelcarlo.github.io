@@ -1,0 +1,1 @@
+﻿Regent of the Dark Sun	B	mythic	Creature – Dragon 	94	B	2BB	FlyingNEWLINEWhen Regent of the Dark Sun enters or attacks, put a necrotic counter on target creature. For as long as that creature has a necrotic counter on it, it gets -1/-1 and has “At the beginning of your upkeep, you lose 1 life.”	4/4		normal	EMR		Pirate Fleet

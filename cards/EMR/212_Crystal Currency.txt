@@ -1,0 +1,1 @@
+﻿Crystal Currency		rare	Artifact	212	C	4	T, Discard a card: Draw a card.NEWLINET, Sacrifice Crystal Currency: Add CC.			normal	EMR		

@@ -1,0 +1,1 @@
+﻿Solaran Channeling	G	common	Instant	174	G	G	Target creature gains hexproof and indestructible until end of turn.NEWLINELandfall – If you had a land enter under your control this turn, that creature gets +2/+2 until end of turn.			normal	EMR		

@@ -1,0 +1,1 @@
+﻿Aether Visionary	R	uncommon	Creature – Human Citizen 	111	R	1R	Whenever Aether Visionary attacks, create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)	2/1		normal	EMR		CR ArcunNEWLINEEnergy AggroNEWLINECell Generation

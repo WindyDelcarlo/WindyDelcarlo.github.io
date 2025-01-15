@@ -1,0 +1,1 @@
+﻿Backstreet Investigator	U	uncommon	Creature – Human Rogue 	42	U	2U	Analytics U (You may cast this spell for its analytics cost if you’ve cast a noncreature spell this turn.)NEWLINEWhenever Backstreet Investigator deals combat damage to a player, draw a card.	2/1		normal	EMR		

@@ -1,0 +1,1 @@
+﻿Controlled Shipments	W	rare	Enchantment	9	W	1W	Whenever an opponent draws one or more cards except for the first one they draw in each of their draw steps, you draw a card. This ability only triggers once each turn.			normal	EMR		

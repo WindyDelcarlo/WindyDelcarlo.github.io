@@ -1,0 +1,1 @@
+﻿A Step into the Darkness	B	common	Instant	99	B	B	Analytics B (You may cast this spell for its analytics cost if you’ve cast a noncreature spell this turn.)NEWLINETarget creature gains deathtouch and indestructible until end of turn.			normal	EMR		

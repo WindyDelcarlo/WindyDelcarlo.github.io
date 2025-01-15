@@ -1,0 +1,1 @@
+﻿Twilight Summoning	WB	uncommon	Sorcery	197	WB	1WB	Create two 1/1 white Elemental creature tokens with lifelink. Then you may sacrifice an artifact.  If you do, put a +1/+1 counter on each of those tokens.			normal	EMR		WB ArcunNEWLINEArtifact Tokens

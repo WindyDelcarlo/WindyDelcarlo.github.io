@@ -1,0 +1,1 @@
+﻿Sylvan Longshot	G	rare	Creature – Human Ranger 	177	G	4G	ReachNEWLINEWhenever Sylvan Longshot enters or attacks, you may have it fight target creature. (Each deals damage equal to its power to the other.)	3/5		normal	EMR		

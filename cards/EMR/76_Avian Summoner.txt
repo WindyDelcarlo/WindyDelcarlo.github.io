@@ -1,0 +1,1 @@
+﻿Avian Summoner	B	common	Creature – Human Wizard 	76	B	4BB	Analytics 3B (You may cast this spell for its analytics cost if you’ve cast a noncreature spell this turn.)NEWLINEWhen Avian Summoner enters, you lose 2 life and create two 1/1 blue Elemental creature tokens with flying.	4/3		normal	EMR		

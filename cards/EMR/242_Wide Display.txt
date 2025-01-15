@@ -1,0 +1,1 @@
+﻿Wide Display		uncommon	Artifact	242	C	4	When Wide Display enters and at the beginning of your upkeep, reveal the top card of your library. If a noncreature card was revealed this way, create a 1/1 white Citizen creature token.NEWLINE1, T: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)			normal	EMR		

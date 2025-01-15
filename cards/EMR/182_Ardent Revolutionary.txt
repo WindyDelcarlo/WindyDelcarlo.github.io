@@ -1,0 +1,1 @@
+﻿Ardent Revolutionary	RG	rare	Creature – Human Rebel 	182	RG	RG	At the beginning of your upkeep, Ardent Revolutionary deals 1 damage to each player.NEWLINESacrifice Ardent Revolutionary: Target player sacrifices a permanent that could produce C. Ardent Revolutionary deals damage to that player equal to the number of permanents they sacrificed this turn.	2/2		normal	EMR		

@@ -1,0 +1,1 @@
+﻿Subspace Ripple	U	common	Instant	66	U	2U	Exile up to two target creatures and/or lands.  Return them to the battlefield under their owners’ control at the beginning of the next end step.			normal	EMR		

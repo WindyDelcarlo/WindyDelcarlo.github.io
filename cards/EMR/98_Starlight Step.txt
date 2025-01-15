@@ -1,0 +1,1 @@
+﻿Starlight Step	B	uncommon	Instant	98	B	1B	Target creature gets +2/+2 until end of turn. It and creature tokens you control gain lifelink until end of turn.			normal	EMR		

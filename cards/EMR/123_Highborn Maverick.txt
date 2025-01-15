@@ -1,0 +1,1 @@
+﻿Highborn Maverick	R	uncommon	Creature – Human Noble 	123	R	1R	Relentless (Whenever this creature becomes untapped, it gets +1/+1 until end of turn.)NEWLINEWhenever Highborn Maverick attacks, target creature with equal or lesser power can’t block it this turn.	1/2		normal	EMR		

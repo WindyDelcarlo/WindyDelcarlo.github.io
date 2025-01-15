@@ -1,0 +1,1 @@
+﻿Razor Rifle		rare	Artifact – Equipment 	231	C	2	Equipped creature gets +2/+0 and has first strike.NEWLINEWhenever equipped creature attacks, target creature blocks it this turn if able.NEWLINEEquip 3 or CC			normal	EMR		Rifle

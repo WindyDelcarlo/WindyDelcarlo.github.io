@@ -1,0 +1,1 @@
+﻿Day of Unity	W	rare	Instant	10	W	2W	Creatures can’t attack this turn. Players can’t cast spells this turn.			normal	EMR		

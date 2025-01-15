@@ -1,0 +1,1 @@
+﻿Solari's Emissary	W	uncommon	Creature – Humn Cleric 	30	W	2W	Flying, lifelinkNEWLINECreature tokens you control get +1/+1 and have lifelink.	1/3		normal	EMR		[Church of Solari]NEWLINEIndustrialization

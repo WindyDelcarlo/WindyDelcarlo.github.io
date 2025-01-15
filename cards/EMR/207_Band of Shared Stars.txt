@@ -1,0 +1,1 @@
+﻿Band of Shared Stars		rare	Artifact – Equipment 	207	C	2	Whenever equipped creature becomes the target of a spell or ability an opponent controls for the first time each turn, you may choose new targets for that spell or ability.NEWLINEWhenever equipped creature attacks, draw a card.NEWLINEEquip 3			normal	EMR		

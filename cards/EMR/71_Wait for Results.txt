@@ -1,0 +1,1 @@
+﻿Wait for Results	U	common	Sorcery	71	U	1U	Tap target creature and put a stun counter on it. Create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)			normal	EMR		Cell Generation

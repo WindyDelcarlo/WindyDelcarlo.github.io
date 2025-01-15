@@ -1,0 +1,1 @@
+﻿Vin Estra, Some Guy	B	rare	Legendary Creature – Human Assassin 	107	B	2BB	MenaceNEWLINEWhen Vin Estra, “Some Guy” enters, create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)NEWLINEWhenever Vin Estra, “Some Guy” attacks, you may sacrifice two artifacts. When you do, destroy target creature.	4/3		normal	EMR		

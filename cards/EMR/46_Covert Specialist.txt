@@ -1,0 +1,1 @@
+﻿Covert Specialist	U	common	Creature – Human Rogue 	46	U	2U	Ward 3NEWLINEWhenever Covert Specialist deals combat damage to a player, surveil 2.	1/3		normal	EMR		

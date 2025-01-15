@@ -1,0 +1,1 @@
+﻿Evocation of Solari	W	common	Creature – Elemental 	13	W	3W	Analytics 2W (You may cast this spell for its analytics cost if you’ve cast a noncreature spell this turn.)NEWLINEFlying	2/3		normal	EMR		EvasionNEWLINEWar, Entelan

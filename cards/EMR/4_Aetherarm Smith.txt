@@ -1,0 +1,1 @@
+﻿Aetherarm Smith	W	common	Creature – Human Artificer 	4	W	3W	When Aetherarm Smith enters, reveal the top four cards of your library.  You may put an artifact from among them into your hand. Put the rest on the bottom of your library in a random order.	4/3		normal	EMR		Arms Dealers

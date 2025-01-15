@@ -1,0 +1,1 @@
+﻿Resonant Nestmother	WU	uncommon	Creature – Elemental Bird 	191	WU	2WU	Flying, prowessNEWLINEWhenever Resonant Nestmother attacks, reveal the top card of your library. If a noncreature, nonland card is revealed this way, create a 1/1 blue Elemental Bird creature token with flying.	3/3		normal	EMR		

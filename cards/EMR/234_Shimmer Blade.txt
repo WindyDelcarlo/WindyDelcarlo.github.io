@@ -1,0 +1,1 @@
+﻿Shimmer Blade		common	Artifact – Equipment 	234	C	3	Resonant (When this Equipment enters, create a 1/0 blue Elemental creature token, then attach this to it.)NEWLINEEquipped creature gets +1/+1 and has trample.NEWLINEEquip 2			normal	EMR		

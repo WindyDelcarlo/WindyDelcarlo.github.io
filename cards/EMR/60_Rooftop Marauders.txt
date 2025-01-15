@@ -1,0 +1,1 @@
+﻿Rooftop Marauders	U	common	Creature – Human Rogue 	60	U	3UU	FlyingNEWLINEWhenever Rooftop Marauders attacks, another target creature you control gains flying until end of turn.	3/4		normal	EMR		Evasion

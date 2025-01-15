@@ -1,0 +1,320 @@
+6_The Blessed Children
+39_Aethertouched Behemoth
+86_High Priestess of Eksta
+112_﻿Aetheric Revolution
+157_Confluence Remnant
+20_Military Industry
+44_Cascading Aether Field
+94_Regent of the Dark Sun
+130_Lose Control
+175_Stories of Peoples Past
+5_Bishop of Conquest
+48_Displacement Matrix
+73_Aether Mist
+114_Daybreak Predators
+146_Adept Botanist
+9_Controlled Shipments
+50_Extended Negotiations
+84_Exfiltration
+115_Ecstatic Student
+151_Agahian Pathfinder
+10_Day of Unity
+55_Luminal Predator
+85_Here Without You
+122_Heavy Industry
+162_Fleet Protector
+17_Gaze Upon the Empire
+58_Resonant Innovator
+88_Intrepid Smuggler
+131_A Performance to Remember
+173_Search For Inspiration
+33_Stalemate
+59_Rianne, Entelan Contact
+90_Midnight Company
+135_Replicist
+177_Sylvan Longshot
+35_Sungraced Monarch
+69_Tunnel Smuggling
+107_Vin Estra, Some Guy
+137_Scour the Planes
+179_Ward of Solari
+7_Brightsoul Medic
+37_Aether Oscillation
+74_Aether Shade
+111_Aether Visionary
+147_Aether Weaver
+11_Display of Skill
+42_Backstreet Investigator
+78_Collapsed Function
+123_Highborn Maverick
+148_Aetherfur Hunter
+12_Eksta's Faithful
+43_Brave the Storm
+79_Crafty Scavenger
+125_Imaginer
+149_Aetherkin Invocation
+14_Factory Workers
+45_Celestial Navigation
+83_Elemental Caller
+129_Kinetic Channeler
+150_Aetherspinner
+18_House Arrest
+51_Heir of the Unreal
+87_Imperial Observer
+132_Rapid Introduction
+153_Barkhide Amalgamate
+21_Novice Spellweaver
+52_Imperfect Memory
+89_Lunar Priestess
+134_Repair Technician
+158_Enhanced Stimulation
+22_Political Capture
+53_Instrumental Analysis
+91_Moonlight Operative
+136_Resonant Aether
+161_Fist of Feinr
+23_Private Military
+62_Sleepthorn Sharpshooter
+96_Sleeper Guerilla
+138_Scrapper's Familiar
+166_Natural Preservation
+24_Raiding Force
+63_Starlight Operative
+98_Starlight Step
+140_Seafaring Stalker
+168_Piercing Arrow
+30_Solari's Emissary
+64_Starlight Surveyor
+102_Under the Empire's New Light
+143_Structural Engineering
+172_The Scent of Rain
+31_Soulcrafter
+72_Windskimmer
+103_Underground Princess
+144_Structure Breaker
+152_Aim High
+1_Aether Carrier
+38_Aetheric Spellcrafter
+109_Well Paid
+110_Aether Sharpshooter
+154_Botanical Collector
+2_Aether Condensation
+40_Amateur Engineer
+75_Aether Sickness
+113_Aethersteel Salvager
+155_Brush Ambush
+3_Aether Fragment
+41_Aqueous Patrol
+76_Avian Summoner
+116_Empathic Song
+156_Condensation of Avarice
+4_Aetherarm Smith
+46_Covert Specialist
+77_Cloak of Dusk
+117_Entelan Scrapsmith
+159_Failed Infrastructure
+8_Broadside Bombardment
+47_Customs Agent
+80_Demian Spellstealer
+118_Expendable Forces
+160_Feinr's Advocate
+13_Evocation of Solari
+49_Entelan Tutelage
+81_Disillusioned Urchins
+119_Finally Home
+163_Hunter of Eksta
+15_Fascinating Lightkin
+54_Limiter Agent
+82_Ekstan Initiate
+120_Fleeting Stormling
+164_Joint Training
+16_Fresh Recruits
+56_Platinum Matrix
+92_Platinized Spellhunter
+121_Grid Failure
+165_Linewatcher
+19_Instability
+57_Quick Exit
+93_Quickshot Privateer
+124_Homeguard Patrol
+167_Newfound Strength
+25_Relentless Strokes
+60_Rooftop Marauders
+95_Shadeshifter
+126_Induction Specialist
+169_Princess of Light
+26_Sentinel of Solari
+61_Sentinel of Agahia
+97_Spiritblade Rogue
+127_Invasion Element
+170_Rescue Team
+27_Shining Voice
+65_Stellar Cartogapher
+99_A Step into the Darkness
+128_Inventive Prodigy
+171_Rivertracer
+28_Slip Away
+66_Subspace Ripple
+100_Subspace Dreamer
+133_Reckless Summoner
+174_Solaran Channeling
+29_Solaran Plate
+67_Take Your Time
+101_Touched by Aether
+139_Sea of Fans
+176_Support Bracer
+32_Soul's Attendent
+68_Thieving Raven
+104_Underworld Resources
+141_Seasteady Duelist
+178_Urban Restructurer
+34_Star's Audience
+70_Urban Search
+105_Unguided Research
+142_Slip Past
+180_Warden of Agahia
+36_Wasteland Scavenger
+71_Wait for Results
+106_Urban Scout
+145_Tenebrite Disassembly
+181_Wrangled Wildlife
+e
+e
+108_Waste Disposal
+e
+e
+er
+er
+er
+er
+er
+198_Veklin, Arbiter of Stars
+184_Deep Night Couriers
+196_Storehouse Saboteur
+182_Ardent Revolutionary
+194_Solari, With New Life
+191_Resonant Nestmother
+e
+e
+186_Guarding Grovekin
+195_Starlight Invaders
+er
+er
+er
+er
+er
+199_Warlord Rishen
+192_Scrap Surveyors
+183_Art Collector
+188_Karina, Seeking Hope
+193_Seiko, Star of the Multiverse
+197_Twilight Summoning
+190_Reclaiming Growth
+e
+187_High Princess Ivra
+189_Rapid Deployment
+e
+e
+e
+185_Entelan Technician
+e
+er
+er
+er
+er
+er
+213_Dimension Anchor
+232_Resonance Reactor
+200_Adaptor Pistol
+201_Aether Canister
+202_Aethercoil Rifle
+207_Band of Shared Stars
+211_Contained Thought Relay
+212_Crystal Currency
+221_Kinetic Boltcaster
+222_Makeshift Aether Tunnel
+223_Merchant Vessel
+229_Powered Steelhead
+231_Razor Rifle
+236_The Sunspear
+237_Teleportation Grid
+238_Tenebrite Detonator
+203_Aetheric Byproduct
+205_Aethersteel Scale
+208_Circuit Assembler
+210_Conduit Knife
+214_Enforcer's Plate
+215_EnTech Transceiver
+218_Fluid Aether
+219_Fractioned Aether Cell
+220_Improvised Artillery
+227_Nullmagic Plating
+235_Stage Manager
+239_Tranceiver Relay
+242_Wide Display
+204_Aetherized Ornithopter
+206_Aethersteel Statue
+209_Circuit Tuner
+216_Eternities Atlas
+217_Eternity Ketch
+224_Navigator's Sextant
+225_Necklace of Resonance
+226_Nullmagic Coat
+228_Observer Waystone
+230_Provision Stall
+233_Restoration Serum
+234_Shimmer Blade
+240_Transport Cart
+241_Warehouse Lift
+243_Workshop Tools
+e
+er
+er
+er
+er
+er
+251_Shrine of Conquest
+246_Contaminated Factory
+248_Island Port
+247_EnTech Laboratory
+249_Noble District
+er
+er
+er
+er
+er
+250_Palace of the High Princess
+244_Aether Refinery
+245_Agahian Complexes
+e
+e
+er
+er
+er
+er
+er
+252_Wastes
+254_Plains
+256_Island
+258_Island
+260_Swamp
+262_Mountain
+264_Mountain
+266_Forest
+253_Plains
+255_Plains
+257_Island
+259_Swamp
+261_Swamp
+263_Mountain
+265_Forest
+267_Forest
+e
+e
+e
+e
+er
+er
+er
+er
+er

@@ -1,0 +1,1 @@
+﻿Political Capture	W	uncommon	Sorcery	22	W	W	Exile target creature until a creature deals combat damage to you.			normal	EMR		Karina

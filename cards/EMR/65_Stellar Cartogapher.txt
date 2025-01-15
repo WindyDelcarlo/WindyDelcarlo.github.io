@@ -1,0 +1,1 @@
+﻿Stellar Cartogapher	U	common	Creature – Human Scout 	65	U	3U	When Stellar Cartogapher enters, you may return a land you control to its owner’s hand. When you do, return target creature to its owner’s hand.	3/3		normal	EMR		

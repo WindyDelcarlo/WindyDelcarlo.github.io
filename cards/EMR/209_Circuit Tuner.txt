@@ -1,0 +1,1 @@
+﻿Circuit Tuner		common	Artifact	209	C	2	Circuit Tuner enters tapped.NEWLINEAs Circuit Tuner enters, choose a color.NEWLINET: Add one mana of the chosen color.			normal	EMR		

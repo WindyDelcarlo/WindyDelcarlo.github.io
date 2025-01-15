@@ -1,0 +1,1 @@
+﻿Kinetic Channeler	R	uncommon	Creature – Human Shaman 	129	R	2R	Analytics 1R (You may cast this spell for its analytics cost if you’ve cast a noncreature spell this turn.)NEWLINEWhen Kinetic Channeler enters, if its analytics cost was paid, creatures you control get +1/+0 and gain haste until end of turn.	2/2		normal	EMR		Volarian

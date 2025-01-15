@@ -1,0 +1,1 @@
+﻿Aethercoil Rifle		rare	Artifact – Equipment 	202	C	4	Whenever equipped creature attacks or blocks, put a charge counter on Aethercoil Rifle.NEWLINEEquipped creature has “T, Remove a charge counter from Aethercoil Rifle: This creature deals damage to any target equal to its power. Activate only as a sorcery.”NEWLINEEquip 2			normal	EMR		

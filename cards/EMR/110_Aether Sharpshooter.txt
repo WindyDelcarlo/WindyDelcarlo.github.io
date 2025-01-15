@@ -1,0 +1,1 @@
+﻿Aether Sharpshooter	R	common	Creature – Elf Ranger 	110	R	2R	ReachNEWLINESacrifice two artifacts: Aether Sharpshooter gains first strike until end of turn.	3/1		normal	EMR		

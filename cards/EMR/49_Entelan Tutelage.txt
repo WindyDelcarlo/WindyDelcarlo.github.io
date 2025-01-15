@@ -1,0 +1,1 @@
+﻿Entelan Tutelage	U	common	Instant	49	U	3U	Draw two cards. Create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)			normal	EMR		Cell GenerationNEWLINECard Draw

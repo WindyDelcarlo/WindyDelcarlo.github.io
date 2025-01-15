@@ -1,0 +1,1 @@
+﻿Nullmagic Plating		uncommon	Artifact – Equipment 	227	C	2	Equipped creature has trample and ward 2.NEWLINEIf a source would deal damage to equipped creature, prevent 1 of that damage.NEWLINEEquip 2			normal	EMR		

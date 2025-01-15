@@ -1,0 +1,1 @@
+﻿Sungraced Monarch	W	rare	Creature – Human Noble 	35	W	3W	LifelinkNEWLINEWhenever you gain life, create that many Energy Cell tokens. (They’re artifact tokens with “T, Sacrifice this: Add C.”	3/3		normal	EMR		Cell Generation

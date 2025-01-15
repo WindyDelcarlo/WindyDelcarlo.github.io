@@ -1,0 +1,1 @@
+﻿Slip Away	W	common	Instant	28	W	1W	Exile target nonland permanent you control, then return it to the battlefield under its owner’s control.  If it’s a creature, put a +1/+1 counter on it.			normal	EMR		

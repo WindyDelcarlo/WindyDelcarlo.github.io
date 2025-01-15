@@ -1,0 +1,1 @@
+﻿Sentinel of Solari	W	common	Creature – Elf Knight 	26	W	1W	VigilanceNEWLINEWhen Sentinel of Solari enters, untap target creature. It gains indestructible until your next turn.	2/2		normal	EMR		

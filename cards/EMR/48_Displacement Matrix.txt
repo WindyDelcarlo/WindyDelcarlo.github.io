@@ -1,0 +1,1 @@
+﻿Displacement Matrix	U	rare	Instant	48	U	1UU	Counter target spell. If a spell with mana value 2 or less was countered this way, create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)			normal	EMR		Cell Generation

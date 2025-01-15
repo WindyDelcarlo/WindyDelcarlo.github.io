@@ -1,0 +1,1 @@
+﻿Exfiltration	B	rare	Sorcery	84	B	3BB	Analytics 1B (You may cast this spell for its analytics cost if you’ve cast a noncreature spell this turn.)NEWLINEReturn target creature or planeswalker card from your graveyard to the battlefield. If Exfiltration’s analytics cost was paid, you lose life equal to that card’s mana value.			normal	EMR		

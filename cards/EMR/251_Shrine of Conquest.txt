@@ -1,0 +1,1 @@
+﻿Shrine of Conquest		rare	Land	251	WB		Shrine of Conquest enters tapped.NEWLINEWhen Shrine of Conquest enters, add C.NEWLINET: Add W or B.			normal	EMR		

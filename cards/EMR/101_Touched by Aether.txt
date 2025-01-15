@@ -1,0 +1,1 @@
+﻿Touched by Aether	B	common	Instant	101	B	3BB	Destroy target creature. Create two Energy Cell tokens. (They’re artifacts with “T, Sacrifice this: Add C.”)			normal	EMR		Cell Generation

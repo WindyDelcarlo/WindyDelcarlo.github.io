@@ -1,0 +1,1 @@
+﻿Disillusioned Urchins	B	common	Creature – Human Rogue 	81	B	2B	When Disillusioned Urchins enters, target player reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.	1/3		normal	EMR		

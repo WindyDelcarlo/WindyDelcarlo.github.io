@@ -1,0 +1,1 @@
+﻿Aetheric Spellcrafter	U	common	Creature – Human Wizard 	38	U	2U	Analytics 1U (You may cast this spell for its analytics cost if you’ve cast a noncreature spell this turn.)NEWLINEWhen Aetheric Spellcrafter enters, surveil 2.	2/3		normal	EMR		

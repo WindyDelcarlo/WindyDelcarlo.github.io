@@ -1,0 +1,1 @@
+﻿Stalemate	W	rare	Enchantment	33	W	1WW	At the beginning of your upkeep, put a charge counter on Stalemate.NEWLINERemove a charge counter from Stalemate: Target creature can’t attack this turn.			normal	EMR		

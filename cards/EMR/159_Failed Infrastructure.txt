@@ -1,0 +1,1 @@
+﻿Failed Infrastructure	G	common	Instant	159	G	2G	Destroy target artifact or enchantment. Create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)			normal	EMR		Cell Generation

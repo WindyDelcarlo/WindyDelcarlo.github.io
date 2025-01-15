@@ -1,0 +1,1 @@
+﻿Teleportation Grid		rare	Artifact	237	C	3	Whenever a creature you control dies, exile it. If you do, put a charge counter on Teleportation Grid.NEWLINET, Remove X charge counters from Teleportation Grid: Put a creature card mana value X exiled with Teleportation Grid onto the battlefield under your control. Activate only as a sorcery.			normal	EMR		

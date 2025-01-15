@@ -1,0 +1,1 @@
+﻿Shining Voice	W	common	Instant	27	W	W	Target creature gains indestructible until end of turn. You gain 2 life. Scry 1.			normal	EMR		Seiko

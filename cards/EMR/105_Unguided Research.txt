@@ -1,0 +1,1 @@
+﻿Unguided Research	B	common	Sorcery	105	B	2B	You lose 2 life, draw two cards, and create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)			normal	EMR		Cell Generation

@@ -1,0 +1,1 @@
+﻿House Arrest	W	uncommon	Enchantment – Aura 	18	W	3W	Enchant permanentNEWLINEEnchanted permanent can’t attack or block, and its activated abilities can’t be activated unless they’re mana abilities.			normal	EMR		Binding Agreements of EntelaNEWLINEPacifism

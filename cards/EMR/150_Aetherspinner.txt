@@ -1,0 +1,1 @@
+﻿Aetherspinner	G	uncommon	Creature – Worm 	150	G	1G	T: Add C.NEWLINE2, T: Add CC.	1/1		normal	EMR		

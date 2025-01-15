@@ -1,0 +1,1 @@
+﻿Contaminated Factory		rare	Land	246	BG		Contaminated Factory enters tapped.NEWLINEWhen Contaminated Factory enters, add C.NEWLINET: Add B or G.			normal	EMR		

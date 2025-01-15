@@ -1,0 +1,1 @@
+﻿Fist of Feinr	G	uncommon	Creature – Human Monk 	161	G	3G	Relentless (Whenever this creature becomes untapped, it gets +1/+1 until end of turn.)NEWLINEAethercast – When Fist of Feinr enters, if CC was spent to cast it, target creature gets +2/+2 and gains trample until end of turn.	4/3		normal	EMR		CG ArcunNEWLINEGreen Beats

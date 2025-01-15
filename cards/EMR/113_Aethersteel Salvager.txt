@@ -1,0 +1,1 @@
+﻿Aethersteel Salvager	R	common	Creature – Human Scout 	113	R	2R	When Aethersteel Salvager enters, if you control an artifact, create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)	3/2		normal	EMR		Cell Generation

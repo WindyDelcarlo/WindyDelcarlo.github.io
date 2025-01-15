@@ -1,0 +1,1 @@
+﻿Platinized Spellhunter	B	common	Creature – Human Warrior 	92	B	4B	When Platinized Spellhunter enters, target creature gets -1/-1 until end of turn for each artifact you control.	4/4		normal	EMR		

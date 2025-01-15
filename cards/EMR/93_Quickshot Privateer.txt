@@ -1,0 +1,1 @@
+﻿Quickshot Privateer	B	common	Creature – Human Pirate 	93	B	3B	Relentless (Whenever this creature becomes untapped, it gets +1/+1 until end of turn.)NEWLINEWhenever Quickshot Privateer attacks, target creature you control gains menace until end of turn.	3/2		normal	EMR		

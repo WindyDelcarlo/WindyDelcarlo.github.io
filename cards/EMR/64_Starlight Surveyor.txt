@@ -1,0 +1,1 @@
+﻿Starlight Surveyor	U	uncommon	Creature – Human Scout 	64	U	2U	3U: You may return a land you control to its owner’s hand. Draw a card.	2/3		normal	EMR		

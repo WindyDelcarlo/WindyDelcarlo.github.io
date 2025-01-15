@@ -1,0 +1,1 @@
+﻿Veklin, Arbiter of Stars	WU	mythic	Legendary Planeswalker – Veklin 	198	WU	3WU			When Veklin enters, target nonland permanent can’t attack or block and its activate abilities can’t be activated until he leaves the battlefield.NEWLINE[+1]: Surveil 1 and create a 1/1 blue Illusion creature token.NEWLINE[-3]: Draw two cards and create two Energy Cell tokens.	planeswalker	EMR	4	

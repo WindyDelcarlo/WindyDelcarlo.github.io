@@ -1,0 +1,1 @@
+﻿Conduit Knife		uncommon	Artifact – Equipment 	210	C	2	Resonant (When this Equipment enters, create a 1/0 blue Elemental creature token, then attach this to it.)NEWLINEEquipped creature gets +1/+1.NEWLINEEquip 1NEWLINECC: Put a +1/+1 counter on equipped creature. Activate only as a sorcery.			normal	EMR		

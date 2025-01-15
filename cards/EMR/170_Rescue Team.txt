@@ -1,0 +1,1 @@
+﻿Rescue Team	G	common	Creature – Human Scout 	170	G	G	When Rescue Team enters or dies, mill two cards, then you may put a permanent card from your graveyard on top of your library.	1/1		normal	EMR		

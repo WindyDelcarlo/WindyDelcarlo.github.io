@@ -1,0 +1,1 @@
+﻿Search For Inspiration	G	rare	Instant	173	G	2G	Aethercast – Search your library for a land card, reveal it, put it into your hand, then shuffle your library.  If CC was spent to cast Search For Inspiration, you may put a land card from your hand onto the battlefield, then untap it.			normal	EMR		

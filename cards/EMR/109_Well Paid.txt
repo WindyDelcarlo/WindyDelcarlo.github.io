@@ -1,0 +1,1 @@
+﻿Well Paid	B	uncommon	Sorcery	109	B	1B	Target opponent reveals their hand. Then they may have you create two Energy Cell tokens. If they don’t, you choose a card from it and they discard it. (They’re artifacts with “T, Sacrifice this: Add C.”)			normal	EMR		Cell generation

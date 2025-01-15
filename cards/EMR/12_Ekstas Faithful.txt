@@ -1,0 +1,1 @@
+﻿Eksta's Faithful	W	uncommon	Creature – Human Cleric 	12	W	W	Relentless (Whenever this creature becomes untapped, it gets +1/+1 until end of turn.)NEWLINEWhen Eksta’s Faithful enters, it deals 1 damage to target creature that blocked this turn.	1/1		normal	EMR		

@@ -1,0 +1,1 @@
+﻿Inventive Prodigy	R	common	Creature – Human Noble 	128	R	1R	Whenever a creature or artifact is put into your graveyard from the battlefield, Inventive Prodigy deals 1 damage to target player or planeswalker. This ability triggers only once each turn.	1/3		normal	EMR		
