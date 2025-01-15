@@ -3178,5 +3178,4 @@
 	10 The Scent of Rain
 	10 Under the Empire's New Light
 	10 Underworld Resources
-	[LandSlot(1)]
 	

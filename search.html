@@ -1,4 +1,4 @@
-<html>
+Ôªø<html>
 <head>
 	<title>Search</title>
 	<link rel="icon" type="image/x-icon" href="/img/search.png">
@@ -606,11 +606,11 @@
 				{
 					inParens = false;
 				}
-				if (!inParens && !inQuotes && (searchTerms.charAt(i) == '"' || searchTerms.charAt(i) == 'ì' || searchTerms.charAt(i) == '/'))
+				if (!inParens && !inQuotes && (searchTerms.charAt(i) == '"' || searchTerms.charAt(i) == '‚Äú' || searchTerms.charAt(i) == '/'))
 				{
 					inQuotes = true;
 				}
-				else if (!inParens && inQuotes && (searchTerms.charAt(i) == '"' || searchTerms.charAt(i) == 'î' || searchTerms.charAt(i) == '/'))
+				else if (!inParens && inQuotes && (searchTerms.charAt(i) == '"' || searchTerms.charAt(i) == '‚Äù' || searchTerms.charAt(i) == '/'))
 				{
 					inQuotes = false;
 				}
@@ -695,7 +695,7 @@
 				card_oracle_text = card_oracle_text + "	" + (card_stats[18] != "" ? card_stats[18].replaceAll("NEWLINE", '\n') : card_stats[20].replaceAll("NEWLINE", '\n'));
 			}
 
-			token = token.replaceAll("~", card_name).replaceAll("cardname", card_name).replaceAll('"','').replaceAll('/','').replaceAll('ì','').replaceAll('î','');
+			token = token.replaceAll("~", card_name).replaceAll("cardname", card_name).replaceAll('"','').replaceAll('/','').replaceAll('‚Äú','').replaceAll('‚Äù','');
 
 			const modifierRegex = /[!:<>=]/;
 			const match = token.search(modifierRegex);
@@ -1197,9 +1197,9 @@
 			{
 				let styled_effect = card_effects[i].replaceAll("(","<i>(").replaceAll(")",")</i>");
 
-				if (styled_effect.includes("ó") && !styled_effect.toLowerCase().includes("choose"))
+				if (styled_effect.includes("‚Äî") && !styled_effect.toLowerCase().includes("choose"))
 				{
-					styled_effect = "<i>" + styled_effect.replace("ó", "ó</i>");
+					styled_effect = "<i>" + styled_effect.replace("‚Äî", "‚Äî</i>");
 				}
 
 				HTML += styled_effect;
