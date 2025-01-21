@@ -1,1 +1,0 @@
-﻿Aetherized Ornithopter		common	Artifact Creature – Thopter 	204	C	5	FlyingNEWLINEAetherized Ornithopter enters with a +1/+1 counter on it for each C spent to cast it.	2/2		normal	EMR		

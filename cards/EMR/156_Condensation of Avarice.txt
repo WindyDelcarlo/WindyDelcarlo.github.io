@@ -1,1 +1,0 @@
-﻿Condensation of Avarice	G	common	Creature – Elemental 	156	G	4GG	When Condensation of Avarice enters, destroy up to one target artifact. Put a number of +1/+1 counters on Condensation of Avarice equal to that artifact’s mana value.	3/3		normal	EMR		

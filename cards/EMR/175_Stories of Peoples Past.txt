@@ -1,1 +1,0 @@
-﻿Stories of Peoples Past	G	mythic	Enchantment	175	G	4GGG	When Stories of Peoples Past enters, exile your graveyard.NEWLINEYou may play cards exiled by Stories of Peoples Past.NEWLINEAt the beginning of your end step, if no cards are exiled with Stories of Peoples Past, return it to its owner’s hand.			normal	EMR		

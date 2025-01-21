@@ -1,1 +1,0 @@
-﻿Gifted Life	B	common	Sorcery	84	B	2B	Return target creature card from your graveyard to the battlefield. Target opponent draws two cards.			normal	IDC		WB

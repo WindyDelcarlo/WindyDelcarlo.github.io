@@ -1,1 +1,0 @@
-﻿Interference Agent	U	uncommon	Creature – Human Rogue 	50	U	U	Interference Agent can’t be blocked by creatures with power 2 or greater.	1/2		normal	IDC		

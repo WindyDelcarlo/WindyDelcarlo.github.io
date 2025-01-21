@@ -1,1 +1,0 @@
-﻿Entelan Transceiver		uncommon	Artifact – Equipment 	195	C	3	Whenever equipped creature attacks, you may exile a noncreature card from your graveyard.NEWLINEWhenever equipped creature deals combat damage to a player, put a card exiled with it into your hand and that player draws a card.NEWLINEEquip 2			normal	IDC		

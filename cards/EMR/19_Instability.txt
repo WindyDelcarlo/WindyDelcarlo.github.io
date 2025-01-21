@@ -1,1 +1,0 @@
-﻿Instability	W	common	Sorcery	19	W	2W	Choose one –NEWLINE• Destroy target artifact.NEWLINE• Destroy target creature with power 4 or greater.			normal	EMR		

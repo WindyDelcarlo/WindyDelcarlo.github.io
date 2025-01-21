@@ -1,1 +1,0 @@
-﻿Soulbound Avian	W	uncommon	Creature – Bird 	24	W	1W	FlyingNEWLINEWhen Soulbound Avian dies, you may exile it. If you do, return another target creature card with converted mana cost 2 or less from a graveyard to the battlefield under its owner’s control.	2/1		normal	IDC		

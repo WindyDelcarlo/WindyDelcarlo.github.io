@@ -1,1 +1,0 @@
-﻿Resonant Aether	R	uncommon	Instant	136	R	2R	Analytics 1R (You may cast this spell for its analytics cost if you’ve cast a noncreature spell this turn.)NEWLINEResonant Aether deals 2 damage to any target and 1 damage to another target.			normal	EMR		

@@ -1,1 +1,0 @@
-﻿Feinr's Advocate	G	common	Creature – Elf Druid 	160	G	1G	Relentless (Whenever this creature becomes untapped, it gets +1/+1 until end of turn.)NEWLINEWhenever Feinr’s Advocate becomes untapped, another target creature you control gets +1/+1 until end of turn.	1/1		normal	EMR		

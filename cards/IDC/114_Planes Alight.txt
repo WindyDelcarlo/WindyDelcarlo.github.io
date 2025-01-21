@@ -1,1 +1,0 @@
-﻿Planes Alight	R	uncommon	Instant	114	R	1R	As an additional cost to cast Planes Alight, sacrifice a creature.NEWLINEPlanes Alight deals 3 damage to target creature and 2 damage to its controller.			normal	IDC		BR

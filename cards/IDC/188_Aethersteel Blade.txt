@@ -1,1 +1,0 @@
-﻿Aethersteel Blade		common	Artifact – Equipment 	188	C	2	Equipped creature gets +2/+1.NEWLINEEquip 1			normal	IDC		

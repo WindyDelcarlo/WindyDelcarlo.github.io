@@ -1,1 +1,0 @@
-﻿Seafaring Stalker	R	uncommon	Artifact – Vehicle 	140	R	2R	When Seafaring Stalker enters, create two 1/1 red Pirate creature tokens.NEWLINESeafaring Stalker gets +1/+0 and has first strike as long as it’s attacking.NEWLINECrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)	3/3		normal	EMR		

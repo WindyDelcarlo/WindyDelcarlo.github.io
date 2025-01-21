@@ -1,1 +1,0 @@
-﻿Project Recovery	G	rare	Enchantment – Development 	151	G	1G	Whenever a player develops Project Recovery, each player who developed Project Recovery puts a +1/+1 counter on each creature they control.NEWLINEDevelop 3–4 (4: Note your name and put a development counter on this. Any player may develop this as a sorcery if there are fewer than three counters on this.)			normal	IDC		G

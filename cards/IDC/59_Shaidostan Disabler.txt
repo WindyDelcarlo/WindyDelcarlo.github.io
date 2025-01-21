@@ -1,1 +1,0 @@
-﻿Shaidostan Disabler	U	common	Creature – Elemental 	59	U	1U	When Shaidostan Disabler enters the battlefield, tap target creature. At the beginning of its controller’s next upkeep, tap that creature unless its controller pays 2.	2/1		normal	IDC		GU

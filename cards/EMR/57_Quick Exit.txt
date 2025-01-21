@@ -1,1 +1,0 @@
-﻿Quick Exit	U	common	Instant	57	U	U	Target creature gains hexproof until end of turn. Untap it.			normal	EMR		FT

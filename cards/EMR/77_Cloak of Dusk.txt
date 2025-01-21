@@ -1,1 +1,0 @@
-﻿Cloak of Dusk	B	common	Artifact – Equipment 	77	B	2B	Resonant (When this Equipment enters, create a 1/0 blue Elemental creature token, then attach this to it.)NEWLINEEquipped creature gets +1/+2 and has “When this creature dies, draw a card.”NEWLINEEquip 2			normal	EMR		

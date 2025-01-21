@@ -1,1 +1,0 @@
-﻿Aetheric Decay	BG	uncommon	Sorcery	162	BG	1BG	Target creature gets -X/-X until end of turn, where X is the greatest power among creatures you control.			normal	IDC		

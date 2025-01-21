@@ -1,1 +1,0 @@
-﻿Military Industry	W	mythic	Artifact	20	W	2WW	Whenever Military Industry or another artifact you control enters, put a charge counter on Military Industry.NEWLINEAt the beginning of combat on your turn, distribute a number of +1/+1 counters among creatures you control equal to the number of charge counters on Military Industry.			normal	EMR		

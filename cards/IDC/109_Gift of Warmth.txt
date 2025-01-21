@@ -1,1 +1,0 @@
-﻿Gift of Warmth	R	common	Enchantment – Aura 	109	R	1R	Enchant creatureNEWLINEEnchanted creature gets +2/+0 and has menace. If you don’t control enchanted creature, it gets an additional +2/+0.			normal	IDC		RW

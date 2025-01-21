@@ -1,1 +1,0 @@
-﻿Waste Disposal	B	common	Instant	108	B	2B	Analytics B (You may cast this spell for its analytics cost if you’ve cast a noncreature spell this turn.)NEWLINEExile up to three target cards from graveyards. Create a 1/1 white Elemental creature token with lifelink.			normal	EMR		Clean-Up Crew

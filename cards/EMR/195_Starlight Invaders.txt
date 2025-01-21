@@ -1,1 +1,0 @@
-﻿Starlight Invaders	WG	uncommon	Creature – Human Soldier 	195	WG	2GW	Relentless (Whenever this creature becomes untapped, it gets +1/+1 until end of turn.)NEWLINEWhenever Starlight Invaders attacks, create a 1/1 white Citizen creature token.	4/3		normal	EMR		[Standing Army]NEWLINEWar, Dairan

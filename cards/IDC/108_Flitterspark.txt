@@ -1,1 +1,0 @@
-﻿Flitterspark	R	common	Creature – Elemental 	108	R	1R	When Flitterspark dies, it deals damage equal to its power to target player.	2/1		normal	IDC		BR

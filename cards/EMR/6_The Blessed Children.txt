@@ -1,1 +1,0 @@
-﻿The Blessed Children	W	mythic	Legendary Creature – Avatar 	6	W	1W	Analytics W; lifelinkNEWLINEWhenever you gain life for the first time each turn, put a +1/+1 counter on The Blessed Children.NEWLINEWhen The Blessed Children dies, exile it. At the beginning of your next draw step, put it on top of your library.	1/1		normal	EMR		

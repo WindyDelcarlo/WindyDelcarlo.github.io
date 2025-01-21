@@ -1,1 +1,0 @@
-﻿A Performance to Remember	R	rare	Sorcery	131	R	R	You may cast this spell from your graveyard by sacrificing an artifact in addition to paying its mana cost.NEWLINECreatures you control get +1/+0 and gain trample until end of turn.			normal	EMR		

@@ -1,1 +1,0 @@
-﻿Mysterious Rebirth	G	uncommon	Sorcery	146	G	1G	Return target permanent card from target player’s graveyard to its owner’s hand. If you don’t own that card, you gain life equal to its converted mana cost.			normal	IDC		BG

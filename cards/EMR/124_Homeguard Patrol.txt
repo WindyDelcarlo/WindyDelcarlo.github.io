@@ -1,1 +1,0 @@
-﻿Homeguard Patrol	R	common	Creature – Human Warrior 	124	R	2R	MenaceNEWLINEHomeguard Patrol enters with a +1/+1 counter on it if an opponent lost life this turn.	3/2		normal	EMR		

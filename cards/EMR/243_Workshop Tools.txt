@@ -1,1 +1,0 @@
-﻿Workshop Tools		common	Artifact	243	C	3	When Workshop Tools enters, you may sacrifice another artifact. When you do, put target artifact card from your graveyard on top of your library.NEWLINESacrifice Workshop Tools: Target artifact gains indestructible until end of turn.			normal	EMR		

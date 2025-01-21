@@ -1,1 +1,0 @@
-﻿Demian Spellstealer	B	common	Creature – Dragon Wizard 	80	B	3BB	FlyingNEWLINEAethercast – Demian Spellstealer enters with a +1/+1 counter on it if CC was spent to cast it.	3/3		normal	EMR		

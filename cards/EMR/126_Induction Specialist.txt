@@ -1,1 +1,0 @@
-﻿Induction Specialist	R	common	Creature – Human Artificer 	126	R	5R	Analytics 3R (You may cast this spell for its analytics cost if you’ve cast a noncreature spell this turn.)NEWLINEAs long it’s your turn and you’ve cast a noncreature spell this turn, Induction Specialist has first strike.	5/4		normal	EMR		

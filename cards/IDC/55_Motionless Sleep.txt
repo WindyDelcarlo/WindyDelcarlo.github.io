@@ -1,1 +1,0 @@
-﻿Motionless Sleep	U	uncommon	Enchantment	55	U	3U	Whenever a creature attacks you or a planeswalker you control, it gets -1/-0 until end of turn and doesn’t untap during its controller’s next untap step.			normal	IDC		

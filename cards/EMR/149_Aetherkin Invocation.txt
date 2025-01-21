@@ -1,1 +1,0 @@
-﻿Aetherkin Invocation	G	uncommon	Creature – Elemental 	149	G	3GG	Analytics 3G (You may cast this spell for its analytics cost if you’ve cast a noncreature spell this turn.)NEWLINEWhen Aetherkin Invocation enters, return target card from your graveyard to your hand.	3/4		normal	EMR		

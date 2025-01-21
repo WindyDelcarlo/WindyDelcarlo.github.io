@@ -1,1 +1,0 @@
-﻿Breath of Winter	U	uncommon	Instant	34	U	1UU	Counter target spell.NEWLINE4U, Exile Breath of Winter from your graveyard: Tap all creatures target player controls.			normal	IDC		

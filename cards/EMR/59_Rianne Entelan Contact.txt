@@ -1,1 +1,0 @@
-﻿Rianne, Entelan Contact	U	rare	Legendary Creature – Human Advisor 	59	U	1U	When Rianne, Entelan Contact enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)NEWLINECC: Exile target nontoken creature, then return it to the battlefield under its owner’s control.	2/1		normal	EMR		

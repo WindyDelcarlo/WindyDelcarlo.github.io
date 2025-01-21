@@ -1,1 +1,0 @@
-﻿Broken Trust	B	rare	Sorcery	69	B	1BB	Exile target creature whose controller didn’t attack you since your last turn. If a creature you controlled attacked that player this turn, exile two target creatures that player controls instead.			normal	IDC		UB

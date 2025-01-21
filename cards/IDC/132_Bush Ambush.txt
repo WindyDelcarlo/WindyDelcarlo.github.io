@@ -1,1 +1,0 @@
-﻿Bush Ambush	G	common	Sorcery	132	G	2G	If a creature entered the battlefield under your control this turn, Bush Ambush costs 2 less to cast.NEWLINETarget creature you control deals damage equal to its power to another target creature.			normal	IDC		GU

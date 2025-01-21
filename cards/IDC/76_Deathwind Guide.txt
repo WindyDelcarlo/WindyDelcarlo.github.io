@@ -1,1 +1,0 @@
-﻿Deathwind Guide	B	rare	Creature – Human Advisor 	76	B	1B	DeathtouchNEWLINEWhenever Deathwind Guide attacks a player and isn’t blocked, you and that player each draw a card and lose 1 life.	1/2		normal	IDC		WB

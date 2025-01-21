@@ -1,1 +1,0 @@
-﻿Zealous Militia	R	uncommon	Creature – Human Citizen 	129	R	R	Zealous Militia gets +1/+1 as long as it and another creature attacked this turn.	1/1		normal	IDC		RW

@@ -1,1 +1,0 @@
-﻿Sleepthorn Sharpshooter	U	uncommon	Creature – Human Archer Wizard 	62	U	1U	FlashNEWLINEWhen Sleepthorn Sharpshooter enters, target creature gets -X/-0 and loses flying until end of turn, where X is the number of nonland permanents you control.	2/1		normal	EMR		

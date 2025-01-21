@@ -1,1 +1,0 @@
-﻿Canopy Strider	G	rare	Creature – Elemental 	133	G	3G	FlashNEWLINEWhen Canopy Strider enters the battlefield, target creature you control fights target creature you don’t control.	3/2		normal	IDC		GU

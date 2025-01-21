@@ -1,1 +1,0 @@
-﻿Evanescent Lunakin	W	uncommon	Creature – Elemental Cat 	7	W	W	Evanescent Lunakin gets +1/+1 as long as a creature entered the battlefield this turn.	1/2		normal	IDC		RW

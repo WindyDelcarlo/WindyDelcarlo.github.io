@@ -1,1 +1,0 @@
-﻿Data Sphere		common	Artifact	193	C	2	3, Sacrifice Data Sphere: Scry 2, then draw two cards.			normal	IDC		

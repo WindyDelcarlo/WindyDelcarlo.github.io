@@ -1,1 +1,0 @@
-﻿Aether Fragment	W	common	Artifact	3	W	4W	When Aether Fragment enters, exile target creature.NEWLINEWhen Aether Fragment leaves the battlefield, scry 2.			normal	EMR		

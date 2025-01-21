@@ -1,1 +1,0 @@
-﻿Solari's Light	W	common	Enchantment – Aura 	23	W	W	Enchant creatureNEWLINEWhen Solari’s Light enters the battlefield, draw a card.NEWLINEIf enchanted creature would die, instead exile it, then return it to the battlefield under an opponent’s control.			normal	IDC		W

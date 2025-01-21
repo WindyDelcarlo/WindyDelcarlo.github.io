@@ -1,1 +1,0 @@
-﻿Soul's Attendent	W	common	Creature – Human Cleric 	32	W	W	Whenever a creature enters, you gain 1 life.	1/1		normal	EMR		

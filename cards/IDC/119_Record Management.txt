@@ -1,1 +1,0 @@
-﻿Record Management	R	common	Sorcery	119	R	1R	Exile the top three cards of your library. Until end of turn, you may play one land card and one nonland card from among them.			normal	IDC		RG

@@ -1,1 +1,0 @@
-﻿Repair Technician	R	uncommon	Creature – Human Artificer 	134	R	R	When Repair Technician enters, you may exile an artifact card from your graveyard. If you do, create a 1/1 colorless Servo creature token, then put a +1/+1 counter on it.	2/2		normal	EMR		

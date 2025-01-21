@@ -1,1 +1,0 @@
-﻿Soulcrafter	W	uncommon	Creature – Human Cleric 	31	W	1W	When Soulcrafter enters, create a 1/1 white Elemental creature token with lifelink.	1/1		normal	EMR		

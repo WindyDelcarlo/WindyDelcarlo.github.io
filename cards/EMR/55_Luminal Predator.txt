@@ -1,1 +1,0 @@
-﻿Luminal Predator	U	rare	Creature – Elemental 	55	U	2UU	Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)NEWLINE1U, Sacrifice an artifact: Tap target creature and put a stun counter on it.	4/3		normal	EMR		

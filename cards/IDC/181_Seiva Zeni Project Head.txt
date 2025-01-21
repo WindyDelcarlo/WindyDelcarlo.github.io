@@ -1,1 +1,0 @@
-﻿Seiva Zeni, Project Head	UR	mythic	Legendary Creature – Human Wizard 	181	UR	2UR	HexproofNEWLINEWhenever you cast a noncreature spell, create a Clue token.NEWLINESacrifice a Clue: Add R. You can’t spend this mana to cast spells you own.	2/4		normal	IDC		

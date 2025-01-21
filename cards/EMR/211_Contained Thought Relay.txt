@@ -1,1 +1,0 @@
-﻿Contained Thought Relay		rare	Artifact – Equipment 	211	C	3	Resonant (When this Equipment enters, create a 1/0 blue Elemental creature token, then attach this to it.)NEWLINEEquipped creature gets +2/+2 and has haste.NEWLINEWhenever equipped creature attacks, each player discards a card.NEWLINEEquip 2			normal	EMR		

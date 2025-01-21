@@ -1,1 +1,0 @@
-﻿Lost Duelist	G	common	Creature – Human Soldier 	142	G	G	Lost Duelist enters the battlefield with a +1/+1 counter on it if you control another creature.	1/1		normal	IDC		G

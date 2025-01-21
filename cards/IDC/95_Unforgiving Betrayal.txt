@@ -1,1 +1,0 @@
-﻿Unforgiving Betrayal	B	uncommon	Sorcery	95	B	1B	Remove all counters from target permanent you don’t control. Each opponent loses life equal to the counters removed this way.			normal	IDC		

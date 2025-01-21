@@ -1,1 +1,0 @@
-﻿Necklace of Resonance		common	Artifact	225	C	3	Aethercast – When Necklace of Resonance enters, if CC was spent to cast it, create a tapped token that’s a copy of it.NEWLINET: Add one mana of any color.			normal	EMR		

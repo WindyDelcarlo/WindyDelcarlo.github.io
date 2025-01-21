@@ -1,1 +1,0 @@
-﻿Lost in Thought	U	common	Enchantment – Aura 	53	U	2U	Enchant creatureNEWLINEEnchanted creature doesn’t untap during its controller’s untap step.NEWLINE2U: Return Lost in Thought to its owner’s hand. Scry 1.			normal	IDC		U

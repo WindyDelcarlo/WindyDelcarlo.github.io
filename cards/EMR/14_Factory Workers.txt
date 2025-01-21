@@ -1,1 +1,0 @@
-﻿Factory Workers	W	uncommon	Creature – Human Citizen 	14	W	2W	Whenever you cast an artifact spell, create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)	3/2		normal	EMR		Cell Generation

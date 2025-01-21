@@ -1,1 +1,0 @@
-﻿Twilight Summoning	W	common	Instant	29	W	2W	For each player, you create a 1/1 white Elemental creature token unless that player pays 2.			normal	IDC		WB

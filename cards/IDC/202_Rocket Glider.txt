@@ -1,1 +1,0 @@
-﻿Rocket Glider		uncommon	Artifact – Equipment 	202	C	2	Equipped creature gets +3/+2 and has flying.NEWLINEWhen equipped creature dies, sacrifice Rocket Glider.NEWLINEEquip 2			normal	IDC		

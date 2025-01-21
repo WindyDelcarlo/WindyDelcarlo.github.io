@@ -1,1 +1,0 @@
-﻿Subspace Dreamer	B	common	Creature – Human Cleric 	100	B	B	Whenever an artifact you control enters, each opponent loses 1 life and you gain 1 life. This ability triggers only once each turn.	1/2		normal	EMR		

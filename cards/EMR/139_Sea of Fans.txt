@@ -1,1 +1,0 @@
-﻿Sea of Fans	R	common	Creature – Human Citizen 	139	R	4R	When Sea of Fans enters, create two 1/1 white Citizen creature tokens. They gain haste until end of turn.	3/3		normal	EMR		

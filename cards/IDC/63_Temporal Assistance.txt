@@ -1,1 +1,0 @@
-﻿Temporal Assistance	U	common	Instant	63	U	U	Target creature gets -3/-0 until end of turn. If that creature is attacking a player other than you, draw a card.			normal	IDC		UB

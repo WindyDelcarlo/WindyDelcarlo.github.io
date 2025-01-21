@@ -1,1 +1,0 @@
-﻿Aetheric Revolution	R	mythic	Enchantment	112	R	2R	Aethercast – Aetheric Revolution enters with two charge counters on it if CC was spent to cast it.NEWLINEAt the beginning of your precombat main phase, put a charge counter on Aetheric Revolution, then add C to your mana pool for each charge counter on it.			normal	EMR		

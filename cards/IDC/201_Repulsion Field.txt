@@ -1,1 +1,0 @@
-﻿Repulsion Field		rare	Artifact	201	C	2	When Repulsion Field enters the battlefield, return target creature to its owner’s hand.NEWLINE5, Sacrifice Repulsion Field: Return each nonland permanent to its owner’s hand.			normal	IDC		

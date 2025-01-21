@@ -1,1 +1,0 @@
-﻿Enforcer's Plate		uncommon	Artifact – Equipment 	214	C	3	Resonant (When this Equipment enters, create a 1/0 blue Elemental creature token, then attach this to it.)NEWLINEAethercast – When Enforcer’s Plate enters, if CC was spent to cast it, put a +1/+1 counter on equipped creature.NEWLINEEquipped creature gets +2/+2.NEWLINEEquip 2			normal	EMR		

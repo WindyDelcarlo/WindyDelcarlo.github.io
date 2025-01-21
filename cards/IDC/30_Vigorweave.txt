@@ -1,1 +1,0 @@
-﻿Vigorweave	W	common	Creature – Elemental Soldier 	30	W	3W	FlyingNEWLINE2W: Untap target creature.	3/3		normal	IDC		W

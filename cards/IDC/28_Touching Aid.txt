@@ -1,1 +1,0 @@
-﻿Touching Aid	W	common	Instant	28	W	W	Target creature gets +2/+2 until end of turn. If an opponent controls that creature, it gains indestructible until end of turn.			normal	IDC		RW

@@ -32,6 +32,7 @@
 		.sidebar-container {
 			width: 80%;
 			max-width: 375px;
+			position: relative;
 		}
 		.sidebar img {
 			vertical-align: middle;
@@ -99,21 +100,15 @@
 			cursor: pointer;
 			border: none;
 			position: absolute;
-			top: 6.5%;
-			left: 8.5%;
+			left: 50%;
+			top: 48%;
 			transform: translate(-50%, -50%);
+			opacity: 0.5;
 		}
 		.flip-btn:hover {
 			background: url('img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
-		}
-		.sidebar .flip-btn {
-			right: 80%;
-			left: 7.8%;
-			top: -4%;
-			transform: none;
-
 		}
 		.icon-bar {
 			display: grid;
@@ -165,6 +160,7 @@
 			<img class="sg-icon" src="/img/search.png">
 			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
 			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
 		</div>
 	</div>
@@ -340,16 +336,16 @@
 			<div class="container"><img alt="sets\IDC-files\img\96_Vessel of Souls.png" id="96" data-flag="@X" onclick="openSidebar('96')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\128_Windswept Swiftblade.png" id="128" data-flag="@X" onclick="openSidebar('128')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\161_Vigorkin.png" id="161" data-flag="@X" onclick="openSidebar('161')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\64_Waterwall Sentries.png" id="64" data-flag="@X" onclick="openSidebar('64')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\180_Salvage Run.png" id="180" data-flag="@X" onclick="openSidebar('180')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\172_Kivnith, High Governer.png" id="172" data-flag="@X" onclick="openSidebar('172')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\185_Up in Flames.png" id="185" data-flag="@X" onclick="openSidebar('185')"></div>
@@ -360,16 +356,16 @@
 			<div class="container"><img alt="sets\IDC-files\img\183_Strike Agent.png" id="183" data-flag="@X" onclick="openSidebar('183')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\168_Cycle Hunter.png" id="168" data-flag="@X" onclick="openSidebar('168')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\166_Champion of Solari.png" id="166" data-flag="@X" onclick="openSidebar('166')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\165_Blade of Shadows.png" id="165" data-flag="@X" onclick="openSidebar('165')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\169_Deathwind Healer.png" id="169" data-flag="@X" onclick="openSidebar('169')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\179_Rinn, Crumbling Ruler.png" id="179" data-flag="@X" onclick="openSidebar('179')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\178_Poisontip Hunter.png" id="178" data-flag="@X" onclick="openSidebar('178')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\174_Manaflow Birds.png" id="174" data-flag="@X" onclick="openSidebar('174')"></div>
@@ -381,15 +377,15 @@
 			<div class="container"><img alt="sets\IDC-files\img\170_Dedicated Research.png" id="170" data-flag="@X" onclick="openSidebar('170')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\163_Attack Formation.png" id="163" data-flag="@X" onclick="openSidebar('163')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\173_Linelan Diplomat.png" id="173" data-flag="@X" onclick="openSidebar('173')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\167_Core Engineer.png" id="167" data-flag="@X" onclick="openSidebar('167')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\196_Eternity Tunnel.png" id="196" data-flag="@X" onclick="openSidebar('196')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\186_Aether Reactor.png" id="186" data-flag="@X" onclick="openSidebar('186')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\190_Augmented Reality.png" id="190" data-flag="@X" onclick="openSidebar('190')"></div>
@@ -410,11 +406,11 @@
 			<div class="container"><img alt="sets\IDC-files\img\193_Data Sphere.png" id="193" data-flag="@X" onclick="openSidebar('193')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\203_Scanner Construct.png" id="203" data-flag="@X" onclick="openSidebar('203')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\205_Surveillance Drone.png" id="205" data-flag="@X" onclick="openSidebar('205')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\207_Entelan Academy for Interplanar Youth.png" id="207" data-flag="@X" onclick="openSidebar('207')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\210_Ruins of Telenia.png" id="210" data-flag="@X" onclick="openSidebar('210')"></div>
 			<div class="container"><img alt="sets\IDC-files\img\208_Interplanar Market.png" id="208" data-flag="@X" onclick="openSidebar('208')"></div>
@@ -423,7 +419,10 @@
 	</div>
 </div>
 	<div class="sidebar" id="sidebar">
-		<div class="sidebar-container"><img id="sidebar_img" src="img/er.png"><button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button></div>
+		<div class="sidebar-container">
+			<img id="sidebar_img" src="img/er.png">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
 		<button class="close-btn" onclick="closeSidebar()"></button>
 	</div>
 	<div class="footer"></div>
@@ -433,10 +432,10 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.txt')
-					.then(response => response.text())
-					.then(text => {
-						card_list_stringified = text;
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
 				await fetch('/resources/replacechars.txt')
@@ -445,12 +444,7 @@
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
-				card_list_arrayified = card_list_stringified.split('\\n');
-
-				for (let i = 0; i < card_list_arrayified.length; i++)
-				{
-					card_list_arrayified[i] = card_list_arrayified[i].split('\t');
-				}
+				card_list_arrayified = card_list.cards;
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 		
@@ -566,13 +560,13 @@
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
-				let card_name = card_list_arrayified[i][0];
+				let card_name = card_list_arrayified[i].card_name;
 				for (const char of specialchars)
 				{
 					card_name = card_name.replaceAll(char, "");
 				}
 
-				window.location = ('/cards/' + card_list_arrayified[i][11] + '/' + card_list_arrayified[i][4] + '_' + card_name);
+				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
 			}
 	</script>
 </body>

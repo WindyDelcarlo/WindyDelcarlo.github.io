@@ -1,1 +1,0 @@
-﻿Resonance Reactor		mythic	Legendary Artifact	232	C	4	Whenever you cast a noncreature spell, create a tapped Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)NEWLINESacrifice ten artifacts, T: Resonance Reactor deals 10 damage to each creature, planeswalker, and opponent.			normal	EMR		Aether ReactorNEWLINECell Generation, Flavor

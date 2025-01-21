@@ -1,1 +1,0 @@
-﻿Tenebrite Detonator		rare	Artifact	238	C	3	Aethercast – When Tenebrite Detonator enters, if CC was spent to cast it, you may sacrifice it.  When you do, destroy target nonartifact creature.NEWLINE5, Sacrifice Tenebrite Detonator: Destroy all nonland permanents. Activate this ability only as a sorcery.			normal	EMR		

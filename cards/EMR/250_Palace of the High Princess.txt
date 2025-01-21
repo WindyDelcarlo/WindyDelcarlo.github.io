@@ -1,1 +1,0 @@
-﻿Palace of the High Princess		rare	Legendary Land	250	C		T: Add C.NEWLINE2, T: Choose a color. Add mana of that color equal to the number of tokens you control.			normal	EMR		

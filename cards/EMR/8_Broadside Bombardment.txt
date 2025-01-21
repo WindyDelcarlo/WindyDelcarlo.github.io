@@ -1,1 +1,0 @@
-﻿Broadside Bombardment	W	common	Instant	8	W	2W	Broadside Bombardment deals 4 damage to target attacking or blocking creature. Create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)			normal	EMR		Cell GenerationNEWLINERemoval Spell for attackers

@@ -1,1 +1,0 @@
-﻿Deathwind Healer	WG	uncommon	Creature – Human Cleric 	169	WG	1GW	When Deathwind Healer enters the battlefield or dies, create a 1/1 white and green Cleric token with lifelink.	2/2		normal	IDC		

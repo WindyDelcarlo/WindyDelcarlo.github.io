@@ -1,1 +1,0 @@
-﻿Manaflow Birds	UG	rare	Creature – Bird 	174	UG	GU	FlyingNEWLINET: Add G or U. The next time you cast a spell or activate an ability that isn’t a mana ability this turn, you may ignore any timing restrictions to cast that spell or activate that ability.	0/1		normal	IDC		

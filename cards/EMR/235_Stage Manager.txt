@@ -1,1 +1,0 @@
-﻿Stage Manager		uncommon	Artifact Creature – Construct 	235	C	2	Whenever Stage Manager and another creature attack, put a +1/+1 counter on Stage Manager.	1/1		normal	EMR		

@@ -1,1 +1,0 @@
-﻿Adept Botanist	G	rare	Creature – Human Druid 	146	G	2G	T: Create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)NEWLINET, Sacrifice any number of artifacts: Add one mana of any color for each artifact sacrificed this way.	2/2		normal	EMR		Cell Generation

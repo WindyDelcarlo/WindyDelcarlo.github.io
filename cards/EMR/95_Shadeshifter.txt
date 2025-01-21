@@ -1,1 +1,0 @@
-﻿Shadeshifter	B	common	Creature – Human Wizard 	95	B	2B	When Shadeshifter enters, you may sacrifice another creature. When you do, destroy target creature.	2/2		normal	EMR		

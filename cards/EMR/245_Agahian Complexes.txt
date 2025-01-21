@@ -1,1 +1,0 @@
-﻿Agahian Complexes		uncommon	Land	245	C		T: Add one mana of any color. Spend this mana only to cast a spell with mana value 3 or less.			normal	EMR		Agahia?

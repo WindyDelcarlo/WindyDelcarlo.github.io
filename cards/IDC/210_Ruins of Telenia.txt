@@ -1,1 +1,0 @@
-﻿Ruins of Telenia		rare	Land	210	C		Whenever a player activates an ability of another permanent, if it isn’t a mana ability, put a charge counter on Ruins of Telenia.NEWLINET: Add C.NEWLINEX, T, Remove X charge counters from Ruins of Telenia: Target creature gets -X/-X until end of turn.			normal	IDC		

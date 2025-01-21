@@ -1,1 +1,0 @@
-﻿Expendable Forces	R	common	Instant	118	R	R	As an additional cost to cast this spell, you may sacrifice a token.NEWLINETarget creature gets +2/+0 until end of turn. If you sacrificed a token to cast this spell, it also gains first strike until end of turn.			normal	EMR		

@@ -1,1 +1,0 @@
-﻿Wrangled Wildlife	G	common	Creature – Elk 	181	G	4G	Aethercast – Wrangled Wildlife enters with two +1/+1 counters on it if CC was spent to cast it.NEWLINEWrangled Wildlife can’t be blocked by more than one creature.	4/4		normal	EMR		

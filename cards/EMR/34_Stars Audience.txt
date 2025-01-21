@@ -1,1 +1,0 @@
-﻿Star's Audience	W	common	Creature – Human Citizen 	34	W	2W	Whenever a creature or planeswalker you control enters, Star’s Audience gets +1/+1 until end of turn.	3/2		normal	EMR		Seiko

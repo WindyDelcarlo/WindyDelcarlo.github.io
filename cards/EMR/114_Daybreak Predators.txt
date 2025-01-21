@@ -1,1 +1,0 @@
-﻿Daybreak Predators	R	rare	Creature – Human Pirate 	114	R	3RR	Double strike, hasteNEWLINEAethercast – When Daybreak Predators enters, if CC was spent to cast it, creatures without flying can’t block this turn.	3/4		normal	EMR		Pirates

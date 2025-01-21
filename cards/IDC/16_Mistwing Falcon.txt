@@ -1,1 +1,0 @@
-﻿Mistwing Falcon	W	common	Creature – Bird 	16	W	1W	FlyingNEWLINEWhenever Mistwing Falcon deals combat damage to a player, you may develop a Development. (Note your name for it and put a development counter on it.)	1/2		normal	IDC		WU

@@ -1,1 +1,0 @@
-﻿Botanical Collector	G	common	Creature – Human Druid 	154	G	3G	Landfall – Whenever a land you control enters, create a 1/1 white Citizen creature token.	2/3		normal	EMR		

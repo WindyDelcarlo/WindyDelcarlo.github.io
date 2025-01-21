@@ -1,1 +1,0 @@
-﻿Goblin Aethermage	R	common	Creature – Goblin Wizard 	110	R	1R	HasteNEWLINEWhenever you activate an ability that isn’t a mana ability, Goblin Aethermage gets +1/+1 until end of turn.	1/1		normal	IDC		R

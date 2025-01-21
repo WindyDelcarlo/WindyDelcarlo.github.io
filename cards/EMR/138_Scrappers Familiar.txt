@@ -1,1 +1,0 @@
-﻿Scrapper's Familiar	R	uncommon	Creature – Beast 	138	R	3R	Whenever an artifact you control is put into a graveyard from the battlefield, exile the top card of your library. Until your next end step, you may play that card. This ability triggers only once each turn.	3/2		normal	EMR		

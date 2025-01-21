@@ -1,1 +1,0 @@
-﻿Vitrify	W	uncommon	Instant	31	W	1W	Exile target creature. Its controller creates a Clue token. (It’s an artifact with “2, Sacrifice this token: Draw a card.”)			normal	IDC		

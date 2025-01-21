@@ -1,1 +1,0 @@
-﻿The Scent of Rain	G	uncommon	Instant	172	G	2G	Prevent all combat damage that would be dealt this turn. Whenever damage that would be dealt to a creature you control is prevented this way, put a +1/+1 counter on it.			normal	EMR		

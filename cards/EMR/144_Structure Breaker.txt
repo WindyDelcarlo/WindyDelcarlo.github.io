@@ -1,1 +1,0 @@
-﻿Structure Breaker	R	uncommon	Creature – Human Rebel 	144	R	2R	Aethercast – Structure Breaker enters wit a +1/+1 counter on it if CC was spent to cast it.NEWLINERemove a +1/+1 counter from Structure Breaker: Destroy target artifact.	3/2		normal	EMR		

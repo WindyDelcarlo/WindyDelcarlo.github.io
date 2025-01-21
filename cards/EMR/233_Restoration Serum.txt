@@ -1,1 +1,0 @@
-﻿Restoration Serum		common	Artifact	233	C	1	When Restoration Serum enters, scry 1.NEWLINESacrifice Restoration Serum: Untap target creature.			normal	EMR		

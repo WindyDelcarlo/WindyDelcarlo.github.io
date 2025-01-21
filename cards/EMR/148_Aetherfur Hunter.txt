@@ -1,1 +1,0 @@
-﻿Aetherfur Hunter	G	uncommon	Creature – Wolf 	148	G	2G	Aethercast – When Aetherfur Hunter enters, if CC was spent to cast it, you may put a land card from your hand onto the battlefield.	3/2		normal	EMR		

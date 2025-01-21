@@ -1,1 +1,0 @@
-﻿Merchant Crew	UB	rare	Creature – Human Advisor 	175	UB	2UB	FlyingNEWLINEAt the beginning of each player’s upkeep, that player draws a card and loses 1 life.	3/5		normal	IDC		

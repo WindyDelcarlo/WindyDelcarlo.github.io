@@ -1,1 +1,0 @@
-﻿Life's Work	R	rare	Instant	112	R	1R	As an additional cost to cast Life’s Work, sacrifice a creature.NEWLINEExile the top X cards of your library, where X was the sacrificed creature’s converted mana cost. Until the end of your next turn, you may play those cards.			normal	IDC		BR

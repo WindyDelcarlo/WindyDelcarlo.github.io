@@ -1,1 +1,0 @@
-﻿Crafty Scavenger	B	uncommon	Creature – Human Pirate 	79	B	3B	Whenever a creature dealt damage this turn by Crafty Scavenger dies, create an Energy Cell token. If that creature was an artifact or equipped, create two of those tokens instead. (It’s an artifact with “T, Sacrifice this: Add C.”)	3/4		normal	EMR		Cell Generation

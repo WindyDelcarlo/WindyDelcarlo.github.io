@@ -1,1 +1,0 @@
-﻿Wasteland Scavenger	W	common	Creature – Human Rogue 	36	W	1W	Wasteland Scavenger can’t be blocked by artifact creatures or equipped creatures.	2/2		normal	EMR		FT: Dairan Citizen throwing shade at Entela.NEWLINEIndustrialization

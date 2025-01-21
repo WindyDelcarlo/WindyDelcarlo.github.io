@@ -1,1 +1,0 @@
-﻿Limiter Agent	U	common	Creature – Human Wizard 	54	U	2U	Aethercast – When Limiter Agent enters, tap up to two target creatures.  If CC was spent to cast Limiter Agent, put a stun counter on those creatures.	2/2		normal	EMR		

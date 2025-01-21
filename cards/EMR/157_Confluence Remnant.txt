@@ -1,1 +1,0 @@
-﻿Confluence Remnant	G	mythic	Creature – Elemental 	157	G	3GG	Trample, reachNEWLINEWhenever a creature that blocked or fought Confluence Remnant this turn dies, put two +1/+1 counters on Confluence Remnant.NEWLINE2G, Sacrifice two tokens: Confluence Remnant fights target creature. Activate only as a sorcery.	5/5		normal	EMR		

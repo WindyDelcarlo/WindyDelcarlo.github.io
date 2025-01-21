@@ -32,6 +32,7 @@
 		.sidebar-container {
 			width: 80%;
 			max-width: 375px;
+			position: relative;
 		}
 		.sidebar img {
 			vertical-align: middle;
@@ -99,21 +100,15 @@
 			cursor: pointer;
 			border: none;
 			position: absolute;
-			top: 6.5%;
-			left: 8.5%;
+			left: 50%;
+			top: 48%;
 			transform: translate(-50%, -50%);
+			opacity: 0.5;
 		}
 		.flip-btn:hover {
 			background: url('img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
-		}
-		.sidebar .flip-btn {
-			right: 80%;
-			left: 7.8%;
-			top: -4%;
-			transform: none;
-
 		}
 		.icon-bar {
 			display: grid;
@@ -165,6 +160,7 @@
 			<img class="sg-icon" src="/img/search.png">
 			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
 			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
 		</div>
 	</div>
@@ -360,31 +356,31 @@
 			<div class="container"><img alt="sets\EMR-files\img\106_Urban Scout.png" id="106" data-flag="@X" onclick="openSidebar('106')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\145_Tenebrite Disassembly.png" id="145" data-flag="@X" onclick="openSidebar('145')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\181_Wrangled Wildlife.png" id="181" data-flag="@X" onclick="openSidebar('181')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\108_Waste Disposal.png" id="108" data-flag="@X" onclick="openSidebar('108')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\198_Veklin, Arbiter of Stars.png" id="198" data-flag="@X" onclick="openSidebar('198')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\184_Deep Night Couriers.png" id="184" data-flag="@X" onclick="openSidebar('184')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\196_Storehouse Saboteur.png" id="196" data-flag="@X" onclick="openSidebar('196')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\182_Ardent Revolutionary.png" id="182" data-flag="@X" onclick="openSidebar('182')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\194_Solari, With New Life.png" id="194" data-flag="@X" onclick="openSidebar('194')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\191_Resonant Nestmother.png" id="191" data-flag="@X" onclick="openSidebar('191')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\186_Guarding Grovekin.png" id="186" data-flag="@X" onclick="openSidebar('186')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\195_Starlight Invaders.png" id="195" data-flag="@X" onclick="openSidebar('195')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\199_Warlord Rishen.png" id="199" data-flag="@X" onclick="openSidebar('199')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\192_Scrap Surveyors.png" id="192" data-flag="@X" onclick="openSidebar('192')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\183_Art Collector.png" id="183" data-flag="@X" onclick="openSidebar('183')"></div>
@@ -392,19 +388,19 @@
 			<div class="container"><img alt="sets\EMR-files\img\193_Seiko, Star of the Multiverse.png" id="193" data-flag="@X" onclick="openSidebar('193')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\197_Twilight Summoning.png" id="197" data-flag="@X" onclick="openSidebar('197')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\190_Reclaiming Growth.png" id="190" data-flag="@X" onclick="openSidebar('190')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\187_High Princess Ivra.png" id="187" data-flag="@X" onclick="openSidebar('187')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\189_Rapid Deployment.png" id="189" data-flag="@X" onclick="openSidebar('189')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\185_Entelan Technician.png" id="185" data-flag="@X" onclick="openSidebar('185')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\213_Dimension Anchor.png" id="213" data-flag="@X" onclick="openSidebar('213')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\232_Resonance Reactor.png" id="232" data-flag="@X" onclick="openSidebar('232')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\200_Adaptor Pistol.png" id="200" data-flag="@X" onclick="openSidebar('200')"></div>
@@ -449,32 +445,37 @@
 			<div class="container"><img alt="sets\EMR-files\img\240_Transport Cart.png" id="240" data-flag="@X" onclick="openSidebar('240')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\241_Warehouse Lift.png" id="241" data-flag="@X" onclick="openSidebar('241')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\243_Workshop Tools.png" id="243" data-flag="@X" onclick="openSidebar('243')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\251_Shrine of Conquest.png" id="251" data-flag="@X" onclick="openSidebar('251')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\246_Contaminated Factory.png" id="246" data-flag="@X" onclick="openSidebar('246')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\248_Island Port.png" id="248" data-flag="@X" onclick="openSidebar('248')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\247_EnTech Laboratory.png" id="247" data-flag="@X" onclick="openSidebar('247')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\249_Noble District.png" id="249" data-flag="@X" onclick="openSidebar('249')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\250_Palace of the High Princess.png" id="250" data-flag="@X" onclick="openSidebar('250')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\244_Aether Refinery.png" id="244" data-flag="@X" onclick="openSidebar('244')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\245_Agahian Complexes.png" id="245" data-flag="@X" onclick="openSidebar('245')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\252_Wastes.png" id="252" data-flag="@X" onclick="openSidebar('252')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\254_Plains.png" id="254" data-flag="@X" onclick="openSidebar('254')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\256_Island.png" id="256" data-flag="@X" onclick="openSidebar('256')"></div>
@@ -491,19 +492,22 @@
 			<div class="container"><img alt="sets\EMR-files\img\263_Mountain.png" id="263" data-flag="@X" onclick="openSidebar('263')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\265_Forest.png" id="265" data-flag="@X" onclick="openSidebar('265')"></div>
 			<div class="container"><img alt="sets\EMR-files\img\267_Forest.png" id="267" data-flag="@X" onclick="openSidebar('267')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 	</div>
 </div>
 	<div class="sidebar" id="sidebar">
-		<div class="sidebar-container"><img id="sidebar_img" src="img/er.png"><button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button></div>
+		<div class="sidebar-container">
+			<img id="sidebar_img" src="img/er.png">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
 		<button class="close-btn" onclick="closeSidebar()"></button>
 	</div>
 	<div class="footer"></div>
@@ -513,10 +517,10 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.txt')
-					.then(response => response.text())
-					.then(text => {
-						card_list_stringified = text;
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
 				await fetch('/resources/replacechars.txt')
@@ -525,12 +529,7 @@
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
-				card_list_arrayified = card_list_stringified.split('\\n');
-
-				for (let i = 0; i < card_list_arrayified.length; i++)
-				{
-					card_list_arrayified[i] = card_list_arrayified[i].split('\t');
-				}
+				card_list_arrayified = card_list.cards;
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 		
@@ -646,13 +645,13 @@
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
-				let card_name = card_list_arrayified[i][0];
+				let card_name = card_list_arrayified[i].card_name;
 				for (const char of specialchars)
 				{
 					card_name = card_name.replaceAll(char, "");
 				}
 
-				window.location = ('/cards/' + card_list_arrayified[i][11] + '/' + card_list_arrayified[i][4] + '_' + card_name);
+				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
 			}
 	</script>
 </body>

@@ -1,1 +1,0 @@
-﻿Cascading Aether Field	U	mythic	Enchantment	44	U	2U	You and other permanents you control have ward 2.NEWLINEWhenever a player attacks you or a planeswalker you control with one or more creatures, put a stun counter on one of those creatures.			normal	EMR		

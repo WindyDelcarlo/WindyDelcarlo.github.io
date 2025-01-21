@@ -1,1 +1,0 @@
-﻿Kivnith, High Governer	UB	mythic	Legendary Creature – Spirit Rogue 	172	UB	1UB	Kivnith, High Governer can’t be blocked by creatures with converted mana cost 3 or greater.NEWLINEWhenever Kivnith deals combat damage to a player, return target nonland permanent that player controls to its owner’s hand, then that player discards a card.	1/3		normal	IDC		

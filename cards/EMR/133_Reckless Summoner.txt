@@ -1,1 +1,0 @@
-﻿Reckless Summoner	R	common	Creature – Human Wizard 	133	R	R	When Reckless Summoner dies, create a 1/0 blue Elemental creature token, then put a +1/+1 counter on it.	1/1		normal	EMR		

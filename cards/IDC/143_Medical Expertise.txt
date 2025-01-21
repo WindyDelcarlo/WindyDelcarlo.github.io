@@ -1,1 +1,0 @@
-﻿Medical Expertise	G	common	Enchantment – Development 	143	G	G	Whenever a player develops Medical Expertise, each player who developed it may put a +1/+1 counter on any creature.NEWLINEDevelop 4–2 (2: Note your name and put a development counter on this. Any player may develop this as a sorcery if there are fewer than four counters on this.)			normal	IDC		G

@@ -1,1 +1,0 @@
-﻿Growing Crowd	W	common	Creature – Citizen 	8	W	1W	Whenever a creature enters the battlefield under your control, put a +1/+1 counter on Growing Crowd.	1/1		normal	IDC		GW

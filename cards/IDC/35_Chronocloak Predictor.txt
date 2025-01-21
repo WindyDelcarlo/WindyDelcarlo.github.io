@@ -1,1 +1,0 @@
-﻿Chronocloak Predictor	U	rare	Creature – Elf Wizard 	35	U	1U	When Chronocloak Predictor enters the battlefield, scry 2, then draw a card.	2/1		normal	IDC		WU

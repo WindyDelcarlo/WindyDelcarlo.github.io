@@ -1,1 +1,0 @@
-﻿Art Collector	UG	uncommon	Creature – Human Noble 	183	UG	1GU	Landfall – Whenever a land you control enters, put a +1/+1 counter on Art Collector.NEWLINERemove two +1/+1 counters from Art Collector: Draw a card.	2/1		normal	EMR		GU ArcunNEWLINELandfall

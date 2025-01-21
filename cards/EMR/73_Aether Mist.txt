@@ -1,1 +1,0 @@
-﻿Aether Mist	B	rare	Sorcery	73	B	2BB	All creatures get -3/-3 until end of turn.NEWLINEAethercast – If CC was spent to cast Aether Mist, at the beginning of the next end step, return a creature card from your graveyard to the battlefield.			normal	EMR		

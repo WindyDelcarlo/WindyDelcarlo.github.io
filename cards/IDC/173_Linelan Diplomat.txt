@@ -1,1 +1,0 @@
-﻿Linelan Diplomat	WB	uncommon	Creature – Elf Advisor 	173	WB	WB	VigilanceNEWLINEWhenever a player develops a permanent, put a +1/+1 counter on Linelan Diplomat.	1/2		normal	IDC		

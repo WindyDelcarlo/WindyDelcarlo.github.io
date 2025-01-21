@@ -1,1 +1,0 @@
-﻿Novice Spellweaver	W	uncommon	Creature – Human Noble 	21	W	2W	Whenever Novice Spellweaver attacks, when up to one target artifact is put into a graveyard from the battlefield this turn, return it to the battlefield under its owner’s control.	2/2		normal	EMR		

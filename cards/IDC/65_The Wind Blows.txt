@@ -1,1 +1,0 @@
-﻿The Wind Blows	U	uncommon	Instant	65	U	U	Exile target creature. Its controller may put it into their hand or onto the battlefield tapped.			normal	IDC		WU

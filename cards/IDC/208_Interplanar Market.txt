@@ -1,1 +1,0 @@
-﻿Interplanar Market		uncommon	Land	208	C		T: Add C.NEWLINET: Target player may pay 2. If that player does, they create a Treasure. (It has “T, Sacrifice this token: Add one mana of any color.”)NEWLINET: Target player may sacrifice a Treasure. If they do, they draw a card.			normal	IDC		

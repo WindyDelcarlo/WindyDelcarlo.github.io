@@ -1,1 +1,0 @@
-﻿Aethersteel Scale		uncommon	Artifact – Equipment 	205	C	2	Resonant (When this Equipment enters, create a 1/0 blue Elemental creature token, then attach this to it.)NEWLINEEquipped creature gets +0/+3.NEWLINESacrifice equipped creature: Add one mana of any color.NEWLINEEquip 2			normal	EMR		

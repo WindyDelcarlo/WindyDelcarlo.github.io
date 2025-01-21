@@ -1,1 +1,0 @@
-﻿The Sunspear		rare	Legendary Artifact – Equipment 	236	W	2	Equipped creature gets +2/+0 and has first strike.NEWLINEEquipped creature and The Sunspear each have hexproof from instants.NEWLINEEquip W, equip 3			normal	EMR		

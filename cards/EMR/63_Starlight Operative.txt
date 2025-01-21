@@ -1,1 +1,0 @@
-﻿Starlight Operative	U	uncommon	Creature	63	U	3UU	Whenever you cast a noncreature spell for the first time each turn, create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)	3/5		normal	EMR		

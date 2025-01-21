@@ -1,1 +1,0 @@
-﻿Circuit Assembler		uncommon	Artifact Creature – Elemental 	208	C	3	Relentless (Whenever this creature becomes untapped, it gets +1/+1 until end of turn.)NEWLINE3, T, Tap another untapped creature you control: Create a 1/1 colorless Servo artifact creature token. 	3/2		normal	EMR		

@@ -1,1 +1,0 @@
-﻿Swiftguide Hound	R	common	Creature – Hound 	125	R	3R	1, Sacrifice a creature: Target creature gains haste until end of turn. If that creature attacks a player that isn’t you this turn, it gets +2/+0 until end of turn.	4/3		normal	IDC		BR

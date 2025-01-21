@@ -1,1 +1,0 @@
-﻿Debtseeker	B	uncommon	Creature – Vampire 	79	B	3B	LifelinkNEWLINE2B: Debtseeker deals 1 damage to target player.	3/2		normal	IDC		B

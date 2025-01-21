@@ -1,1 +1,0 @@
-﻿Ragecaster	R	uncommon	Creature – Goblin Wizard 	117	R	2R	Whenever Ragecaster attacks, put a +1/+1 counter on it.NEWLINEWhenever Ragecaster deals combat damage to a player, remove all +1/+1 counters from it and it deals that much damage to each opponent.	1/2		normal	IDC		

@@ -1,1 +1,0 @@
-﻿Brightsoul Medic	W	uncommon	Creature – Elf Cleric 	7	W	1W	Analytics 1W (You may cast this spell for its analytics cost if you’ve cast a noncreature spell this turn.)NEWLINEWhen Brightsoul Medic enters, if its analytics cost was paid, create a 1/1 white Elemental creature token with lifelink.	2/1		normal	EMR		War, Entelan

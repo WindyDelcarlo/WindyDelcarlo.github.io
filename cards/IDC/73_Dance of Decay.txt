@@ -1,1 +1,0 @@
-﻿Dance of Decay	B	common	Sorcery	73	B	B	Each player sacrifices the creature with the least power they control.			normal	IDC		BR

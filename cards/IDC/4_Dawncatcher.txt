@@ -1,1 +1,0 @@
-﻿Dawncatcher	W	rare	Creature – Elemental 	4	W	2W	FlyingNEWLINEAt the beginning of combat on each player’s turn, that player may put a +1/+1 counter on another creature they control. If they do, put a +1/+1 counter on Dawncatcher.	1/1		normal	IDC		RW

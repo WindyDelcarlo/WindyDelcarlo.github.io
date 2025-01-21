@@ -1,1 +1,0 @@
-﻿Scrap Surveyors	BG	rare	Creature – Elf Shaman 	192	BG	2BG	When Scrap Surveyors enters, mill four cards.NEWLINEBG, Sacrifice another artifact or creature: Return target artifact or creature from your graveyard to your hand.	4/5		normal	EMR		

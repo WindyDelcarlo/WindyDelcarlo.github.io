@@ -1,1 +1,0 @@
-﻿Cycle Hunter	RG	uncommon	Creature – Beast 	168	RG	3RG	TrampleNEWLINEWhen Cycle Hunter enters the battlefield or deals combat damage to a player, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.	4/5		normal	IDC		

@@ -1,1 +1,0 @@
-﻿Augmented Reality		rare	Artifact	190	C	4	3, T: Search your library for a card, reveal it, shuffle your library, then put that card on top of your library. You lose life equal to its converted mana cost.			normal	IDC		

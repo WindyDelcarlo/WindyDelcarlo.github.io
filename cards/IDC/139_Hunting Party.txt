@@ -1,1 +1,0 @@
-﻿Hunting Party	G	common	Creature – Human Warrior 	139	G	5G	ReachNEWLINE3G: Put a +1/+1 counter on Hunting Party.	4/5		normal	IDC		G

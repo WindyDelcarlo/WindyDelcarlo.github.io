@@ -1,1 +1,0 @@
-﻿Urban Search	U	common	Sorcery	70	U	U	Target creature can’t be blocked this turn. You may sacrifice an artifact.  If you do, put a +1/+1 counter on that creature.			normal	EMR		Karina

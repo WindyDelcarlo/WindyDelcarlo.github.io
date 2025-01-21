@@ -1,1 +1,0 @@
-﻿Deathwind Invocation	B	common	Creature – Elemental 	77	B	5B	When Deathwind Invocation attacks, each creature defending player controls gets -1/-1 until end of turn.	5/3		normal	IDC		B

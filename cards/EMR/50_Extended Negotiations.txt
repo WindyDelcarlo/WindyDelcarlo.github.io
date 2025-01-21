@@ -1,1 +1,0 @@
-﻿Extended Negotiations	U	rare	Sorcery	50	U	U	Put target instant or sorcery card from your graveyard on top of your library. Exile Extended Negotiations. At the beginning of your next upkeep, put Extended Negotiations into your graveyard and draw a card.			normal	EMR		

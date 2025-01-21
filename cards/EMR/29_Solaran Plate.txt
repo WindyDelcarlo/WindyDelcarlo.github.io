@@ -1,1 +1,0 @@
-﻿Solaran Plate	W	common	Artifact – Equipment 	29	W	2W	Resonant (When this Equipment enters, create a 1/0 blue Elemental creature token, then attach this to it.)NEWLINEEquipped creature gets +2/+2 and has “When this creature attacks, you may tap target creature.”NEWLINEEquip 2			normal	EMR		

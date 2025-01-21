@@ -1,1 +1,0 @@
-﻿Shaidostan Goliath	U	common	Creature – Elemental Warrior 	60	U	4U	Hexproof, defenderNEWLINEWhenever Shaidostan Goliath blocks, it loses defender until your next end step.	3/4		normal	IDC		UB

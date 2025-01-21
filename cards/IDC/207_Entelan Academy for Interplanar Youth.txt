@@ -1,1 +1,0 @@
-﻿Entelan Academy for Interplanar Youth		mythic	Legendary Land	207	C		T: Add C.NEWLINET: Add one mana of any color for each spell cast this turn.			normal	IDC		

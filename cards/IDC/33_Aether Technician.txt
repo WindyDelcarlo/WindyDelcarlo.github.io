@@ -1,1 +1,0 @@
-﻿Aether Technician	U	common	Creature – Elf Wizard 	33	U	2U	T: Add C. Spend this mana only to activate an ability or to cast a spell you don’t own.	0/3		normal	IDC		UR

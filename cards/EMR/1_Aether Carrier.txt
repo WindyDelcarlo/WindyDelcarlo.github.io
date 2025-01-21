@@ -1,1 +1,0 @@
-﻿Aether Carrier	W	common	Creature – Bird 	1	W	1W	FlyingNEWLINEWhen Aether Carrier dies, create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)	1/2		normal	EMR		Cell GenerationNEWLINEEvasion

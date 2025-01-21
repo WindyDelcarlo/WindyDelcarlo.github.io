@@ -1,1 +1,0 @@
-﻿Makeshift Aether Tunnel		rare	Artifact	222	C	4	When Makeshift Aether Tunnel enters, search your library for up to three cards with different names, exile them, then shuffle.NEWLINET: Put a creature card exiled by Makeshift Aether Tunnel into its owner’s hand. Activate only if an opponent was dealt combat damage this turn.			normal	EMR		

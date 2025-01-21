@@ -1,1 +1,0 @@
-﻿Restless Citizen	W	common	Creature – Human Citizen 	19	W	W	Vigilance	1/1		normal	IDC		W

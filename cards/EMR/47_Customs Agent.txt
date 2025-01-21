@@ -1,1 +1,0 @@
-﻿Customs Agent	U	common	Creature – Elemental Soldier 	47	U	1U	FlashNEWLINEWhen Customs Agent enters, if a player sacrificed an artifact this turn, surveil 2.	2/1		normal	EMR		

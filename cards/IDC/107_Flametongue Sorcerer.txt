@@ -1,1 +1,0 @@
-﻿Flametongue Sorcerer	R	common	Creature – Elemental Wizard 	107	R	5RR	HasteNEWLINEWhen Flametongue Sorcerer enters the battlefield, it deals damage equal to its power to up to one target creature.	5/5		normal	IDC		RG

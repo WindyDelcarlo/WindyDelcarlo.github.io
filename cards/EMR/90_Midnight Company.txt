@@ -1,1 +1,0 @@
-﻿Midnight Company	B	rare	Creature	90	B	B	Midnight Company enters tapped.NEWLINERelentless (Whenever this creature becomes untapped, it gets +1/+1 until end of turn.)NEWLINEAt the beginning of each end step, if an opponent lost 3 or more life this turn, you may pay 2B. If you do, return Midnight Company from your graveyard to the battlefield.	2/1		normal	EMR		

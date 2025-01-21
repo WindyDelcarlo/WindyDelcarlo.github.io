@@ -1,1 +1,0 @@
-﻿Grovetender	G	common	Creature – Elf Druid 	137	G	3G	When Grovetender enters the battlefield, it fights target creature an opponent controls. When that creature dies this turn, create two 0/1 Plant creature tokens.	4/3		normal	IDC		GW

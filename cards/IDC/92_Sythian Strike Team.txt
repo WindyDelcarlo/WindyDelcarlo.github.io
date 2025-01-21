@@ -1,1 +1,0 @@
-﻿Sythian Strike Team	B	uncommon	Creature – Human Soldier 	92	B	1BB	FlyingNEWLINEWhenever Sythian Strike Team attacks, reveal the top card of your library. You lose life equal to its converted mana cost.	4/4		normal	IDC		

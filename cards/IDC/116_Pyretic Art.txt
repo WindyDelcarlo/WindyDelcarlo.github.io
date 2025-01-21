@@ -1,1 +1,0 @@
-﻿Pyretic Art	R	common	Sorcery	116	R	2R	Cooperation (Any player may spend mana to pay for 2.)NEWLINEPyretic Art deals 3 damage to target creature.			normal	IDC		R

@@ -1,1 +1,0 @@
-﻿Nature's Law	G	mythic	Sorcery	147	G	3GG	For each creature you control, search your library for a creature card and reveal it. Shuffle your library, then put the revealed cards on top of it in any order.			normal	IDC		

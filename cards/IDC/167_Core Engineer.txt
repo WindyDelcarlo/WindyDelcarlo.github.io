@@ -1,1 +1,0 @@
-﻿Core Engineer	UR	uncommon	Creature – Human Wizard 	167	UR	UR	Activated abilities you activate that aren’t mana abilities cost 1 less to activate. This effect can’t reduce the amount of mana an ability costs to less than one mana.	2/2		normal	IDC		

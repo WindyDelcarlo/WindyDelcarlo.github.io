@@ -1,1 +1,0 @@
-﻿Deep Night Couriers	UB	uncommon	Creature – Human Rogue 	184	UB	UB	Whenever Deep Night Couriers attacks, if defending player controls an artifact, it can’t be blocked this turn.NEWLINEWhenever an artifact token is put into a graveyard, target opponent loses 1 life.	3/1		normal	EMR		The Guys

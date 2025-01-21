@@ -1,1 +1,0 @@
-﻿Moonlight Operative	B	uncommon	Creature – Human Wizard 	91	B	1B	Analytics B (You may cast this spell for its analytics cost if you’ve cast a noncreature spell this turn.)NEWLINEWhen Moonlight Operative enters, if its analytics cost was paid, target player discards a card.	2/1		normal	EMR		

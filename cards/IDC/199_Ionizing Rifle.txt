@@ -1,1 +1,0 @@
-﻿Ionizing Rifle		rare	Artifact – Equipment 	199	C	3	Ionizing Rifle enters the battlefield with three charge counters on it.NEWLINEEquipped creature has “2, T, Remove a charge counter from Ionizing Rifle: It deals 3 damage to any target.”NEWLINEEquip 2			normal	IDC		

@@ -1,1 +1,0 @@
-﻿Reclaiming Growth	BG	uncommon	Creature – Plant 	190	BG	BG	When Reclaiming Growth enters, create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)NEWLINEWhen Reclaiming Growth dies, you may sacrifice an artifact. If you do, put Reclaiming Growth on top of its owner’s library.	2/1		normal	EMR		BG ArcunNEWLINEBG Sacrifice

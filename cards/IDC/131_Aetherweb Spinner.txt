@@ -1,1 +1,0 @@
-﻿Aetherweb Spinner	G	uncommon	Creature – Spider 	131	G	3G	ReachNEWLINEWhenever Aetherweb Spinner deals combat damage to a creature with flying, destroy that creature.	1/5		normal	IDC		

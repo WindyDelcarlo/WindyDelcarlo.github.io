@@ -1,1 +1,0 @@
-﻿Hunter of Eksta	G	common	Creature – Elf Scout 	163	G	2G	Relentless (Whenever this creature becomes untapped, it gets +1/+1 until end of turn.)NEWLINETrample	3/3		normal	EMR		

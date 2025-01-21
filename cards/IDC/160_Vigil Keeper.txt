@@ -1,1 +1,0 @@
-﻿Vigil Keeper	G	common	Creature – Elf Warrior 	160	G	1G	VigilanceNEWLINEVigil Keeper can’t attack unless you control three or more creatures.	3/3		normal	IDC		GW

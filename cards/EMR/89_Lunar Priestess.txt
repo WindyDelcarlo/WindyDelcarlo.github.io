@@ -1,1 +1,0 @@
-﻿Lunar Priestess	B	uncommon	Creature – Human Cleric 	89	B	1B	T, Sacrifice another creature or artifact: Add CC.	1/1		normal	EMR		CB ArcunNEWLINECrats, but with artifacts.

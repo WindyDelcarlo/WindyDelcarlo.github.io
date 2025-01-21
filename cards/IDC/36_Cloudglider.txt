@@ -1,1 +1,0 @@
-﻿Cloudglider	U	uncommon	Creature – Human Scout 	36	U	3U	Flash, flyingNEWLINEWhen Cloudglider enters the battlefield, untap another target creature you control.	3/2		normal	IDC		

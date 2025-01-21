@@ -1,1 +1,0 @@
-﻿Under the Empire's New Light	B	uncommon	Sorcery	102	B	B	As an additional cost to cast Under the Empire’s New Light, you may sacrifice an artifact.NEWLINEDestroy target creature if its mana value is 2 or less or if you sacrificed an artifact to cast Under the Empire’s New Light.			normal	EMR		

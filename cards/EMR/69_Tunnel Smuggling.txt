@@ -1,1 +1,0 @@
-﻿Tunnel Smuggling	U	rare	Sorcery	69	U	XU	Gain control of target artifact with mana value X or less. If it’s an Equipment, you may attach it to a creature you control.			normal	EMR		

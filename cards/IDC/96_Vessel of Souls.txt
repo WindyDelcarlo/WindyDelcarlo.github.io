@@ -1,1 +1,0 @@
-﻿Vessel of Souls	B	common	Creature – Skeleton Wizard 	96	B	2B	When Vessel of Souls enters the battlefield, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.	2/1		normal	IDC		

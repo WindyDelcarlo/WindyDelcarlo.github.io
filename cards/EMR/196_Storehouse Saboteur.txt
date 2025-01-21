@@ -1,1 +1,0 @@
-﻿Storehouse Saboteur	BR	uncommon	Creature – Human Rebel 	196	BR	2BR	When Storehouse Saboteur enters, create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)NEWLINEWhen Storehouse Saboteur dies, you may sacrifice any number of artifacts. When you do, it deals that much damage to target creature or planeswalker.	4/3		normal	EMR		Cell Generation, Removal

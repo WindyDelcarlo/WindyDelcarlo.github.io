@@ -1,1 +1,0 @@
-﻿Adaptive Terrains		common	Land	206	C		T, Sacrifice Adaptive Terrains: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.			normal	IDC		

@@ -1,1 +1,0 @@
-﻿Energy Crystals		rare	Artifact	194	C	3	T: Add one mana of any color.NEWLINE2, T, Sacrifice Energy Crystals: Draw a card.			normal	IDC		

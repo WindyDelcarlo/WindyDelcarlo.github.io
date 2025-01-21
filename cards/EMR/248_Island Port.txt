@@ -1,1 +1,0 @@
-﻿Island Port		rare	Land	248	UG		Island Port enters tapped.NEWLINEWhen Island Port enters, add C.NEWLINET: Add G or U.			normal	EMR		

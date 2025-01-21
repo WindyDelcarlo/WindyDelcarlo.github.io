@@ -1,1 +1,0 @@
-﻿Fleeting Stormling	R	common	Creature – Elemental 	120	R	1R	When Fleeting Stormling enters or dies, create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)	1/1		normal	EMR		Cell Generation

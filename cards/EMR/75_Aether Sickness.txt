@@ -1,1 +1,0 @@
-﻿Aether Sickness	B	common	Enchantment – Aura 	75	B	1B	Enchant creatureNEWLINEEnchanted creature gets -1/-1 and can’t block.NEWLINEAt the beginning of enchanted creature’s controller’s upkeep, that player loses 1 life.			normal	EMR		

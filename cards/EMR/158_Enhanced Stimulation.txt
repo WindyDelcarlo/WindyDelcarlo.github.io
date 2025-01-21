@@ -1,1 +1,0 @@
-﻿Enhanced Stimulation	G	uncommon	Sorcery	158	G	3G	Search your library for two basic land cards and reveal them. Put one onto the battlefield tapped, one into your hand, create an Energy Cell token, then shuffle. (It’s an artifact with “T, Sacrifice this: Add C.”)			normal	EMR		Cell Generation

@@ -1,1 +1,0 @@
-﻿Heavy Industry	R	rare	Enchantment	122	R	2RR	At the beginning of your upkeep, create a 1/1 Servo artifact creature token.NEWLINEAt the beginning of your end step, if you control three or more artifacts, put an industry counter on Heavy Industry.NEWLINECreatures you control get +1/+0 for each industry counter on Heavy Industry.			normal	EMR		

@@ -1,1 +1,0 @@
-﻿Natural Preservation	G	uncommon	Sorcery	166	G	2G	Choose one or both–NEWLINE•  Search your library for a land card, reveal it, put it into your hand, then shuffle.NEWLINE•  Return target nonartifact permanent card from your graveyard to your hand.			normal	EMR		

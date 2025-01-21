@@ -1,1 +1,0 @@
-﻿High Priestess of Eksta	B	mythic	Creature – Human Cleric 	86	B	2BB	Whenever one or more creatures you control deal combat damage to a player, you may pay X life. When you do, return target non-Cleric creature card with mana value X from your graveyard to the battlefield tapped.	3/2		normal	EMR		High Priest of I Forget Her Name

@@ -1,1 +1,0 @@
-﻿Empathic Song	R	common	Sorcery	116	R	3R	Gain control of target creature. Untap it. It gains haste until end of turn.NEWLINEAethercast – If CC was spent to cast this spell, that creature gets +2/+0 and gains trample until end of turn. 			normal	EMR		

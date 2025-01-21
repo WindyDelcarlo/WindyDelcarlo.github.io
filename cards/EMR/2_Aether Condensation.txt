@@ -1,1 +1,0 @@
-﻿Aether Condensation	W	common	Sorcery	2	W	2W	Create two 1/1 white Elemental creature tokens with lifelink and an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)			normal	EMR		Cell Generation

@@ -1,1 +1,0 @@
-﻿Mist Stalker	UG	uncommon	Creature – Beast Rogue 	176	UG	GU	Mist Stalker can’t be blocked.NEWLINEWhenever Mist Stalker deals combat damage to a player, you may untap target creature.	2/1		normal	IDC		

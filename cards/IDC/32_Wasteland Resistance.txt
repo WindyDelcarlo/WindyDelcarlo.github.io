@@ -1,1 +1,0 @@
-﻿Wasteland Resistance	W	common	Creature – Human Survivor 	32	W	2W	When Wasteland Resistance enters the battlefield, you may destroy up to one target enchantment. If you do, you gain life equal to its converted mana cost.	2/2		normal	IDC		WB

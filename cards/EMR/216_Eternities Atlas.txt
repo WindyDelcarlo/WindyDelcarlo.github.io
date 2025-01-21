@@ -1,1 +1,0 @@
-﻿Eternities Atlas		common	Artifact	216	C	2	Whenever equipped creature attacks, look at the top card of your library. If it’s a land card, put it onto the battlefield. If you don’t, you may put it into your graveyard.NEWLINEEquip 2			normal	EMR		

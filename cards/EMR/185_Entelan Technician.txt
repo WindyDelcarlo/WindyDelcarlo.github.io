@@ -1,1 +1,0 @@
-﻿Entelan Technician	UR	uncommon	Creature – Human Artificer 	185	UR	2UR	Whenever one or more creatures you control deal combat damage to a player, create an Energy Cell token. (It’s an artifact with “T, Sacrifice this: Add C.”)NEWLINESacrifice three artifacts: Draw a card.	3/2		normal	EMR		UR ArcunNEWLINEEnergy Cells!

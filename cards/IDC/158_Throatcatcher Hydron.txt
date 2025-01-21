@@ -1,1 +1,0 @@
-﻿Throatcatcher Hydron	G	common	Creature – Beast 	158	G	2G	TrampleNEWLINE3G: Throatcatcher Hydron gets +2/+2 until end of turn. Activate this ability only once each turn.	3/2		normal	IDC		GU

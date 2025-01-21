@@ -1,1 +1,0 @@
-﻿Illuminate Geist	W	common	Creature – Spirit Wizard 	9	W	4W	Whenever Impairment Mage enters the battlefield or attacks, exile target creature, then return it to the battlefield tapped under its owner’s control.	3/4		normal	IDC		

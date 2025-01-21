@@ -1,1 +1,0 @@
-﻿Genesis Crafter	G	rare	Creature – Human Druid 	136	G	2G	2G, Exile a creature card from your graveyard: Put a +1/+1 counter on Genesis Crafter. Create a 1/1 green Saproling creature token.	2/2		normal	IDC		BG

@@ -1,1 +1,0 @@
-﻿Shifting Cycle	RG	rare	Sorcery	182	RG	1RG	Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Shifting Cycle deals damage equal to the number of lands you control to target creature.			normal	IDC		

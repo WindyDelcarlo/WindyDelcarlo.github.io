@@ -1,1 +1,0 @@
-﻿Sudden Vigor	G	common	Instant	157	G	5G	Cooperation (Any player may spend mana to pay for 5.)NEWLINECreatures target player controls get +2/+2 until end of turn.			normal	IDC		BG

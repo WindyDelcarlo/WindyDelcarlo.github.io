@@ -1,1 +1,0 @@
-﻿Interplanar Security	W	common	Enchantment – Development 	11	W	1W	Whenever a player develops Interplanar Security, each player who developed it creates a 1/1 white Soldier creature token.NEWLINEDevelop 4–2 (2: Note your name and put a development counter on this. Any player may develop this as a sorcery if there are fewer than four counters on this.)			normal	IDC		GW

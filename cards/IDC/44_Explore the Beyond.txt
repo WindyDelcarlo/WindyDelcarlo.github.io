@@ -1,1 +1,0 @@
-﻿Explore the Beyond	U	common	Sorcery	44	U	1U	As an additional cost to cast Explore the Beyond, return a creature you control to its owner’s hand.NEWLINEDraw two cards.			normal	IDC		GU

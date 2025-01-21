@@ -1,1 +1,0 @@
-﻿Brush Ambush	G	common	Sorcery	155	G	1G	Target creature you control gets +1/+1 until end of turn. It fights up to one target creature you don’t control.			normal	EMR		Fight spell; From the Forest

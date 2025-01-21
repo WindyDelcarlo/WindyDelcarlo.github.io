@@ -1,1 +1,0 @@
-﻿Aim High	G	common	Instant	152	G	1G	Untap target creature. It gets +2/+2 and gains reach until end of turn.			normal	EMR		

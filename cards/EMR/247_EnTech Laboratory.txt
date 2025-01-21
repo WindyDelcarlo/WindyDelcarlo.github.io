@@ -1,1 +1,0 @@
-﻿EnTech Laboratory		rare	Land	247	UR		EnTech Laboratory enters tapped.NEWLINEWhen EnTech Laboratory enters, add C.NEWLINET: Add U or R.			normal	EMR		Entech Laboratory

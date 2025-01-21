@@ -1,1 +1,0 @@
-﻿Sleeper Guerilla	B	uncommon	Creature – Human Soldier 	96	B	1B	Relentless (Whenever this creature becomes untapped, it gets +1/+1 until end of turn.)NEWLINEWhenever a token leaves the battlefield, you may pay 2 life. If you do, untap Sleeper Guerilla.	1/2		normal	EMR		

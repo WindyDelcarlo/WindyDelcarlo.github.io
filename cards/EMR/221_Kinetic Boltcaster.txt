@@ -1,1 +1,0 @@
-﻿Kinetic Boltcaster		rare	Artifact – Equipment 	221	C	3	Kinetic Boltcaster enters with three ammunition counters on it.NEWLINEEquipped creature has first strike.NEWLINERemove an ammunition counter from Kinetic Boltcaster: Equipped creature gets +2/+0 until end of turn.NEWLINEEquip 2			normal	EMR		

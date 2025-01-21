@@ -1,1 +1,0 @@
-﻿Ask for Aid	R	common	Sorcery	100	R	1R	Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. When that creature dies this turn, it deals 3 damage to you.			normal	IDC		BR

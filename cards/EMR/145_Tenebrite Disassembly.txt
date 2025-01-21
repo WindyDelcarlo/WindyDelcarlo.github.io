@@ -1,1 +1,0 @@
-﻿Tenebrite Disassembly	R	common	Instant	145	R	2R	Analytics R (You may cast this spell for its analytics cost if you’ve cast a noncreature spell this turn.)NEWLINEDestroy target artifact. Tenebrite Disassembly deals 3 damage to that artifact’s controller.			normal	EMR		

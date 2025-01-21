@@ -1,1 +1,0 @@
-﻿EnTech Transceiver		uncommon	Artifact – Equipment 	215	C	1	Whenever equipped creature attacks, surveil 1, then untap a permanent you control. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)NEWLINEEquip 2			normal	EMR		

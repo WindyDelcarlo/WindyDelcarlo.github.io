@@ -1,1 +1,0 @@
-﻿Aether Shade	B	uncommon	Creature – Elemental Shade 	74	B	3B	Whenever a token you controlled leaves the battlefield, each opponent loses 1 life and you gain 1 life.NEWLINEC: Aether Shade gets +1/+1 until end of turn.	3/4		normal	EMR		

@@ -1,1 +1,0 @@
-﻿Entelan Scrapsmith	R	common	Creature – Human Artificer 	117	R	3R	TrampleNEWLINEWhenever you cast a noncreature spell, put a +1/+1 counter on Entelan Scrapsmith.	3/4		normal	EMR		
